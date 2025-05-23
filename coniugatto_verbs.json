@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 1.1,
-    "last_updated": "2025-05-23 12:31:09",
+    "version": 1.2,
+    "last_updated": "2025-05-23 15:07:25",
     "min_app_version": "0.3.1",
     "languages": [
       "italian",
@@ -4587,7 +4587,8 @@
         "using -isc-"
       ],
       "auxiliaries": [
-        "avere"
+        "avere",
+        "essere"
       ],
       "conjugations": {
         "indicativo": {
@@ -7449,7 +7450,8 @@
         "past participle"
       ],
       "auxiliaries": [
-        "avere"
+        "avere",
+        "essere"
       ],
       "conjugations": {
         "indicativo": {
@@ -7735,7 +7737,8 @@
         "past participle"
       ],
       "auxiliaries": [
-        "avere"
+        "avere",
+        "essere"
       ],
       "conjugations": {
         "indicativo": {
@@ -8879,7 +8882,8 @@
         "past participle"
       ],
       "auxiliaries": [
-        "avere"
+        "avere",
+        "essere"
       ],
       "conjugations": {
         "indicativo": {
@@ -25187,6 +25191,863 @@
         "italian": "piangendo",
         "english": "crying",
         "german": "weinend"
+      }
+    },
+    {
+      "infinitive": {
+        "italian": "valere",
+        "english": "to be worth",
+        "german": "wert sein, gelten"
+      },
+      "regularity": "irregular",
+      "irregularities": [
+        "stem change"
+      ],
+      "auxiliaries": [
+        "avere",
+        "essere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "valgo",
+              "english": "am worth",
+              "german": "bin wert"
+            },
+            "tu": {
+              "italian": "vali",
+              "english": "are worth",
+              "german": "bist wert"
+            },
+            "lui/lei": {
+              "italian": "vale",
+              "english": "is worth",
+              "german": "ist wert"
+            },
+            "noi": {
+              "italian": "valiamo",
+              "english": "are worth",
+              "german": "sind wert"
+            },
+            "voi": {
+              "italian": "valete",
+              "english": "are worth",
+              "german": "seid wert"
+            },
+            "loro": {
+              "italian": "valgono",
+              "english": "are worth",
+              "german": "sind wert"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "valevo",
+              "english": "used to be worth",
+              "german": "war wert"
+            },
+            "tu": {
+              "italian": "valevi",
+              "english": "used to be worth",
+              "german": "warst wert"
+            },
+            "lui/lei": {
+              "italian": "valeva",
+              "english": "used to be worth",
+              "german": "war wert"
+            },
+            "noi": {
+              "italian": "valevamo",
+              "english": "used to be worth",
+              "german": "waren wert"
+            },
+            "voi": {
+              "italian": "valevate",
+              "english": "used to be worth",
+              "german": "wart wert"
+            },
+            "loro": {
+              "italian": "valevano",
+              "english": "used to be worth",
+              "german": "waren wert"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "valsi",
+              "english": "was worth",
+              "german": "war wert"
+            },
+            "tu": {
+              "italian": "valesti",
+              "english": "were worth",
+              "german": "warst wert"
+            },
+            "lui/lei": {
+              "italian": "valse",
+              "english": "was worth",
+              "german": "war wert"
+            },
+            "noi": {
+              "italian": "valemmo",
+              "english": "were worth",
+              "german": "waren wert"
+            },
+            "voi": {
+              "italian": "valeste",
+              "english": "were worth",
+              "german": "wart wert"
+            },
+            "loro": {
+              "italian": "valsero",
+              "english": "were worth",
+              "german": "waren wert"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "varrò",
+              "english": "will be worth",
+              "german": "werde wert sein"
+            },
+            "tu": {
+              "italian": "varrai",
+              "english": "will be worth",
+              "german": "wirst wert sein"
+            },
+            "lui/lei": {
+              "italian": "varrà",
+              "english": "will be worth",
+              "german": "wird wert sein"
+            },
+            "noi": {
+              "italian": "varremo",
+              "english": "will be worth",
+              "german": "werden wert sein"
+            },
+            "voi": {
+              "italian": "varrete",
+              "english": "will be worth",
+              "german": "werdet wert sein"
+            },
+            "loro": {
+              "italian": "varranno",
+              "english": "will be worth",
+              "german": "werden wert sein"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "valga",
+              "english": "be worth",
+              "german": "sei wert"
+            },
+            "tu": {
+              "italian": "valga",
+              "english": "be worth",
+              "german": "seist wert"
+            },
+            "lui/lei": {
+              "italian": "valga",
+              "english": "be worth",
+              "german": "sei wert"
+            },
+            "noi": {
+              "italian": "valiamo",
+              "english": "be worth",
+              "german": "seien wert"
+            },
+            "voi": {
+              "italian": "valiate",
+              "english": "be worth",
+              "german": "seiet wert"
+            },
+            "loro": {
+              "italian": "valgano",
+              "english": "be worth",
+              "german": "seien wert"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "valessi",
+              "english": "were worth",
+              "german": "wäre wert"
+            },
+            "tu": {
+              "italian": "valessi",
+              "english": "were worth",
+              "german": "wärst wert"
+            },
+            "lui/lei": {
+              "italian": "valesse",
+              "english": "were worth",
+              "german": "wäre wert"
+            },
+            "noi": {
+              "italian": "valessimo",
+              "english": "were worth",
+              "german": "wären wert"
+            },
+            "voi": {
+              "italian": "valeste",
+              "english": "were worth",
+              "german": "wärt wert"
+            },
+            "loro": {
+              "italian": "valessero",
+              "english": "were worth",
+              "german": "wären wert"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "varrei",
+              "english": "would be worth",
+              "german": "würde wert sein"
+            },
+            "tu": {
+              "italian": "varresti",
+              "english": "would be worth",
+              "german": "würdest wert sein"
+            },
+            "lui/lei": {
+              "italian": "varrebbe",
+              "english": "would be worth",
+              "german": "würde wert sein"
+            },
+            "noi": {
+              "italian": "varremmo",
+              "english": "would be worth",
+              "german": "würden wert sein"
+            },
+            "voi": {
+              "italian": "varreste",
+              "english": "would be worth",
+              "german": "würdet wert sein"
+            },
+            "loro": {
+              "italian": "varrebbero",
+              "english": "would be worth",
+              "german": "würden wert sein"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "vali",
+              "english": "be worth!",
+              "german": "sei wert!"
+            },
+            "lui/lei": {
+              "italian": "valga",
+              "english": "be worth!",
+              "german": "sei wert!"
+            },
+            "noi": {
+              "italian": "valiamo",
+              "english": "let's be worth!",
+              "german": "seien wir wert!"
+            },
+            "voi": {
+              "italian": "valete",
+              "english": "be worth!",
+              "german": "seid wert!"
+            },
+            "loro": {
+              "italian": "valgano",
+              "english": "be worth!",
+              "german": "seien Sie wert!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "valso",
+        "english": "been worth",
+        "german": "wert gewesen"
+      },
+      "gerundio_presente": {
+        "italian": "valendo",
+        "english": "being worth",
+        "german": "wert seiend"
+      }
+    },
+    {
+      "infinitive": {
+        "italian": "passare",
+        "english": "to pass, to spend time",
+        "german": "vorbeigehen, verbringen"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere",
+        "essere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "passo",
+              "english": "pass",
+              "german": "gehe vorbei"
+            },
+            "tu": {
+              "italian": "passi",
+              "english": "pass",
+              "german": "gehst vorbei"
+            },
+            "lui/lei": {
+              "italian": "passa",
+              "english": "passes",
+              "german": "geht vorbei"
+            },
+            "noi": {
+              "italian": "passiamo",
+              "english": "pass",
+              "german": "gehen vorbei"
+            },
+            "voi": {
+              "italian": "passate",
+              "english": "pass",
+              "german": "geht vorbei"
+            },
+            "loro": {
+              "italian": "passano",
+              "english": "pass",
+              "german": "gehen vorbei"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "passavo",
+              "english": "used to pass",
+              "german": "ging vorbei"
+            },
+            "tu": {
+              "italian": "passavi",
+              "english": "used to pass",
+              "german": "gingst vorbei"
+            },
+            "lui/lei": {
+              "italian": "passava",
+              "english": "used to pass",
+              "german": "ging vorbei"
+            },
+            "noi": {
+              "italian": "passavamo",
+              "english": "used to pass",
+              "german": "gingen vorbei"
+            },
+            "voi": {
+              "italian": "passavate",
+              "english": "used to pass",
+              "german": "gingt vorbei"
+            },
+            "loro": {
+              "italian": "passavano",
+              "english": "used to pass",
+              "german": "gingen vorbei"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "passai",
+              "english": "passed",
+              "german": "ging vorbei"
+            },
+            "tu": {
+              "italian": "passasti",
+              "english": "passed",
+              "german": "gingst vorbei"
+            },
+            "lui/lei": {
+              "italian": "passò",
+              "english": "passed",
+              "german": "ging vorbei"
+            },
+            "noi": {
+              "italian": "passammo",
+              "english": "passed",
+              "german": "gingen vorbei"
+            },
+            "voi": {
+              "italian": "passaste",
+              "english": "passed",
+              "german": "gingt vorbei"
+            },
+            "loro": {
+              "italian": "passarono",
+              "english": "passed",
+              "german": "gingen vorbei"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "passerò",
+              "english": "will pass",
+              "german": "werde vorbeigehen"
+            },
+            "tu": {
+              "italian": "passerai",
+              "english": "will pass",
+              "german": "wirst vorbeigehen"
+            },
+            "lui/lei": {
+              "italian": "passerà",
+              "english": "will pass",
+              "german": "wird vorbeigehen"
+            },
+            "noi": {
+              "italian": "passeremo",
+              "english": "will pass",
+              "german": "werden vorbeigehen"
+            },
+            "voi": {
+              "italian": "passerete",
+              "english": "will pass",
+              "german": "werdet vorbeigehen"
+            },
+            "loro": {
+              "italian": "passeranno",
+              "english": "will pass",
+              "german": "werden vorbeigehen"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "passi",
+              "english": "pass",
+              "german": "gehe vorbei"
+            },
+            "tu": {
+              "italian": "passi",
+              "english": "pass",
+              "german": "gehest vorbei"
+            },
+            "lui/lei": {
+              "italian": "passi",
+              "english": "pass",
+              "german": "gehe vorbei"
+            },
+            "noi": {
+              "italian": "passiamo",
+              "english": "pass",
+              "german": "gehen vorbei"
+            },
+            "voi": {
+              "italian": "passiate",
+              "english": "pass",
+              "german": "gehet vorbei"
+            },
+            "loro": {
+              "italian": "passino",
+              "english": "pass",
+              "german": "gehen vorbei"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "passassi",
+              "english": "passed",
+              "german": "ginge vorbei"
+            },
+            "tu": {
+              "italian": "passassi",
+              "english": "passed",
+              "german": "gingest vorbei"
+            },
+            "lui/lei": {
+              "italian": "passasse",
+              "english": "passed",
+              "german": "ginge vorbei"
+            },
+            "noi": {
+              "italian": "passassimo",
+              "english": "passed",
+              "german": "gingen vorbei"
+            },
+            "voi": {
+              "italian": "passaste",
+              "english": "passed",
+              "german": "ginget vorbei"
+            },
+            "loro": {
+              "italian": "passassero",
+              "english": "passed",
+              "german": "gingen vorbei"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "passerei",
+              "english": "would pass",
+              "german": "würde vorbeigehen"
+            },
+            "tu": {
+              "italian": "passeresti",
+              "english": "would pass",
+              "german": "würdest vorbeigehen"
+            },
+            "lui/lei": {
+              "italian": "passerebbe",
+              "english": "would pass",
+              "german": "würde vorbeigehen"
+            },
+            "noi": {
+              "italian": "passeremmo",
+              "english": "would pass",
+              "german": "würden vorbeigehen"
+            },
+            "voi": {
+              "italian": "passereste",
+              "english": "would pass",
+              "german": "würdet vorbeigehen"
+            },
+            "loro": {
+              "italian": "passerebbero",
+              "english": "would pass",
+              "german": "würden vorbeigehen"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "passa",
+              "english": "pass!",
+              "german": "geh vorbei!"
+            },
+            "lui/lei": {
+              "italian": "passi",
+              "english": "pass!",
+              "german": "gehe vorbei!"
+            },
+            "noi": {
+              "italian": "passiamo",
+              "english": "let's pass!",
+              "german": "gehen wir vorbei!"
+            },
+            "voi": {
+              "italian": "passate",
+              "english": "pass!",
+              "german": "geht vorbei!"
+            },
+            "loro": {
+              "italian": "passino",
+              "english": "pass!",
+              "german": "gehen Sie vorbei!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "passato",
+        "english": "passed",
+        "german": "vorbeigegangen"
+      },
+      "gerundio_presente": {
+        "italian": "passando",
+        "english": "passing",
+        "german": "vorbeigehend"
+      }
+    },
+    {
+      "infinitive": {
+        "italian": "servire",
+        "english": "to serve, to be necessary",
+        "german": "dienen, benötigen"
+      },
+      "regularity": "irregular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere",
+        "essere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "servo",
+              "english": "serve",
+              "german": "diene"
+            },
+            "tu": {
+              "italian": "servi",
+              "english": "serve",
+              "german": "dienst"
+            },
+            "lui/lei": {
+              "italian": "serve",
+              "english": "serves / is needed",
+              "german": "dient / wird benötigt"
+            },
+            "noi": {
+              "italian": "serviamo",
+              "english": "serve",
+              "german": "dienen"
+            },
+            "voi": {
+              "italian": "servite",
+              "english": "serve",
+              "german": "dient"
+            },
+            "loro": {
+              "italian": "servono",
+              "english": "serve / are needed",
+              "german": "dienen / werden benötigt"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "servivo",
+              "english": "used to serve",
+              "german": "diente"
+            },
+            "tu": {
+              "italian": "servivi",
+              "english": "used to serve",
+              "german": "dientest"
+            },
+            "lui/lei": {
+              "italian": "serviva",
+              "english": "used to serve / was needed",
+              "german": "diente / wurde benötigt"
+            },
+            "noi": {
+              "italian": "servivamo",
+              "english": "used to serve",
+              "german": "dienten"
+            },
+            "voi": {
+              "italian": "servivate",
+              "english": "used to serve",
+              "german": "dientet"
+            },
+            "loro": {
+              "italian": "servivano",
+              "english": "used to serve / were needed",
+              "german": "dienten / wurden benötigt"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "servii",
+              "english": "served",
+              "german": "diente"
+            },
+            "tu": {
+              "italian": "servisti",
+              "english": "served",
+              "german": "dientest"
+            },
+            "lui/lei": {
+              "italian": "servì",
+              "english": "served / was needed",
+              "german": "diente / wurde benötigt"
+            },
+            "noi": {
+              "italian": "servimmo",
+              "english": "served",
+              "german": "dienten"
+            },
+            "voi": {
+              "italian": "serviste",
+              "english": "served",
+              "german": "dientet"
+            },
+            "loro": {
+              "italian": "servirono",
+              "english": "served / were needed",
+              "german": "dienten / wurden benötigt"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "servirò",
+              "english": "will serve",
+              "german": "werde dienen"
+            },
+            "tu": {
+              "italian": "servirai",
+              "english": "will serve",
+              "german": "wirst dienen"
+            },
+            "lui/lei": {
+              "italian": "servirà",
+              "english": "will serve / will be needed",
+              "german": "wird dienen / wird benötigt"
+            },
+            "noi": {
+              "italian": "serviremo",
+              "english": "will serve",
+              "german": "werden dienen"
+            },
+            "voi": {
+              "italian": "servirete",
+              "english": "will serve",
+              "german": "werdet dienen"
+            },
+            "loro": {
+              "italian": "serviranno",
+              "english": "will serve / will be needed",
+              "german": "werden dienen / werden benötigt"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "serva",
+              "english": "serve",
+              "german": "diene"
+            },
+            "tu": {
+              "italian": "serva",
+              "english": "serve",
+              "german": "dienst"
+            },
+            "lui/lei": {
+              "italian": "serva",
+              "english": "serve / be needed",
+              "german": "diene / werde benötigt"
+            },
+            "noi": {
+              "italian": "serviamo",
+              "english": "serve",
+              "german": "dienen"
+            },
+            "voi": {
+              "italian": "serviate",
+              "english": "serve",
+              "german": "dient"
+            },
+            "loro": {
+              "italian": "servano",
+              "english": "serve / be needed",
+              "german": "dienen / werden benötigt"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "servissi",
+              "english": "served",
+              "german": "diente"
+            },
+            "tu": {
+              "italian": "servissi",
+              "english": "served",
+              "german": "dientest"
+            },
+            "lui/lei": {
+              "italian": "servisse",
+              "english": "served / were needed",
+              "german": "diente / würde benötigt"
+            },
+            "noi": {
+              "italian": "servissimo",
+              "english": "served",
+              "german": "dienten"
+            },
+            "voi": {
+              "italian": "serviste",
+              "english": "served",
+              "german": "dientet"
+            },
+            "loro": {
+              "italian": "servissero",
+              "english": "served / were needed",
+              "german": "dienten / würden benötigt"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "servirei",
+              "english": "would serve",
+              "german": "würde dienen"
+            },
+            "tu": {
+              "italian": "serviresti",
+              "english": "would serve",
+              "german": "würdest dienen"
+            },
+            "lui/lei": {
+              "italian": "servirebbe",
+              "english": "would serve / would be needed",
+              "german": "würde dienen / würde benötigt"
+            },
+            "noi": {
+              "italian": "serviremmo",
+              "english": "would serve",
+              "german": "würden dienen"
+            },
+            "voi": {
+              "italian": "servireste",
+              "english": "would serve",
+              "german": "würdet dienen"
+            },
+            "loro": {
+              "italian": "servirebbero",
+              "english": "would serve / would be needed",
+              "german": "würden dienen / würden benötigt"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "servi",
+              "english": "serve!",
+              "german": "diene!"
+            },
+            "lui/lei": {
+              "italian": "serva",
+              "english": "serve!",
+              "german": "diene!"
+            },
+            "noi": {
+              "italian": "serviamo",
+              "english": "let's serve!",
+              "german": "dienen wir!"
+            },
+            "voi": {
+              "italian": "servite",
+              "english": "serve!",
+              "german": "dient!"
+            },
+            "loro": {
+              "italian": "servano",
+              "english": "serve!",
+              "german": "dienen Sie!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "servito",
+        "english": "served",
+        "german": "gedient"
+      },
+      "gerundio_presente": {
+        "italian": "servendo",
+        "english": "serving",
+        "german": "dienend"
       }
     }
   ]

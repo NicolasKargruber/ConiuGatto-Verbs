@@ -32,7 +32,7 @@ def is_valid_verb_structure(verb):
         assert all(lang in verb["gerundio_presente"] for lang in supported_languages), "gerundio_presente"
         #assert all(lang in verb["gerundio_presente"] for lang in ["italian", "english", "german"]), "gerundio_presente"
         return True
-    except (AssertionError, KeyError) as e:
+    except Exception as e:
         print("Verb: " + verb["infinitive"]["italian"])
         print(f"Assertion failed: {e}")
         return False
