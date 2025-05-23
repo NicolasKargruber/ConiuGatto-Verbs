@@ -40,31 +40,39 @@ Contains all verb entries with complete conjugation data.
 
 ```json
 {
-  "id": "verb_infinitive",
+  "id": "salire",
   "infinitive": {
-    "it": "italian",
-    "en": "english",
-    "de": "german"
+    "italian": "salire",
+    "english": "to go up",
+    "german": "steigen"
   },
   "auxiliary": ["avere", "essere"],
-  "irregularities": ["stem change", "past participle", ...],
+  "irregularities": ["spelling change", "stem change", "past participle", "present gerund", "using -isc-"],
   "conjugations": {
-    "mood": {
-      "tense": {
-        "pronoun": {
-          "it": "Italian",
-          "en": "English",
-          "de": "German",
-          ...
-          (more translations)
-        }
-      },
-      ...
-      (more tenses)
-    },
-    ...
-    (more moods)
-  }
+       "indicativo": {
+         "presente": {
+           "io": {"italian": "salgo", "english": "go up"},
+           "tu": {"italian": "sali", "english": "go up"},
+           "lui/lei": {"italian": "sale", "english": "goes up"},
+           "noi": {"italian": "saliamo", "english": "go up"},
+           "voi": {"italian": "salite", "english": "go up"},
+           "loro": {"italian": "salgono", "english": "go up"}
+         },
+         "imperfetto": {},
+         "passato_remoto": {},
+         "futuro_semplice": {}
+       },
+       "congiuntivo": {
+         "presente": {},
+         "imperfetto": {}
+       },
+       "condizionale": {
+         "presente": {}
+       },
+       "imperativo": {
+         "positivo": {}
+       }
+     }
 }
 ```
 
