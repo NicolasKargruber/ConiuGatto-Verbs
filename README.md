@@ -15,9 +15,9 @@ This repository contains a structured JSON database of Italian verb conjugations
     "version": 1.0,
     "last_updated": "2025-05-121 09:06:00",
     "min_app_version": "0.3.1",
-    "languages": ["it", "en", "de", "es"]
+    "languages": ["italian", "english", "german", "spanish"]
   },
-  "verbs": [ ]
+  "verbs": []
 }
 ```
 
