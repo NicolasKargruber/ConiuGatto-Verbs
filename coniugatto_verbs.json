@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 1.3,
-    "last_updated": "2025-05-27 15:22:12",
+    "version": 1.4,
+    "last_updated": "2025-05-28 00:03:02",
     "min_app_version": "0.3.1",
     "languages": [
       "italian",
@@ -28381,6 +28381,4696 @@
         "english": "jumping",
         "german": "springend",
         "spanish": "saltando"
+      }
+    },
+    {
+      "id": "arrivare",
+      "infinitive": {
+        "italian": "arrivare",
+        "english": "to arrive",
+        "german": "ankommen",
+        "spanish": "llegar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "essere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "arrivo",
+              "english": "arrive",
+              "german": "komme an",
+              "spanish": "llego"
+            },
+            "tu": {
+              "italian": "arrivi",
+              "english": "arrive",
+              "german": "kommst an",
+              "spanish": "llegas"
+            },
+            "lui/lei": {
+              "italian": "arriva",
+              "english": "arrives",
+              "german": "kommt an",
+              "spanish": "llega"
+            },
+            "noi": {
+              "italian": "arriviamo",
+              "english": "arrive",
+              "german": "kommen an",
+              "spanish": "llegamos"
+            },
+            "voi": {
+              "italian": "arrivate",
+              "english": "arrive",
+              "german": "kommt an",
+              "spanish": "llegáis"
+            },
+            "loro": {
+              "italian": "arrivano",
+              "english": "arrive",
+              "german": "kommen an",
+              "spanish": "llegan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "arrivavo",
+              "english": "used to arrive",
+              "german": "kam an",
+              "spanish": "llegaba"
+            },
+            "tu": {
+              "italian": "arrivavi",
+              "english": "used to arrive",
+              "german": "kamst an",
+              "spanish": "llegabas"
+            },
+            "lui/lei": {
+              "italian": "arrivava",
+              "english": "used to arrive",
+              "german": "kam an",
+              "spanish": "llegaba"
+            },
+            "noi": {
+              "italian": "arrivavamo",
+              "english": "used to arrive",
+              "german": "kamen an",
+              "spanish": "llegábamos"
+            },
+            "voi": {
+              "italian": "arrivavate",
+              "english": "used to arrive",
+              "german": "kamt an",
+              "spanish": "llegabais"
+            },
+            "loro": {
+              "italian": "arrivavano",
+              "english": "used to arrive",
+              "german": "kamen an",
+              "spanish": "llegaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "arrivai",
+              "english": "arrived",
+              "german": "kam an",
+              "spanish": "llegué"
+            },
+            "tu": {
+              "italian": "arrivasti",
+              "english": "arrived",
+              "german": "kamst an",
+              "spanish": "llegaste"
+            },
+            "lui/lei": {
+              "italian": "arrivò",
+              "english": "arrived",
+              "german": "kam an",
+              "spanish": "llegó"
+            },
+            "noi": {
+              "italian": "arrivammo",
+              "english": "arrived",
+              "german": "kamen an",
+              "spanish": "llegamos"
+            },
+            "voi": {
+              "italian": "arrivaste",
+              "english": "arrived",
+              "german": "kamt an",
+              "spanish": "llegasteis"
+            },
+            "loro": {
+              "italian": "arrivarono",
+              "english": "arrived",
+              "german": "kamen an",
+              "spanish": "llegaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "arriverò",
+              "english": "will arrive",
+              "german": "werde ankommen",
+              "spanish": "llegaré"
+            },
+            "tu": {
+              "italian": "arriverai",
+              "english": "will arrive",
+              "german": "wirst ankommen",
+              "spanish": "llegarás"
+            },
+            "lui/lei": {
+              "italian": "arriverà",
+              "english": "will arrive",
+              "german": "wird ankommen",
+              "spanish": "llegará"
+            },
+            "noi": {
+              "italian": "arriveremo",
+              "english": "will arrive",
+              "german": "werden ankommen",
+              "spanish": "llegaremos"
+            },
+            "voi": {
+              "italian": "arriverete",
+              "english": "will arrive",
+              "german": "werdet ankommen",
+              "spanish": "llegaréis"
+            },
+            "loro": {
+              "italian": "arriveranno",
+              "english": "will arrive",
+              "german": "werden ankommen",
+              "spanish": "llegarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "arrivi",
+              "english": "arrive",
+              "german": "ankomme",
+              "spanish": "llegue"
+            },
+            "tu": {
+              "italian": "arrivi",
+              "english": "arrive",
+              "german": "ankommest",
+              "spanish": "llegues"
+            },
+            "lui/lei": {
+              "italian": "arrivi",
+              "english": "arrive",
+              "german": "ankomme",
+              "spanish": "llegue"
+            },
+            "noi": {
+              "italian": "arriviamo",
+              "english": "arrive",
+              "german": "ankommen",
+              "spanish": "lleguemos"
+            },
+            "voi": {
+              "italian": "arriviate",
+              "english": "arrive",
+              "german": "ankommet",
+              "spanish": "lleguéis"
+            },
+            "loro": {
+              "italian": "arrivino",
+              "english": "arrive",
+              "german": "ankommen",
+              "spanish": "lleguen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "arrivassi",
+              "english": "arrived",
+              "german": "ankäme",
+              "spanish": "llegara"
+            },
+            "tu": {
+              "italian": "arrivassi",
+              "english": "arrived",
+              "german": "ankämest",
+              "spanish": "llegaras"
+            },
+            "lui/lei": {
+              "italian": "arrivasse",
+              "english": "arrived",
+              "german": "ankäme",
+              "spanish": "llegara"
+            },
+            "noi": {
+              "italian": "arrivassimo",
+              "english": "arrived",
+              "german": "ankämen",
+              "spanish": "llegáramos"
+            },
+            "voi": {
+              "italian": "arrivaste",
+              "english": "arrived",
+              "german": "ankämet",
+              "spanish": "llegarais"
+            },
+            "loro": {
+              "italian": "arrivassero",
+              "english": "arrived",
+              "german": "ankämen",
+              "spanish": "llegaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "arriverei",
+              "english": "would arrive",
+              "german": "würde ankommen",
+              "spanish": "llegaría"
+            },
+            "tu": {
+              "italian": "arriveresti",
+              "english": "would arrive",
+              "german": "würdest ankommen",
+              "spanish": "llegarías"
+            },
+            "lui/lei": {
+              "italian": "arriverebbe",
+              "english": "would arrive",
+              "german": "würde ankommen",
+              "spanish": "llegaría"
+            },
+            "noi": {
+              "italian": "arriveremmo",
+              "english": "would arrive",
+              "german": "würden ankommen",
+              "spanish": "llegaríamos"
+            },
+            "voi": {
+              "italian": "arrivereste",
+              "english": "would arrive",
+              "german": "würdet ankommen",
+              "spanish": "llegaríais"
+            },
+            "loro": {
+              "italian": "arriverebbero",
+              "english": "would arrive",
+              "german": "würden ankommen",
+              "spanish": "llegarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "arriva",
+              "english": "arrive!",
+              "german": "komm an!",
+              "spanish": "¡llega!"
+            },
+            "lui/lei": {
+              "italian": "arrivi",
+              "english": "arrive!",
+              "german": "komme an!",
+              "spanish": "¡llegue!"
+            },
+            "noi": {
+              "italian": "arriviamo",
+              "english": "let's arrive!",
+              "german": "kommen wir an!",
+              "spanish": "¡lleguemos!"
+            },
+            "voi": {
+              "italian": "arrivate",
+              "english": "arrive!",
+              "german": "kommt an!",
+              "spanish": "¡llegad!"
+            },
+            "loro": {
+              "italian": "arrivino",
+              "english": "arrive!",
+              "german": "kommen Sie an!",
+              "spanish": "¡lleguen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "arrivato",
+        "english": "arrived",
+        "german": "angekommen",
+        "spanish": "llegado"
+      },
+      "gerundio_presente": {
+        "italian": "arrivando",
+        "english": "arriving",
+        "german": "ankommend",
+        "spanish": "llegando"
+      }
+    },
+    {
+      "id": "credere",
+      "infinitive": {
+        "italian": "credere",
+        "english": "to believe",
+        "german": "glauben",
+        "spanish": "creer"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "credo",
+              "english": "believe",
+              "german": "glaube",
+              "spanish": "creo"
+            },
+            "tu": {
+              "italian": "credi",
+              "english": "believe",
+              "german": "glaubst",
+              "spanish": "crees"
+            },
+            "lui/lei": {
+              "italian": "crede",
+              "english": "believes",
+              "german": "glaubt",
+              "spanish": "cree"
+            },
+            "noi": {
+              "italian": "crediamo",
+              "english": "believe",
+              "german": "glauben",
+              "spanish": "creemos"
+            },
+            "voi": {
+              "italian": "credete",
+              "english": "believe",
+              "german": "glaubt",
+              "spanish": "creéis"
+            },
+            "loro": {
+              "italian": "credono",
+              "english": "believe",
+              "german": "glauben",
+              "spanish": "creen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "credevo",
+              "english": "used to believe",
+              "german": "glaubte",
+              "spanish": "creía"
+            },
+            "tu": {
+              "italian": "credevi",
+              "english": "used to believe",
+              "german": "glaubtest",
+              "spanish": "creías"
+            },
+            "lui/lei": {
+              "italian": "credeva",
+              "english": "used to believe",
+              "german": "glaubte",
+              "spanish": "creía"
+            },
+            "noi": {
+              "italian": "credevamo",
+              "english": "used to believe",
+              "german": "glaubten",
+              "spanish": "creíamos"
+            },
+            "voi": {
+              "italian": "credevate",
+              "english": "used to believe",
+              "german": "glaubtet",
+              "spanish": "creíais"
+            },
+            "loro": {
+              "italian": "credevano",
+              "english": "used to believe",
+              "german": "glaubten",
+              "spanish": "creían"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "credei",
+              "english": "believed",
+              "german": "glaubte",
+              "spanish": "creí"
+            },
+            "tu": {
+              "italian": "credesti",
+              "english": "believed",
+              "german": "glaubtest",
+              "spanish": "creíste"
+            },
+            "lui/lei": {
+              "italian": "credette",
+              "english": "believed",
+              "german": "glaubte",
+              "spanish": "creyó"
+            },
+            "noi": {
+              "italian": "credemmo",
+              "english": "believed",
+              "german": "glaubten",
+              "spanish": "creímos"
+            },
+            "voi": {
+              "italian": "credeste",
+              "english": "believed",
+              "german": "glaubtet",
+              "spanish": "creísteis"
+            },
+            "loro": {
+              "italian": "crederono",
+              "english": "believed",
+              "german": "glaubten",
+              "spanish": "creyeron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "crederò",
+              "english": "will believe",
+              "german": "werde glauben",
+              "spanish": "creeré"
+            },
+            "tu": {
+              "italian": "crederai",
+              "english": "will believe",
+              "german": "wirst glauben",
+              "spanish": "creerás"
+            },
+            "lui/lei": {
+              "italian": "crederà",
+              "english": "will believe",
+              "german": "wird glauben",
+              "spanish": "creerá"
+            },
+            "noi": {
+              "italian": "crederemo",
+              "english": "will believe",
+              "german": "werden glauben",
+              "spanish": "creeremos"
+            },
+            "voi": {
+              "italian": "crederete",
+              "english": "will believe",
+              "german": "werdet glauben",
+              "spanish": "creeréis"
+            },
+            "loro": {
+              "italian": "crederanno",
+              "english": "will believe",
+              "german": "werden glauben",
+              "spanish": "creerán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "creda",
+              "english": "believe",
+              "german": "glaube",
+              "spanish": "crea"
+            },
+            "tu": {
+              "italian": "creda",
+              "english": "believe",
+              "german": "glaubest",
+              "spanish": "creas"
+            },
+            "lui/lei": {
+              "italian": "creda",
+              "english": "believe",
+              "german": "glaube",
+              "spanish": "crea"
+            },
+            "noi": {
+              "italian": "crediamo",
+              "english": "believe",
+              "german": "glauben",
+              "spanish": "creamos"
+            },
+            "voi": {
+              "italian": "crediate",
+              "english": "believe",
+              "german": "glaubet",
+              "spanish": "creáis"
+            },
+            "loro": {
+              "italian": "credano",
+              "english": "believe",
+              "german": "glauben",
+              "spanish": "crean"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "credessi",
+              "english": "believed",
+              "german": "glaubte",
+              "spanish": "creyera"
+            },
+            "tu": {
+              "italian": "credessi",
+              "english": "believed",
+              "german": "glaubtest",
+              "spanish": "creyeras"
+            },
+            "lui/lei": {
+              "italian": "credesse",
+              "english": "believed",
+              "german": "glaubte",
+              "spanish": "creyera"
+            },
+            "noi": {
+              "italian": "credessimo",
+              "english": "believed",
+              "german": "glaubten",
+              "spanish": "creyéramos"
+            },
+            "voi": {
+              "italian": "credeste",
+              "english": "believed",
+              "german": "glaubtet",
+              "spanish": "creyerais"
+            },
+            "loro": {
+              "italian": "credessero",
+              "english": "believed",
+              "german": "glaubten",
+              "spanish": "creyeran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "crederei",
+              "english": "would believe",
+              "german": "würde glauben",
+              "spanish": "creería"
+            },
+            "tu": {
+              "italian": "crederesti",
+              "english": "would believe",
+              "german": "würdest glauben",
+              "spanish": "creerías"
+            },
+            "lui/lei": {
+              "italian": "crederebbe",
+              "english": "would believe",
+              "german": "würde glauben",
+              "spanish": "creería"
+            },
+            "noi": {
+              "italian": "crederemmo",
+              "english": "would believe",
+              "german": "würden glauben",
+              "spanish": "creeríamos"
+            },
+            "voi": {
+              "italian": "credereste",
+              "english": "would believe",
+              "german": "würdet glauben",
+              "spanish": "creeríais"
+            },
+            "loro": {
+              "italian": "crederebbero",
+              "english": "would believe",
+              "german": "würden glauben",
+              "spanish": "creerían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "credi",
+              "english": "believe!",
+              "german": "glaube!",
+              "spanish": "¡cree!"
+            },
+            "lui/lei": {
+              "italian": "creda",
+              "english": "believe!",
+              "german": "glaube!",
+              "spanish": "¡crea!"
+            },
+            "noi": {
+              "italian": "crediamo",
+              "english": "let's believe!",
+              "german": "glauben wir!",
+              "spanish": "¡creamos!"
+            },
+            "voi": {
+              "italian": "credete",
+              "english": "believe!",
+              "german": "glaubt!",
+              "spanish": "¡creed!"
+            },
+            "loro": {
+              "italian": "credano",
+              "english": "believe!",
+              "german": "glauben Sie!",
+              "spanish": "¡crean!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "creduto",
+        "english": "believed",
+        "german": "geglaubt",
+        "spanish": "creído"
+      },
+      "gerundio_presente": {
+        "italian": "credendo",
+        "english": "believing",
+        "german": "glaubend",
+        "spanish": "creyendo"
+      }
+    },
+    {
+      "id": "lasciare",
+      "infinitive": {
+        "italian": "lasciare",
+        "english": "to leave/let",
+        "german": "lassen/verlassen",
+        "spanish": "dejar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "lascio",
+              "english": "leave",
+              "german": "lasse",
+              "spanish": "dejo"
+            },
+            "tu": {
+              "italian": "lasci",
+              "english": "leave",
+              "german": "lässt",
+              "spanish": "dejas"
+            },
+            "lui/lei": {
+              "italian": "lascia",
+              "english": "leaves",
+              "german": "lässt",
+              "spanish": "deja"
+            },
+            "noi": {
+              "italian": "lasciamo",
+              "english": "leave",
+              "german": "lassen",
+              "spanish": "dejamos"
+            },
+            "voi": {
+              "italian": "lasciate",
+              "english": "leave",
+              "german": "lasst",
+              "spanish": "dejáis"
+            },
+            "loro": {
+              "italian": "lasciano",
+              "english": "leave",
+              "german": "lassen",
+              "spanish": "dejan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "lasciavo",
+              "english": "used to leave",
+              "german": "ließ",
+              "spanish": "dejaba"
+            },
+            "tu": {
+              "italian": "lasciavi",
+              "english": "used to leave",
+              "german": "ließest",
+              "spanish": "dejabas"
+            },
+            "lui/lei": {
+              "italian": "lasciava",
+              "english": "used to leave",
+              "german": "ließ",
+              "spanish": "dejaba"
+            },
+            "noi": {
+              "italian": "lasciavamo",
+              "english": "used to leave",
+              "german": "ließen",
+              "spanish": "dejábamos"
+            },
+            "voi": {
+              "italian": "lasciavate",
+              "english": "used to leave",
+              "german": "ließt",
+              "spanish": "dejabais"
+            },
+            "loro": {
+              "italian": "lasciavano",
+              "english": "used to leave",
+              "german": "ließen",
+              "spanish": "dejaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "lasciai",
+              "english": "left",
+              "german": "ließ",
+              "spanish": "dejé"
+            },
+            "tu": {
+              "italian": "lasciasti",
+              "english": "left",
+              "german": "ließest",
+              "spanish": "dejaste"
+            },
+            "lui/lei": {
+              "italian": "lasciò",
+              "english": "left",
+              "german": "ließ",
+              "spanish": "dejó"
+            },
+            "noi": {
+              "italian": "lasciammo",
+              "english": "left",
+              "german": "ließen",
+              "spanish": "dejamos"
+            },
+            "voi": {
+              "italian": "lasciaste",
+              "english": "left",
+              "german": "ließt",
+              "spanish": "dejasteis"
+            },
+            "loro": {
+              "italian": "lasciarono",
+              "english": "left",
+              "german": "ließen",
+              "spanish": "dejaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "lascerò",
+              "english": "will leave",
+              "german": "werde lassen",
+              "spanish": "dejaré"
+            },
+            "tu": {
+              "italian": "lascerai",
+              "english": "will leave",
+              "german": "wirst lassen",
+              "spanish": "dejarás"
+            },
+            "lui/lei": {
+              "italian": "lascerà",
+              "english": "will leave",
+              "german": "wird lassen",
+              "spanish": "dejará"
+            },
+            "noi": {
+              "italian": "lasceremo",
+              "english": "will leave",
+              "german": "werden lassen",
+              "spanish": "dejaremos"
+            },
+            "voi": {
+              "italian": "lascerete",
+              "english": "will leave",
+              "german": "werdet lassen",
+              "spanish": "dejaréis"
+            },
+            "loro": {
+              "italian": "lasceranno",
+              "english": "will leave",
+              "german": "werden lassen",
+              "spanish": "dejarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "lasci",
+              "english": "leave",
+              "german": "lasse",
+              "spanish": "deje"
+            },
+            "tu": {
+              "italian": "lasci",
+              "english": "leave",
+              "german": "lassest",
+              "spanish": "dejes"
+            },
+            "lui/lei": {
+              "italian": "lasci",
+              "english": "leave",
+              "german": "lasse",
+              "spanish": "deje"
+            },
+            "noi": {
+              "italian": "lasciamo",
+              "english": "leave",
+              "german": "lassen",
+              "spanish": "dejemos"
+            },
+            "voi": {
+              "italian": "lasciate",
+              "english": "leave",
+              "german": "lasset",
+              "spanish": "dejéis"
+            },
+            "loro": {
+              "italian": "lasciino",
+              "english": "leave",
+              "german": "lassen",
+              "spanish": "dejen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "lasciassi",
+              "english": "left",
+              "german": "ließe",
+              "spanish": "dejara"
+            },
+            "tu": {
+              "italian": "lasciassi",
+              "english": "left",
+              "german": "ließest",
+              "spanish": "dejaras"
+            },
+            "lui/lei": {
+              "italian": "lasciasse",
+              "english": "left",
+              "german": "ließe",
+              "spanish": "dejara"
+            },
+            "noi": {
+              "italian": "lasciassimo",
+              "english": "left",
+              "german": "ließen",
+              "spanish": "dejáramos"
+            },
+            "voi": {
+              "italian": "lasciaste",
+              "english": "left",
+              "german": "ließet",
+              "spanish": "dejarais"
+            },
+            "loro": {
+              "italian": "lasciassero",
+              "english": "left",
+              "german": "ließen",
+              "spanish": "dejaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "lascerei",
+              "english": "would leave",
+              "german": "würde lassen",
+              "spanish": "dejaría"
+            },
+            "tu": {
+              "italian": "lasceresti",
+              "english": "would leave",
+              "german": "würdest lassen",
+              "spanish": "dejarías"
+            },
+            "lui/lei": {
+              "italian": "lascerebbe",
+              "english": "would leave",
+              "german": "würde lassen",
+              "spanish": "dejaría"
+            },
+            "noi": {
+              "italian": "lascerebbero",
+              "english": "would leave",
+              "german": "würden lassen",
+              "spanish": "dejaríamos"
+            },
+            "voi": {
+              "italian": "lascerebbe",
+              "english": "would leave",
+              "german": "würdet lassen",
+              "spanish": "dejaríais"
+            },
+            "loro": {
+              "italian": "lascerebbero",
+              "english": "would leave",
+              "german": "würden lassen",
+              "spanish": "dejarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "lascia",
+              "english": "leave!",
+              "german": "lass!",
+              "spanish": "¡deja!"
+            },
+            "lui/lei": {
+              "italian": "lasci",
+              "english": "leave!",
+              "german": "lasse!",
+              "spanish": "¡deje!"
+            },
+            "noi": {
+              "italian": "lasciamo",
+              "english": "let's leave!",
+              "german": "lassen wir!",
+              "spanish": "¡dejemos!"
+            },
+            "voi": {
+              "italian": "lasciate",
+              "english": "leave!",
+              "german": "lasst!",
+              "spanish": "¡dejad!"
+            },
+            "loro": {
+              "italian": "lasciino",
+              "english": "leave!",
+              "german": "lassen Sie!",
+              "spanish": "¡dejen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "lasciato",
+        "english": "left",
+        "german": "gelassen",
+        "spanish": "dejado"
+      },
+      "gerundio_presente": {
+        "italian": "lasciando",
+        "english": "leaving",
+        "german": "lassend",
+        "spanish": "dejando"
+      }
+    },
+    {
+      "id": "diventare",
+      "infinitive": {
+        "italian": "diventare",
+        "english": "to become",
+        "german": "werden",
+        "spanish": "llegar a ser"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "essere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "divento",
+              "english": "become",
+              "german": "werde",
+              "spanish": "llego a ser"
+            },
+            "tu": {
+              "italian": "diventi",
+              "english": "become",
+              "german": "wirst",
+              "spanish": "llegas a ser"
+            },
+            "lui/lei": {
+              "italian": "diventa",
+              "english": "becomes",
+              "german": "wird",
+              "spanish": "llega a ser"
+            },
+            "noi": {
+              "italian": "diventiamo",
+              "english": "become",
+              "german": "werden",
+              "spanish": "llegamos a ser"
+            },
+            "voi": {
+              "italian": "diventate",
+              "english": "become",
+              "german": "werdet",
+              "spanish": "llegáis a ser"
+            },
+            "loro": {
+              "italian": "diventano",
+              "english": "become",
+              "german": "werden",
+              "spanish": "llegan a ser"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "diventavo",
+              "english": "used to become",
+              "german": "wurde",
+              "spanish": "llegaba a ser"
+            },
+            "tu": {
+              "italian": "diventavi",
+              "english": "used to become",
+              "german": "wurdest",
+              "spanish": "llegabas a ser"
+            },
+            "lui/lei": {
+              "italian": "diventava",
+              "english": "used to become",
+              "german": "wurde",
+              "spanish": "llegaba a ser"
+            },
+            "noi": {
+              "italian": "diventavamo",
+              "english": "used to become",
+              "german": "wurden",
+              "spanish": "llegábamos a ser"
+            },
+            "voi": {
+              "italian": "diventavate",
+              "english": "used to become",
+              "german": "wurdet",
+              "spanish": "llegabais a ser"
+            },
+            "loro": {
+              "italian": "diventavano",
+              "english": "used to become",
+              "german": "wurden",
+              "spanish": "llegaban a ser"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "diventai",
+              "english": "became",
+              "german": "wurde",
+              "spanish": "llegué a ser"
+            },
+            "tu": {
+              "italian": "diventasti",
+              "english": "became",
+              "german": "wurdest",
+              "spanish": "llegaste a ser"
+            },
+            "lui/lei": {
+              "italian": "diventò",
+              "english": "became",
+              "german": "wurde",
+              "spanish": "llegó a ser"
+            },
+            "noi": {
+              "italian": "diventammo",
+              "english": "became",
+              "german": "wurden",
+              "spanish": "llegamos a ser"
+            },
+            "voi": {
+              "italian": "diventaste",
+              "english": "became",
+              "german": "wurdet",
+              "spanish": "llegasteis a ser"
+            },
+            "loro": {
+              "italian": "diventarono",
+              "english": "became",
+              "german": "wurden",
+              "spanish": "llegaron a ser"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "diventerò",
+              "english": "will become",
+              "german": "werde werden",
+              "spanish": "llegaré a ser"
+            },
+            "tu": {
+              "italian": "diventerai",
+              "english": "will become",
+              "german": "wirst werden",
+              "spanish": "llegarás a ser"
+            },
+            "lui/lei": {
+              "italian": "diventerà",
+              "english": "will become",
+              "german": "wird werden",
+              "spanish": "llegará a ser"
+            },
+            "noi": {
+              "italian": "diventeremo",
+              "english": "will become",
+              "german": "werden werden",
+              "spanish": "llegaremos a ser"
+            },
+            "voi": {
+              "italian": "diventerete",
+              "english": "will become",
+              "german": "werdet werden",
+              "spanish": "llegaréis a ser"
+            },
+            "loro": {
+              "italian": "diventeranno",
+              "english": "will become",
+              "german": "werden werden",
+              "spanish": "llegarán a ser"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "diventi",
+              "english": "become",
+              "german": "werde",
+              "spanish": "llegue a ser"
+            },
+            "tu": {
+              "italian": "diventi",
+              "english": "become",
+              "german": "werdest",
+              "spanish": "llegues a ser"
+            },
+            "lui/lei": {
+              "italian": "diventi",
+              "english": "become",
+              "german": "werde",
+              "spanish": "llegue a ser"
+            },
+            "noi": {
+              "italian": "diventiamo",
+              "english": "become",
+              "german": "werden",
+              "spanish": "lleguemos a ser"
+            },
+            "voi": {
+              "italian": "diventiate",
+              "english": "become",
+              "german": "werdet",
+              "spanish": "lleguéis a ser"
+            },
+            "loro": {
+              "italian": "diventino",
+              "english": "become",
+              "german": "werden",
+              "spanish": "lleguen a ser"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "diventassi",
+              "english": "became",
+              "german": "würde",
+              "spanish": "llegara a ser"
+            },
+            "tu": {
+              "italian": "diventassi",
+              "english": "became",
+              "german": "würdest",
+              "spanish": "llegaras a ser"
+            },
+            "lui/lei": {
+              "italian": "diventasse",
+              "english": "became",
+              "german": "würde",
+              "spanish": "llegara a ser"
+            },
+            "noi": {
+              "italian": "diventassimo",
+              "english": "became",
+              "german": "würden",
+              "spanish": "llegáramos a ser"
+            },
+            "voi": {
+              "italian": "diventaste",
+              "english": "became",
+              "german": "würdet",
+              "spanish": "llegarais a ser"
+            },
+            "loro": {
+              "italian": "diventassero",
+              "english": "became",
+              "german": "würden",
+              "spanish": "llegaran a ser"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "diventerei",
+              "english": "would become",
+              "german": "würde werden",
+              "spanish": "llegaría a ser"
+            },
+            "tu": {
+              "italian": "diventeresti",
+              "english": "would become",
+              "german": "würdest werden",
+              "spanish": "llegarías a ser"
+            },
+            "lui/lei": {
+              "italian": "diventerebbe",
+              "english": "would become",
+              "german": "würde werden",
+              "spanish": "llegaría a ser"
+            },
+            "noi": {
+              "italian": "diventeremmo",
+              "english": "would become",
+              "german": "würden werden",
+              "spanish": "llegaríamos a ser"
+            },
+            "voi": {
+              "italian": "diventereste",
+              "english": "would become",
+              "german": "würdet werden",
+              "spanish": "llegaríais a ser"
+            },
+            "loro": {
+              "italian": "diventerebbero",
+              "english": "would become",
+              "german": "würden werden",
+              "spanish": "llegarían a ser"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "diventa",
+              "english": "become!",
+              "german": "werde!",
+              "spanish": "¡llega a ser!"
+            },
+            "lui/lei": {
+              "italian": "diventi",
+              "english": "become!",
+              "german": "werde!",
+              "spanish": "¡llegue a ser!"
+            },
+            "noi": {
+              "italian": "diventiamo",
+              "english": "let's become!",
+              "german": "werden wir!",
+              "spanish": "¡lleguemos a ser!"
+            },
+            "voi": {
+              "italian": "diventate",
+              "english": "become!",
+              "german": "werdet!",
+              "spanish": "¡llegad a ser!"
+            },
+            "loro": {
+              "italian": "diventino",
+              "english": "become!",
+              "german": "werden Sie!",
+              "spanish": "¡lleguen a ser!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "diventato",
+        "english": "become",
+        "german": "geworden",
+        "spanish": "llegado a ser"
+      },
+      "gerundio_presente": {
+        "italian": "diventando",
+        "english": "becoming",
+        "german": "werdend",
+        "spanish": "llegando a ser"
+      }
+    },
+    {
+      "id": "ricordare",
+      "infinitive": {
+        "italian": "ricordare",
+        "english": "to remember",
+        "german": "erinnern",
+        "spanish": "recordar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "ricordo",
+              "english": "remember",
+              "german": "erinnere",
+              "spanish": "recuerdo"
+            },
+            "tu": {
+              "italian": "ricordi",
+              "english": "remember",
+              "german": "erinnerst",
+              "spanish": "recuerdas"
+            },
+            "lui/lei": {
+              "italian": "ricorda",
+              "english": "remembers",
+              "german": "erinnert",
+              "spanish": "recuerda"
+            },
+            "noi": {
+              "italian": "ricordiamo",
+              "english": "remember",
+              "german": "erinnern",
+              "spanish": "recordamos"
+            },
+            "voi": {
+              "italian": "ricordate",
+              "english": "remember",
+              "german": "erinnert",
+              "spanish": "recordáis"
+            },
+            "loro": {
+              "italian": "ricordano",
+              "english": "remember",
+              "german": "erinnern",
+              "spanish": "recuerdan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "ricordavo",
+              "english": "used to remember",
+              "german": "erinnerte",
+              "spanish": "recordaba"
+            },
+            "tu": {
+              "italian": "ricordavi",
+              "english": "used to remember",
+              "german": "erinnertest",
+              "spanish": "recordabas"
+            },
+            "lui/lei": {
+              "italian": "ricordava",
+              "english": "used to remember",
+              "german": "erinnerte",
+              "spanish": "recordaba"
+            },
+            "noi": {
+              "italian": "ricordavamo",
+              "english": "used to remember",
+              "german": "erinnerten",
+              "spanish": "recordábamos"
+            },
+            "voi": {
+              "italian": "ricordavate",
+              "english": "used to remember",
+              "german": "erinnertet",
+              "spanish": "recordabais"
+            },
+            "loro": {
+              "italian": "ricordavano",
+              "english": "used to remember",
+              "german": "erinnerten",
+              "spanish": "recordaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "ricordai",
+              "english": "remembered",
+              "german": "erinnerte",
+              "spanish": "recordé"
+            },
+            "tu": {
+              "italian": "ricordasti",
+              "english": "remembered",
+              "german": "erinnertest",
+              "spanish": "recordaste"
+            },
+            "lui/lei": {
+              "italian": "ricordò",
+              "english": "remembered",
+              "german": "erinnerte",
+              "spanish": "recordó"
+            },
+            "noi": {
+              "italian": "ricordammo",
+              "english": "remembered",
+              "german": "erinnerten",
+              "spanish": "recordamos"
+            },
+            "voi": {
+              "italian": "ricordaste",
+              "english": "remembered",
+              "german": "erinnertet",
+              "spanish": "recordasteis"
+            },
+            "loro": {
+              "italian": "ricordarono",
+              "english": "remembered",
+              "german": "erinnerten",
+              "spanish": "recordaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "ricorderò",
+              "english": "will remember",
+              "german": "werde erinnern",
+              "spanish": "recordaré"
+            },
+            "tu": {
+              "italian": "ricorderai",
+              "english": "will remember",
+              "german": "wirst erinnern",
+              "spanish": "recordarás"
+            },
+            "lui/lei": {
+              "italian": "ricorderà",
+              "english": "will remember",
+              "german": "wird erinnern",
+              "spanish": "recordará"
+            },
+            "noi": {
+              "italian": "ricorderemo",
+              "english": "will remember",
+              "german": "werden erinnern",
+              "spanish": "recordaremos"
+            },
+            "voi": {
+              "italian": "ricorderete",
+              "english": "will remember",
+              "german": "werdet erinnern",
+              "spanish": "recordaréis"
+            },
+            "loro": {
+              "italian": "ricorderanno",
+              "english": "will remember",
+              "german": "werden erinnern",
+              "spanish": "recordarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "ricordi",
+              "english": "remember",
+              "german": "erinnere",
+              "spanish": "recuerde"
+            },
+            "tu": {
+              "italian": "ricordi",
+              "english": "remember",
+              "german": "erinnerest",
+              "spanish": "recuerdes"
+            },
+            "lui/lei": {
+              "italian": "ricordi",
+              "english": "remember",
+              "german": "erinnere",
+              "spanish": "recuerde"
+            },
+            "noi": {
+              "italian": "ricordiamo",
+              "english": "remember",
+              "german": "erinnern",
+              "spanish": "recordemos"
+            },
+            "voi": {
+              "italian": "ricordiate",
+              "english": "remember",
+              "german": "erinnert",
+              "spanish": "recordéis"
+            },
+            "loro": {
+              "italian": "ricordino",
+              "english": "remember",
+              "german": "erinnern",
+              "spanish": "recuerden"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "ricordassi",
+              "english": "remembered",
+              "german": "erinnerte",
+              "spanish": "recordara"
+            },
+            "tu": {
+              "italian": "ricordassi",
+              "english": "remembered",
+              "german": "erinnertest",
+              "spanish": "recordaras"
+            },
+            "lui/lei": {
+              "italian": "ricordasse",
+              "english": "remembered",
+              "german": "erinnerte",
+              "spanish": "recordara"
+            },
+            "noi": {
+              "italian": "ricordassimo",
+              "english": "remembered",
+              "german": "erinnerten",
+              "spanish": "recordáramos"
+            },
+            "voi": {
+              "italian": "ricordaste",
+              "english": "remembered",
+              "german": "erinnertet",
+              "spanish": "recordarais"
+            },
+            "loro": {
+              "italian": "ricordassero",
+              "english": "remembered",
+              "german": "erinnerten",
+              "spanish": "recordaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "ricorderei",
+              "english": "would remember",
+              "german": "würde erinnern",
+              "spanish": "recordaría"
+            },
+            "tu": {
+              "italian": "ricorderesti",
+              "english": "would remember",
+              "german": "würdest erinnern",
+              "spanish": "recordarías"
+            },
+            "lui/lei": {
+              "italian": "ricorderebbe",
+              "english": "would remember",
+              "german": "würde erinnern",
+              "spanish": "recordaría"
+            },
+            "noi": {
+              "italian": "ricorderemmo",
+              "english": "would remember",
+              "german": "würden erinnern",
+              "spanish": "recordaríamos"
+            },
+            "voi": {
+              "italian": "ricordereste",
+              "english": "would remember",
+              "german": "würdet erinnern",
+              "spanish": "recordaríais"
+            },
+            "loro": {
+              "italian": "ricorderebbero",
+              "english": "would remember",
+              "german": "würden erinnern",
+              "spanish": "recordarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "ricorda",
+              "english": "remember!",
+              "german": "erinnere!",
+              "spanish": "¡recuerda!"
+            },
+            "lui/lei": {
+              "italian": "ricordi",
+              "english": "remember!",
+              "german": "erinnere!",
+              "spanish": "¡recuerde!"
+            },
+            "noi": {
+              "italian": "ricordiamo",
+              "english": "let's remember!",
+              "german": "erinnern wir!",
+              "spanish": "¡recordemos!"
+            },
+            "voi": {
+              "italian": "ricordate",
+              "english": "remember!",
+              "german": "erinnert!",
+              "spanish": "¡recordad!"
+            },
+            "loro": {
+              "italian": "ricordino",
+              "english": "remember!",
+              "german": "erinnern Sie!",
+              "spanish": "¡recuerden!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "ricordato",
+        "english": "remembered",
+        "german": "erinnert",
+        "spanish": "recordado"
+      },
+      "gerundio_presente": {
+        "italian": "ricordando",
+        "english": "remembering",
+        "german": "erinnernd",
+        "spanish": "recordando"
+      }
+    },
+    {
+      "id": "chiamare",
+      "infinitive": {
+        "italian": "chiamare",
+        "english": "to call",
+        "german": "rufen",
+        "spanish": "llamar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "chiamo",
+              "english": "call",
+              "german": "rufe",
+              "spanish": "llamo"
+            },
+            "tu": {
+              "italian": "chiami",
+              "english": "call",
+              "german": "rufst",
+              "spanish": "llamas"
+            },
+            "lui/lei": {
+              "italian": "chiama",
+              "english": "calls",
+              "german": "ruft",
+              "spanish": "llama"
+            },
+            "noi": {
+              "italian": "chiamiamo",
+              "english": "call",
+              "german": "rufen",
+              "spanish": "llamamos"
+            },
+            "voi": {
+              "italian": "chiamate",
+              "english": "call",
+              "german": "ruft",
+              "spanish": "llamáis"
+            },
+            "loro": {
+              "italian": "chiamano",
+              "english": "call",
+              "german": "rufen",
+              "spanish": "llaman"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "chiamavo",
+              "english": "used to call",
+              "german": "rief",
+              "spanish": "llamaba"
+            },
+            "tu": {
+              "italian": "chiamavi",
+              "english": "used to call",
+              "german": "riefst",
+              "spanish": "llamabas"
+            },
+            "lui/lei": {
+              "italian": "chiamava",
+              "english": "used to call",
+              "german": "rief",
+              "spanish": "llamaba"
+            },
+            "noi": {
+              "italian": "chiamavamo",
+              "english": "used to call",
+              "german": "riefen",
+              "spanish": "llamábamos"
+            },
+            "voi": {
+              "italian": "chiamavate",
+              "english": "used to call",
+              "german": "rieft",
+              "spanish": "llamabais"
+            },
+            "loro": {
+              "italian": "chiamavano",
+              "english": "used to call",
+              "german": "riefen",
+              "spanish": "llamaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "chiamai",
+              "english": "called",
+              "german": "rief",
+              "spanish": "llamé"
+            },
+            "tu": {
+              "italian": "chiamasti",
+              "english": "called",
+              "german": "riefst",
+              "spanish": "llamaste"
+            },
+            "lui/lei": {
+              "italian": "chiamò",
+              "english": "called",
+              "german": "rief",
+              "spanish": "llamó"
+            },
+            "noi": {
+              "italian": "chiamammo",
+              "english": "called",
+              "german": "riefen",
+              "spanish": "llamamos"
+            },
+            "voi": {
+              "italian": "chiamaste",
+              "english": "called",
+              "german": "rieft",
+              "spanish": "llamasteis"
+            },
+            "loro": {
+              "italian": "chiamarono",
+              "english": "called",
+              "german": "riefen",
+              "spanish": "llamaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "chiamerò",
+              "english": "will call",
+              "german": "werde rufen",
+              "spanish": "llamaré"
+            },
+            "tu": {
+              "italian": "chiamerai",
+              "english": "will call",
+              "german": "wirst rufen",
+              "spanish": "llamarás"
+            },
+            "lui/lei": {
+              "italian": "chiamerà",
+              "english": "will call",
+              "german": "wird rufen",
+              "spanish": "llamará"
+            },
+            "noi": {
+              "italian": "chiameremo",
+              "english": "will call",
+              "german": "werden rufen",
+              "spanish": "llamaremos"
+            },
+            "voi": {
+              "italian": "chiamerete",
+              "english": "will call",
+              "german": "werdet rufen",
+              "spanish": "llamaréis"
+            },
+            "loro": {
+              "italian": "chiameranno",
+              "english": "will call",
+              "german": "werden rufen",
+              "spanish": "llamarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "chiami",
+              "english": "call",
+              "german": "rufe",
+              "spanish": "llame"
+            },
+            "tu": {
+              "italian": "chiami",
+              "english": "call",
+              "german": "rufest",
+              "spanish": "llames"
+            },
+            "lui/lei": {
+              "italian": "chiami",
+              "english": "call",
+              "german": "rufe",
+              "spanish": "llame"
+            },
+            "noi": {
+              "italian": "chiamiamo",
+              "english": "call",
+              "german": "rufen",
+              "spanish": "llamemos"
+            },
+            "voi": {
+              "italian": "chiamiate",
+              "english": "call",
+              "german": "rufet",
+              "spanish": "llaméis"
+            },
+            "loro": {
+              "italian": "chiamino",
+              "english": "call",
+              "german": "rufen",
+              "spanish": "llamen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "chiamassi",
+              "english": "called",
+              "german": "riefe",
+              "spanish": "llamara"
+            },
+            "tu": {
+              "italian": "chiamassi",
+              "english": "called",
+              "german": "riefest",
+              "spanish": "llamaras"
+            },
+            "lui/lei": {
+              "italian": "chiamasse",
+              "english": "called",
+              "german": "riefe",
+              "spanish": "llamara"
+            },
+            "noi": {
+              "italian": "chiamassimo",
+              "english": "called",
+              "german": "riefen",
+              "spanish": "llamáramos"
+            },
+            "voi": {
+              "italian": "chiamaste",
+              "english": "called",
+              "german": "riefet",
+              "spanish": "llamarais"
+            },
+            "loro": {
+              "italian": "chiamassero",
+              "english": "called",
+              "german": "riefen",
+              "spanish": "llamaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "chiamerei",
+              "english": "would call",
+              "german": "würde rufen",
+              "spanish": "llamaría"
+            },
+            "tu": {
+              "italian": "chiameresti",
+              "english": "would call",
+              "german": "würdest rufen",
+              "spanish": "llamarías"
+            },
+            "lui/lei": {
+              "italian": "chiamerebbe",
+              "english": "would call",
+              "german": "würde rufen",
+              "spanish": "llamaría"
+            },
+            "noi": {
+              "italian": "chiameremmo",
+              "english": "would call",
+              "german": "würden rufen",
+              "spanish": "llamaríamos"
+            },
+            "voi": {
+              "italian": "chiamereste",
+              "english": "would call",
+              "german": "würdet rufen",
+              "spanish": "llamaríais"
+            },
+            "loro": {
+              "italian": "chiamerebbero",
+              "english": "would call",
+              "german": "würden rufen",
+              "spanish": "llamarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "chiama",
+              "english": "call!",
+              "german": "ruf!",
+              "spanish": "¡llama!"
+            },
+            "lui/lei": {
+              "italian": "chiami",
+              "english": "call!",
+              "german": "rufe!",
+              "spanish": "¡llame!"
+            },
+            "noi": {
+              "italian": "chiamiamo",
+              "english": "let's call!",
+              "german": "rufen wir!",
+              "spanish": "¡llamemos!"
+            },
+            "voi": {
+              "italian": "chiamate",
+              "english": "call!",
+              "german": "ruft!",
+              "spanish": "¡llamad!"
+            },
+            "loro": {
+              "italian": "chiamino",
+              "english": "call!",
+              "german": "rufen Sie!",
+              "spanish": "¡llamen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "chiamato",
+        "english": "called",
+        "german": "gerufen",
+        "spanish": "llamado"
+      },
+      "gerundio_presente": {
+        "italian": "chiamando",
+        "english": "calling",
+        "german": "rufend",
+        "spanish": "llamando"
+      }
+    },
+    {
+      "id": "giocare",
+      "infinitive": {
+        "italian": "giocare",
+        "english": "to play",
+        "german": "spielen",
+        "spanish": "jugar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "gioco",
+              "english": "play",
+              "german": "spiele",
+              "spanish": "juego"
+            },
+            "tu": {
+              "italian": "giochi",
+              "english": "play",
+              "german": "spielst",
+              "spanish": "juegas"
+            },
+            "lui/lei": {
+              "italian": "gioca",
+              "english": "plays",
+              "german": "spielt",
+              "spanish": "juega"
+            },
+            "noi": {
+              "italian": "giochiamo",
+              "english": "play",
+              "german": "spielen",
+              "spanish": "jugamos"
+            },
+            "voi": {
+              "italian": "giocate",
+              "english": "play",
+              "german": "spielt",
+              "spanish": "jugáis"
+            },
+            "loro": {
+              "italian": "giocano",
+              "english": "play",
+              "german": "spielen",
+              "spanish": "juegan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "giocavo",
+              "english": "used to play",
+              "german": "spielte",
+              "spanish": "jugaba"
+            },
+            "tu": {
+              "italian": "giocavi",
+              "english": "used to play",
+              "german": "spieltest",
+              "spanish": "jugabas"
+            },
+            "lui/lei": {
+              "italian": "giocava",
+              "english": "used to play",
+              "german": "spielte",
+              "spanish": "jugaba"
+            },
+            "noi": {
+              "italian": "giocavamo",
+              "english": "used to play",
+              "german": "spielten",
+              "spanish": "jugábamos"
+            },
+            "voi": {
+              "italian": "giocavate",
+              "english": "used to play",
+              "german": "spieltet",
+              "spanish": "jugabais"
+            },
+            "loro": {
+              "italian": "giocavano",
+              "english": "used to play",
+              "german": "spielten",
+              "spanish": "jugaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "giocai",
+              "english": "played",
+              "german": "spielte",
+              "spanish": "jugué"
+            },
+            "tu": {
+              "italian": "giocasti",
+              "english": "played",
+              "german": "spieltest",
+              "spanish": "jugaste"
+            },
+            "lui/lei": {
+              "italian": "giocò",
+              "english": "played",
+              "german": "spielte",
+              "spanish": "jugó"
+            },
+            "noi": {
+              "italian": "giocammo",
+              "english": "played",
+              "german": "spielten",
+              "spanish": "jugamos"
+            },
+            "voi": {
+              "italian": "giocaste",
+              "english": "played",
+              "german": "spieltet",
+              "spanish": "jugasteis"
+            },
+            "loro": {
+              "italian": "giocarono",
+              "english": "played",
+              "german": "spielten",
+              "spanish": "jugaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "giocherò",
+              "english": "will play",
+              "german": "werde spielen",
+              "spanish": "jugaré"
+            },
+            "tu": {
+              "italian": "giocherai",
+              "english": "will play",
+              "german": "wirst spielen",
+              "spanish": "jugarás"
+            },
+            "lui/lei": {
+              "italian": "giocherà",
+              "english": "will play",
+              "german": "wird spielen",
+              "spanish": "jugará"
+            },
+            "noi": {
+              "italian": "giocheremo",
+              "english": "will play",
+              "german": "werden spielen",
+              "spanish": "jugaremos"
+            },
+            "voi": {
+              "italian": "giocherete",
+              "english": "will play",
+              "german": "werdet spielen",
+              "spanish": "jugaréis"
+            },
+            "loro": {
+              "italian": "giocheranno",
+              "english": "will play",
+              "german": "werden spielen",
+              "spanish": "jugarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "giochi",
+              "english": "play",
+              "german": "spiele",
+              "spanish": "juegue"
+            },
+            "tu": {
+              "italian": "giochi",
+              "english": "play",
+              "german": "spielest",
+              "spanish": "juegues"
+            },
+            "lui/lei": {
+              "italian": "giochi",
+              "english": "play",
+              "german": "spiele",
+              "spanish": "juegue"
+            },
+            "noi": {
+              "italian": "giochiamo",
+              "english": "play",
+              "german": "spielen",
+              "spanish": "juguemos"
+            },
+            "voi": {
+              "italian": "giochiate",
+              "english": "play",
+              "german": "spieltet",
+              "spanish": "juguéis"
+            },
+            "loro": {
+              "italian": "giochino",
+              "english": "play",
+              "german": "spielen",
+              "spanish": "jueguen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "giocassi",
+              "english": "played",
+              "german": "spielte",
+              "spanish": "jugara"
+            },
+            "tu": {
+              "italian": "giocassi",
+              "english": "played",
+              "german": "spieltest",
+              "spanish": "jugaras"
+            },
+            "lui/lei": {
+              "italian": "giocasse",
+              "english": "played",
+              "german": "spielte",
+              "spanish": "jugara"
+            },
+            "noi": {
+              "italian": "giocassimo",
+              "english": "played",
+              "german": "spielten",
+              "spanish": "jugáramos"
+            },
+            "voi": {
+              "italian": "giocaste",
+              "english": "played",
+              "german": "spieltet",
+              "spanish": "jugarais"
+            },
+            "loro": {
+              "italian": "giocassero",
+              "english": "played",
+              "german": "spielten",
+              "spanish": "jugaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "giocherei",
+              "english": "would play",
+              "german": "würde spielen",
+              "spanish": "jugaría"
+            },
+            "tu": {
+              "italian": "giocheresti",
+              "english": "would play",
+              "german": "würdest spielen",
+              "spanish": "jugarías"
+            },
+            "lui/lei": {
+              "italian": "giocherebbe",
+              "english": "would play",
+              "german": "würde spielen",
+              "spanish": "jugaría"
+            },
+            "noi": {
+              "italian": "giocheremmo",
+              "english": "would play",
+              "german": "würden spielen",
+              "spanish": "jugaríamos"
+            },
+            "voi": {
+              "italian": "giochereste",
+              "english": "would play",
+              "german": "würdet spielen",
+              "spanish": "jugaríais"
+            },
+            "loro": {
+              "italian": "giocherebbero",
+              "english": "would play",
+              "german": "würden spielen",
+              "spanish": "jugarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "gioca",
+              "english": "play!",
+              "german": "spiel!",
+              "spanish": "¡juega!"
+            },
+            "lui/lei": {
+              "italian": "giochi",
+              "english": "play!",
+              "german": "spiele!",
+              "spanish": "¡juegue!"
+            },
+            "noi": {
+              "italian": "giochiamo",
+              "english": "let's play!",
+              "german": "spielen wir!",
+              "spanish": "¡juguemos!"
+            },
+            "voi": {
+              "italian": "giocate",
+              "english": "play!",
+              "german": "spielt!",
+              "spanish": "¡jugad!"
+            },
+            "loro": {
+              "italian": "giocano",
+              "english": "play!",
+              "german": "spielen Sie!",
+              "spanish": "¡jueguen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "giocato",
+        "english": "played",
+        "german": "gespielt",
+        "spanish": "jugado"
+      },
+      "gerundio_presente": {
+        "italian": "giocando",
+        "english": "playing",
+        "german": "spielend",
+        "spanish": "jugando"
+      }
+    },
+    {
+      "id": "studiare",
+      "infinitive": {
+        "italian": "studiare",
+        "english": "to study",
+        "german": "studieren",
+        "spanish": "estudiar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "studio",
+              "english": "study",
+              "german": "studieren",
+              "spanish": "estudio"
+            },
+            "tu": {
+              "italian": "studi",
+              "english": "study",
+              "german": "studierst",
+              "spanish": "estudias"
+            },
+            "lui/lei": {
+              "italian": "studia",
+              "english": "studies",
+              "german": "studiert",
+              "spanish": "estudia"
+            },
+            "noi": {
+              "italian": "studiamo",
+              "english": "study",
+              "german": "studieren",
+              "spanish": "estudiamos"
+            },
+            "voi": {
+              "italian": "studiate",
+              "english": "study",
+              "german": "studiert",
+              "spanish": "estudiáis"
+            },
+            "loro": {
+              "italian": "studiano",
+              "english": "study",
+              "german": "studieren",
+              "spanish": "estudian"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "studiavo",
+              "english": "used to study",
+              "german": "studierte",
+              "spanish": "estudiaba"
+            },
+            "tu": {
+              "italian": "studiavi",
+              "english": "used to study",
+              "german": "studiertest",
+              "spanish": "estudiabas"
+            },
+            "lui/lei": {
+              "italian": "studiava",
+              "english": "used to study",
+              "german": "studierte",
+              "spanish": "estudiaba"
+            },
+            "noi": {
+              "italian": "studiavamo",
+              "english": "used to study",
+              "german": "studierten",
+              "spanish": "estudiábamos"
+            },
+            "voi": {
+              "italian": "studiavate",
+              "english": "used to study",
+              "german": "studiertet",
+              "spanish": "estudiabais"
+            },
+            "loro": {
+              "italian": "studiavano",
+              "english": "used to study",
+              "german": "studierten",
+              "spanish": "estudiaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "studiai",
+              "english": "studied",
+              "german": "studierte",
+              "spanish": "estudié"
+            },
+            "tu": {
+              "italian": "studiasti",
+              "english": "studied",
+              "german": "studiertest",
+              "spanish": "estudiaste"
+            },
+            "lui/lei": {
+              "italian": "studiò",
+              "english": "studied",
+              "german": "studierte",
+              "spanish": "estudió"
+            },
+            "noi": {
+              "italian": "studiammo",
+              "english": "studied",
+              "german": "studierten",
+              "spanish": "estudiamos"
+            },
+            "voi": {
+              "italian": "studiaste",
+              "english": "studied",
+              "german": "studiertet",
+              "spanish": "estudiasteis"
+            },
+            "loro": {
+              "italian": "studiano",
+              "english": "studied",
+              "german": "studierten",
+              "spanish": "estudiaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "studierò",
+              "english": "will study",
+              "german": "werde studieren",
+              "spanish": "estudiaré"
+            },
+            "tu": {
+              "italian": "studierai",
+              "english": "will study",
+              "german": "wirst studieren",
+              "spanish": "estudiarás"
+            },
+            "lui/lei": {
+              "italian": "studierà",
+              "english": "will study",
+              "german": "wird studieren",
+              "spanish": "estudiará"
+            },
+            "noi": {
+              "italian": "studieremo",
+              "english": "will study",
+              "german": "werden studieren",
+              "spanish": "estudiaremos"
+            },
+            "voi": {
+              "italian": "studierete",
+              "english": "will study",
+              "german": "werdet studieren",
+              "spanish": "estudiaréis"
+            },
+            "loro": {
+              "italian": "studieranno",
+              "english": "will study",
+              "german": "werden studieren",
+              "spanish": "estudiarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "studi",
+              "english": "study",
+              "german": "studieren",
+              "spanish": "estudie"
+            },
+            "tu": {
+              "italian": "studi",
+              "english": "study",
+              "german": "studierst",
+              "spanish": "estudies"
+            },
+            "lui/lei": {
+              "italian": "studi",
+              "english": "study",
+              "german": "studiert",
+              "spanish": "estudie"
+            },
+            "noi": {
+              "italian": "studiamo",
+              "english": "study",
+              "german": "studieren",
+              "spanish": "estudiemos"
+            },
+            "voi": {
+              "italian": "studiate",
+              "english": "study",
+              "german": "studiert",
+              "spanish": "estudiéis"
+            },
+            "loro": {
+              "italian": "studino",
+              "english": "study",
+              "german": "studieren",
+              "spanish": "estudien"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "studiassi",
+              "english": "studied",
+              "german": "studierte",
+              "spanish": "estudiara"
+            },
+            "tu": {
+              "italian": "studiassi",
+              "english": "studied",
+              "german": "studiertest",
+              "spanish": "estudiaras"
+            },
+            "lui/lei": {
+              "italian": "studiasse",
+              "english": "studied",
+              "german": "studierte",
+              "spanish": "estudiara"
+            },
+            "noi": {
+              "italian": "studiassimo",
+              "english": "studied",
+              "german": "studierten",
+              "spanish": "estudiáramos"
+            },
+            "voi": {
+              "italian": "studiaste",
+              "english": "studied",
+              "german": "studiertet",
+              "spanish": "estudiarais"
+            },
+            "loro": {
+              "italian": "studiasse",
+              "english": "studied",
+              "german": "studierten",
+              "spanish": "estudiaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "studerei",
+              "english": "would study",
+              "german": "würde studieren",
+              "spanish": "estudiaría"
+            },
+            "tu": {
+              "italian": "studieresti",
+              "english": "would study",
+              "german": "würdest studieren",
+              "spanish": "estudiarías"
+            },
+            "lui/lei": {
+              "italian": "studerebbe",
+              "english": "would study",
+              "german": "würde studieren",
+              "spanish": "estudiaría"
+            },
+            "noi": {
+              "italian": "studieremmo",
+              "english": "would study",
+              "german": "würden studieren",
+              "spanish": "estudiaríamos"
+            },
+            "voi": {
+              "italian": "studiereste",
+              "english": "would study",
+              "german": "würdet studieren",
+              "spanish": "estudiaríais"
+            },
+            "loro": {
+              "italian": "studerebbero",
+              "english": "would study",
+              "german": "würden studieren",
+              "spanish": "estudiarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "studia",
+              "english": "study!",
+              "german": "studier!",
+              "spanish": "¡estudia!"
+            },
+            "lui/lei": {
+              "italian": "studi",
+              "english": "study!",
+              "german": "studier!",
+              "spanish": "¡estudie!"
+            },
+            "noi": {
+              "italian": "studiamo",
+              "english": "let's study!",
+              "german": "studieren wir!",
+              "spanish": "¡estudiemos!"
+            },
+            "voi": {
+              "italian": "studiate",
+              "english": "study!",
+              "german": "studiert!",
+              "spanish": "¡estudiad!"
+            },
+            "loro": {
+              "italian": "studino",
+              "english": "study!",
+              "german": "studieren Sie!",
+              "spanish": "¡estudien!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "studiato",
+        "english": "studied",
+        "german": "studiert",
+        "spanish": "estudiado"
+      },
+      "gerundio_presente": {
+        "italian": "studiando",
+        "english": "studying",
+        "german": "studierend",
+        "spanish": "estudiando"
+      }
+    },
+    {
+      "id": "imparare",
+      "infinitive": {
+        "italian": "imparare",
+        "english": "to learn",
+        "german": "lernen",
+        "spanish": "aprender"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "imparo",
+              "english": "learn",
+              "german": "lerne",
+              "spanish": "aprendo"
+            },
+            "tu": {
+              "italian": "impari",
+              "english": "learn",
+              "german": "lernst",
+              "spanish": "aprendes"
+            },
+            "lui/lei": {
+              "italian": "impara",
+              "english": "learns",
+              "german": "lernt",
+              "spanish": "aprende"
+            },
+            "noi": {
+              "italian": "impariamo",
+              "english": "learn",
+              "german": "lernen",
+              "spanish": "aprendemos"
+            },
+            "voi": {
+              "italian": "imparate",
+              "english": "learn",
+              "german": "lernt",
+              "spanish": "aprendéis"
+            },
+            "loro": {
+              "italian": "imparano",
+              "english": "learn",
+              "german": "lernen",
+              "spanish": "aprenden"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "imparavo",
+              "english": "used to learn",
+              "german": "lernte",
+              "spanish": "aprendía"
+            },
+            "tu": {
+              "italian": "imparavi",
+              "english": "used to learn",
+              "german": "lerntest",
+              "spanish": "aprendías"
+            },
+            "lui/lei": {
+              "italian": "imparava",
+              "english": "used to learn",
+              "german": "lernte",
+              "spanish": "aprendía"
+            },
+            "noi": {
+              "italian": "imparavamo",
+              "english": "used to learn",
+              "german": "lernten",
+              "spanish": "aprendíamos"
+            },
+            "voi": {
+              "italian": "imparavate",
+              "english": "used to learn",
+              "german": "lerntet",
+              "spanish": "aprendíais"
+            },
+            "loro": {
+              "italian": "imparavano",
+              "english": "used to learn",
+              "german": "lernten",
+              "spanish": "aprendían"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "imparai",
+              "english": "learned",
+              "german": "lernte",
+              "spanish": "aprendí"
+            },
+            "tu": {
+              "italian": "imparasti",
+              "english": "learned",
+              "german": "lerntest",
+              "spanish": "aprendiste"
+            },
+            "lui/lei": {
+              "italian": "imparò",
+              "english": "learned",
+              "german": "lernte",
+              "spanish": "aprendió"
+            },
+            "noi": {
+              "italian": "imparammo",
+              "english": "learned",
+              "german": "lernten",
+              "spanish": "aprendimos"
+            },
+            "voi": {
+              "italian": "imparaste",
+              "english": "learned",
+              "german": "lerntet",
+              "spanish": "aprendisteis"
+            },
+            "loro": {
+              "italian": "impararono",
+              "english": "learned",
+              "german": "lernten",
+              "spanish": "aprendieron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "imparerò",
+              "english": "will learn",
+              "german": "werde lernen",
+              "spanish": "aprenderé"
+            },
+            "tu": {
+              "italian": "imparerai",
+              "english": "will learn",
+              "german": "wirst lernen",
+              "spanish": "aprenderás"
+            },
+            "lui/lei": {
+              "italian": "imparerà",
+              "english": "will learn",
+              "german": "wird lernen",
+              "spanish": "aprenderá"
+            },
+            "noi": {
+              "italian": "impareremo",
+              "english": "will learn",
+              "german": "werden lernen",
+              "spanish": "aprenderemos"
+            },
+            "voi": {
+              "italian": "imparerete",
+              "english": "will learn",
+              "german": "werdet lernen",
+              "spanish": "aprenderéis"
+            },
+            "loro": {
+              "italian": "impareranno",
+              "english": "will learn",
+              "german": "werden lernen",
+              "spanish": "aprenderán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "impari",
+              "english": "learn",
+              "german": "lerne",
+              "spanish": "aprenda"
+            },
+            "tu": {
+              "italian": "impari",
+              "english": "learn",
+              "german": "lernst",
+              "spanish": "aprendas"
+            },
+            "lui/lei": {
+              "italian": "impari",
+              "english": "learn",
+              "german": "lernt",
+              "spanish": "aprenda"
+            },
+            "noi": {
+              "italian": "impariamo",
+              "english": "learn",
+              "german": "lernen",
+              "spanish": "aprendamos"
+            },
+            "voi": {
+              "italian": "impariate",
+              "english": "learn",
+              "german": "lernt",
+              "spanish": "aprendáis"
+            },
+            "loro": {
+              "italian": "imparino",
+              "english": "learn",
+              "german": "lernen",
+              "spanish": "aprendan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "imparassi",
+              "english": "learned",
+              "german": "lernte",
+              "spanish": "aprendiera"
+            },
+            "tu": {
+              "italian": "imparassi",
+              "english": "learned",
+              "german": "lerntest",
+              "spanish": "aprendieras"
+            },
+            "lui/lei": {
+              "italian": "imparasse",
+              "english": "learned",
+              "german": "lernte",
+              "spanish": "aprendiera"
+            },
+            "noi": {
+              "italian": "imparassimo",
+              "english": "learned",
+              "german": "lernten",
+              "spanish": "aprendiéramos"
+            },
+            "voi": {
+              "italian": "imparaste",
+              "english": "learned",
+              "german": "lerntet",
+              "spanish": "aprendierais"
+            },
+            "loro": {
+              "italian": "imparassero",
+              "english": "learned",
+              "german": "lernten",
+              "spanish": "aprendieran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "imparerei",
+              "english": "would learn",
+              "german": "würde lernen",
+              "spanish": "aprendería"
+            },
+            "tu": {
+              "italian": "impareresti",
+              "english": "would learn",
+              "german": "würdest lernen",
+              "spanish": "aprenderías"
+            },
+            "lui/lei": {
+              "italian": "imparerebbe",
+              "english": "would learn",
+              "german": "würde lernen",
+              "spanish": "aprendería"
+            },
+            "noi": {
+              "italian": "impareremmo",
+              "english": "would learn",
+              "german": "würden lernen",
+              "spanish": "aprenderíamos"
+            },
+            "voi": {
+              "italian": "imparereste",
+              "english": "would learn",
+              "german": "würdet lernen",
+              "spanish": "aprenderíais"
+            },
+            "loro": {
+              "italian": "imparerebbero",
+              "english": "would learn",
+              "german": "würden lernen",
+              "spanish": "aprenderían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "impara",
+              "english": "learn!",
+              "german": "lerne!",
+              "spanish": "¡aprende!"
+            },
+            "lui/lei": {
+              "italian": "impari",
+              "english": "learn!",
+              "german": "lerne!",
+              "spanish": "¡aprenda!"
+            },
+            "noi": {
+              "italian": "impariamo",
+              "english": "let's learn!",
+              "german": "lernen wir!",
+              "spanish": "¡aprendamos!"
+            },
+            "voi": {
+              "italian": "imparate",
+              "english": "learn!",
+              "german": "lernt!",
+              "spanish": "¡aprended!"
+            },
+            "loro": {
+              "italian": "imparino",
+              "english": "learn!",
+              "german": "lernen Sie!",
+              "spanish": "¡aprendan!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "imparato",
+        "english": "learned",
+        "german": "gelernt",
+        "spanish": "aprendido"
+      },
+      "gerundio_presente": {
+        "italian": "imparando",
+        "english": "learning",
+        "german": "lernend",
+        "spanish": "aprendiendo"
+      }
+    },
+    {
+      "id": "sentire",
+      "infinitive": {
+        "italian": "sentire",
+        "english": "to hear, feel",
+        "german": "hören, fühlen",
+        "spanish": "sentir, oír"
+      },
+      "regularity": "irregular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "sento",
+              "english": "feel",
+              "german": "fühle",
+              "spanish": "siento"
+            },
+            "tu": {
+              "italian": "senti",
+              "english": "feel",
+              "german": "fühlst",
+              "spanish": "sientes"
+            },
+            "lui/lei": {
+              "italian": "sente",
+              "english": "feels",
+              "german": "fühlt",
+              "spanish": "siente"
+            },
+            "noi": {
+              "italian": "sentiamo",
+              "english": "feel",
+              "german": "fühlen",
+              "spanish": "sentimos"
+            },
+            "voi": {
+              "italian": "sentite",
+              "english": "feel",
+              "german": "fühlt",
+              "spanish": "sentís"
+            },
+            "loro": {
+              "italian": "sentono",
+              "english": "feel",
+              "german": "fühlen",
+              "spanish": "sienten"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "sentivo",
+              "english": "used to feel",
+              "german": "fühlte",
+              "spanish": "sentía"
+            },
+            "tu": {
+              "italian": "sentivi",
+              "english": "used to feel",
+              "german": "fühltest",
+              "spanish": "sentías"
+            },
+            "lui/lei": {
+              "italian": "sentiva",
+              "english": "used to feel",
+              "german": "fühlte",
+              "spanish": "sentía"
+            },
+            "noi": {
+              "italian": "sentivamo",
+              "english": "used to feel",
+              "german": "fühlten",
+              "spanish": "sentíamos"
+            },
+            "voi": {
+              "italian": "sentivate",
+              "english": "used to feel",
+              "german": "fühltet",
+              "spanish": "sentíais"
+            },
+            "loro": {
+              "italian": "sentivano",
+              "english": "used to feel",
+              "german": "fühlten",
+              "spanish": "sentían"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "sentii",
+              "english": "felt",
+              "german": "fühlte",
+              "spanish": "sentí"
+            },
+            "tu": {
+              "italian": "sentisti",
+              "english": "felt",
+              "german": "fühltest",
+              "spanish": "sentiste"
+            },
+            "lui/lei": {
+              "italian": "sentì",
+              "english": "felt",
+              "german": "fühlte",
+              "spanish": "sintió"
+            },
+            "noi": {
+              "italian": "sentimmo",
+              "english": "felt",
+              "german": "fühlten",
+              "spanish": "sentimos"
+            },
+            "voi": {
+              "italian": "sentiste",
+              "english": "felt",
+              "german": "fühltet",
+              "spanish": "sentisteis"
+            },
+            "loro": {
+              "italian": "sentirono",
+              "english": "felt",
+              "german": "fühlten",
+              "spanish": "sintieron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "sentirò",
+              "english": "will feel",
+              "german": "werde fühlen",
+              "spanish": "sentiré"
+            },
+            "tu": {
+              "italian": "sentirai",
+              "english": "will feel",
+              "german": "wirst fühlen",
+              "spanish": "sentirás"
+            },
+            "lui/lei": {
+              "italian": "sentirà",
+              "english": "will feel",
+              "german": "wird fühlen",
+              "spanish": "sentirá"
+            },
+            "noi": {
+              "italian": "sentiremo",
+              "english": "will feel",
+              "german": "werden fühlen",
+              "spanish": "sentiremos"
+            },
+            "voi": {
+              "italian": "sentirete",
+              "english": "will feel",
+              "german": "werdet fühlen",
+              "spanish": "sentiréis"
+            },
+            "loro": {
+              "italian": "sentiranno",
+              "english": "will feel",
+              "german": "werden fühlen",
+              "spanish": "sentirán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "senta",
+              "english": "feel",
+              "german": "fühle",
+              "spanish": "sienta"
+            },
+            "tu": {
+              "italian": "senta",
+              "english": "feel",
+              "german": "fühlst",
+              "spanish": "sientas"
+            },
+            "lui/lei": {
+              "italian": "senta",
+              "english": "feel",
+              "german": "fühlt",
+              "spanish": "sienta"
+            },
+            "noi": {
+              "italian": "sentiamo",
+              "english": "feel",
+              "german": "fühlen",
+              "spanish": "sintamos"
+            },
+            "voi": {
+              "italian": "sentiate",
+              "english": "feel",
+              "german": "fühlt",
+              "spanish": "sintáis"
+            },
+            "loro": {
+              "italian": "sentano",
+              "english": "feel",
+              "german": "fühlen",
+              "spanish": "sientan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "sentissi",
+              "english": "felt",
+              "german": "fühlte",
+              "spanish": "sintiera"
+            },
+            "tu": {
+              "italian": "sentissi",
+              "english": "felt",
+              "german": "fühltest",
+              "spanish": "sintieras"
+            },
+            "lui/lei": {
+              "italian": "sentisse",
+              "english": "felt",
+              "german": "fühlte",
+              "spanish": "sintiera"
+            },
+            "noi": {
+              "italian": "sentissimo",
+              "english": "felt",
+              "german": "fühlten",
+              "spanish": "sintiéramos"
+            },
+            "voi": {
+              "italian": "sentiste",
+              "english": "felt",
+              "german": "fühltet",
+              "spanish": "sintierais"
+            },
+            "loro": {
+              "italian": "sentissero",
+              "english": "felt",
+              "german": "fühlten",
+              "spanish": "sintieran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "sentirei",
+              "english": "would feel",
+              "german": "würde fühlen",
+              "spanish": "sentiría"
+            },
+            "tu": {
+              "italian": "sentiresti",
+              "english": "would feel",
+              "german": "würdest fühlen",
+              "spanish": "sentirías"
+            },
+            "lui/lei": {
+              "italian": "sentirebbe",
+              "english": "would feel",
+              "german": "würde fühlen",
+              "spanish": "sentiría"
+            },
+            "noi": {
+              "italian": "sentiremmo",
+              "english": "would feel",
+              "german": "würden fühlen",
+              "spanish": "sentiríamos"
+            },
+            "voi": {
+              "italian": "sentireste",
+              "english": "would feel",
+              "german": "würdet fühlen",
+              "spanish": "sentiríais"
+            },
+            "loro": {
+              "italian": "sentirebbero",
+              "english": "would feel",
+              "german": "würden fühlen",
+              "spanish": "sentirían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "senti",
+              "english": "feel!",
+              "german": "fühle!",
+              "spanish": "¡siente!"
+            },
+            "lui/lei": {
+              "italian": "senta",
+              "english": "feel!",
+              "german": "fühle!",
+              "spanish": "¡sienta!"
+            },
+            "noi": {
+              "italian": "sentiamo",
+              "english": "let's feel!",
+              "german": "fühlen wir!",
+              "spanish": "¡sintamos!"
+            },
+            "voi": {
+              "italian": "sentite",
+              "english": "feel!",
+              "german": "fühlt!",
+              "spanish": "¡sentid!"
+            },
+            "loro": {
+              "italian": "sentano",
+              "english": "feel!",
+              "german": "fühlen Sie!",
+              "spanish": "¡sientan!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "sentito",
+        "english": "felt",
+        "german": "gefühlt",
+        "spanish": "sentido"
+      },
+      "gerundio_presente": {
+        "italian": "sentendo",
+        "english": "feeling",
+        "german": "fühlend",
+        "spanish": "sintiendo"
+      }
+    },
+    {
+      "id": "decidere",
+      "infinitive": {
+        "italian": "decidere",
+        "english": "to decide",
+        "german": "entscheiden",
+        "spanish": "decidir"
+      },
+      "regularity": "irregular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "decido",
+              "english": "decide",
+              "german": "entscheide",
+              "spanish": "decido"
+            },
+            "tu": {
+              "italian": "decidi",
+              "english": "decide",
+              "german": "entscheidest",
+              "spanish": "decides"
+            },
+            "lui/lei": {
+              "italian": "decide",
+              "english": "decides",
+              "german": "entscheidet",
+              "spanish": "decide"
+            },
+            "noi": {
+              "italian": "decidiamo",
+              "english": "decide",
+              "german": "entscheiden",
+              "spanish": "decidimos"
+            },
+            "voi": {
+              "italian": "decidete",
+              "english": "decide",
+              "german": "entscheidet",
+              "spanish": "decidís"
+            },
+            "loro": {
+              "italian": "decidono",
+              "english": "decide",
+              "german": "entscheiden",
+              "spanish": "deciden"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "decidevo",
+              "english": "used to decide",
+              "german": "entschied",
+              "spanish": "decidía"
+            },
+            "tu": {
+              "italian": "decidevi",
+              "english": "used to decide",
+              "german": "entschiedest",
+              "spanish": "decidías"
+            },
+            "lui/lei": {
+              "italian": "decideva",
+              "english": "used to decide",
+              "german": "entschied",
+              "spanish": "decidía"
+            },
+            "noi": {
+              "italian": "decidevamo",
+              "english": "used to decide",
+              "german": "entschieden",
+              "spanish": "decidíamos"
+            },
+            "voi": {
+              "italian": "decidevate",
+              "english": "used to decide",
+              "german": "entscheidetet",
+              "spanish": "decidíais"
+            },
+            "loro": {
+              "italian": "decidevano",
+              "english": "used to decide",
+              "german": "entschieden",
+              "spanish": "decidían"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "decisi",
+              "english": "decided",
+              "german": "entschied",
+              "spanish": "decidí"
+            },
+            "tu": {
+              "italian": "decidesti",
+              "english": "decided",
+              "german": "entscheidest",
+              "spanish": "decidiste"
+            },
+            "lui/lei": {
+              "italian": "decise",
+              "english": "decided",
+              "german": "entschied",
+              "spanish": "decidió"
+            },
+            "noi": {
+              "italian": "decidemmo",
+              "english": "decided",
+              "german": "entschieden",
+              "spanish": "decidimos"
+            },
+            "voi": {
+              "italian": "decideste",
+              "english": "decided",
+              "german": "entscheidetet",
+              "spanish": "decidisteis"
+            },
+            "loro": {
+              "italian": "decisero",
+              "english": "decided",
+              "german": "entschieden",
+              "spanish": "decidieron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "deciderò",
+              "english": "will decide",
+              "german": "werde entscheiden",
+              "spanish": "decidiré"
+            },
+            "tu": {
+              "italian": "deciderai",
+              "english": "will decide",
+              "german": "wirst entscheiden",
+              "spanish": "decidirás"
+            },
+            "lui/lei": {
+              "italian": "deciderà",
+              "english": "will decide",
+              "german": "wird entscheiden",
+              "spanish": "decidirá"
+            },
+            "noi": {
+              "italian": "decideremo",
+              "english": "will decide",
+              "german": "werden entscheiden",
+              "spanish": "decidiremos"
+            },
+            "voi": {
+              "italian": "deciderete",
+              "english": "will decide",
+              "german": "werdet entscheiden",
+              "spanish": "decidiréis"
+            },
+            "loro": {
+              "italian": "decideranno",
+              "english": "will decide",
+              "german": "werden entscheiden",
+              "spanish": "decidirán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "decida",
+              "english": "decide",
+              "german": "entscheide",
+              "spanish": "decida"
+            },
+            "tu": {
+              "italian": "decida",
+              "english": "decide",
+              "german": "entscheidest",
+              "spanish": "decidas"
+            },
+            "lui/lei": {
+              "italian": "decida",
+              "english": "decide",
+              "german": "entscheidet",
+              "spanish": "decida"
+            },
+            "noi": {
+              "italian": "decidiamo",
+              "english": "decide",
+              "german": "entscheiden",
+              "spanish": "decidamos"
+            },
+            "voi": {
+              "italian": "decidiate",
+              "english": "decide",
+              "german": "entscheidet",
+              "spanish": "decidáis"
+            },
+            "loro": {
+              "italian": "decidano",
+              "english": "decide",
+              "german": "entscheiden",
+              "spanish": "decidan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "decidessi",
+              "english": "decided",
+              "german": "entschied",
+              "spanish": "decidiera"
+            },
+            "tu": {
+              "italian": "decidessi",
+              "english": "decided",
+              "german": "entscheidest",
+              "spanish": "decidieras"
+            },
+            "lui/lei": {
+              "italian": "decidesse",
+              "english": "decided",
+              "german": "entschied",
+              "spanish": "decidiera"
+            },
+            "noi": {
+              "italian": "decidessimo",
+              "english": "decided",
+              "german": "entschieden",
+              "spanish": "dediéramos"
+            },
+            "voi": {
+              "italian": "decideste",
+              "english": "decided",
+              "german": "entscheidetet",
+              "spanish": "decidierais"
+            },
+            "loro": {
+              "italian": "decidessero",
+              "english": "decided",
+              "german": "entschieden",
+              "spanish": "decidieran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "deciderei",
+              "english": "would decide",
+              "german": "würde entscheiden",
+              "spanish": "decidiría"
+            },
+            "tu": {
+              "italian": "decideresti",
+              "english": "would decide",
+              "german": "würdest entscheiden",
+              "spanish": "decidirías"
+            },
+            "lui/lei": {
+              "italian": "deciderebbe",
+              "english": "would decide",
+              "german": "würde entscheiden",
+              "spanish": "decidiría"
+            },
+            "noi": {
+              "italian": "decideremmo",
+              "english": "would decide",
+              "german": "würden entscheiden",
+              "spanish": "decidiríamos"
+            },
+            "voi": {
+              "italian": "decidereste",
+              "english": "would decide",
+              "german": "würdet entscheiden",
+              "spanish": "decidiríais"
+            },
+            "loro": {
+              "italian": "deciderebbero",
+              "english": "would decide",
+              "german": "würden entscheiden",
+              "spanish": "decidirían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "decidi",
+              "english": "decide!",
+              "german": "entscheide!",
+              "spanish": "¡decide!"
+            },
+            "lui/lei": {
+              "italian": "decida",
+              "english": "decide!",
+              "german": "entscheide!",
+              "spanish": "¡decida!"
+            },
+            "noi": {
+              "italian": "decidiamo",
+              "english": "let's decide!",
+              "german": "entscheiden wir!",
+              "spanish": "¡decidamos!"
+            },
+            "voi": {
+              "italian": "decidete",
+              "english": "decide!",
+              "german": "entscheidet!",
+              "spanish": "¡decidid!"
+            },
+            "loro": {
+              "italian": "decidano",
+              "english": "decide!",
+              "german": "entscheiden Sie!",
+              "spanish": "¡decidan!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "deciso",
+        "english": "decided",
+        "german": "entschieden",
+        "spanish": "decidido"
+      },
+      "gerundio_presente": {
+        "italian": "decidendo",
+        "english": "deciding",
+        "german": "entscheidend",
+        "spanish": "decidiendo"
+      }
+    },
+    {
+      "id": "odiare",
+      "infinitive": {
+        "italian": "odiare",
+        "english": "to hate",
+        "german": "hassen",
+        "spanish": "odiar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "odio",
+              "english": "hate",
+              "german": "hasse",
+              "spanish": "odio"
+            },
+            "tu": {
+              "italian": "odi",
+              "english": "hate",
+              "german": "hasst",
+              "spanish": "odias"
+            },
+            "lui/lei": {
+              "italian": "odia",
+              "english": "hates",
+              "german": "hasst",
+              "spanish": "odia"
+            },
+            "noi": {
+              "italian": "odiamo",
+              "english": "hate",
+              "german": "hassen",
+              "spanish": "odiamos"
+            },
+            "voi": {
+              "italian": "odiate",
+              "english": "hate",
+              "german": "hasst",
+              "spanish": "odiáis"
+            },
+            "loro": {
+              "italian": "odiano",
+              "english": "hate",
+              "german": "hassen",
+              "spanish": "odian"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "odiavo",
+              "english": "used to hate",
+              "german": "hasste",
+              "spanish": "odiaba"
+            },
+            "tu": {
+              "italian": "odiavi",
+              "english": "used to hate",
+              "german": "hasstest",
+              "spanish": "odiabas"
+            },
+            "lui/lei": {
+              "italian": "odiava",
+              "english": "used to hate",
+              "german": "hasste",
+              "spanish": "odiaba"
+            },
+            "noi": {
+              "italian": "odiavamo",
+              "english": "used to hate",
+              "german": "hassten",
+              "spanish": "odiábamos"
+            },
+            "voi": {
+              "italian": "odiavate",
+              "english": "used to hate",
+              "german": "hasstet",
+              "spanish": "odiabais"
+            },
+            "loro": {
+              "italian": "odiavano",
+              "english": "used to hate",
+              "german": "hassten",
+              "spanish": "odiaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "odiai",
+              "english": "hated",
+              "german": "hasste",
+              "spanish": "odié"
+            },
+            "tu": {
+              "italian": "odiasti",
+              "english": "hated",
+              "german": "hasstest",
+              "spanish": "odiaste"
+            },
+            "lui/lei": {
+              "italian": "odiò",
+              "english": "hated",
+              "german": "hasste",
+              "spanish": "odió"
+            },
+            "noi": {
+              "italian": "odiammo",
+              "english": "hated",
+              "german": "hassten",
+              "spanish": "odiamos"
+            },
+            "voi": {
+              "italian": "odiaste",
+              "english": "hated",
+              "german": "hasstet",
+              "spanish": "odiasteis"
+            },
+            "loro": {
+              "italian": "odarono",
+              "english": "hated",
+              "german": "hassten",
+              "spanish": "odiaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "odierò",
+              "english": "will hate",
+              "german": "werde hassen",
+              "spanish": "odiaré"
+            },
+            "tu": {
+              "italian": "odierai",
+              "english": "will hate",
+              "german": "wirst hassen",
+              "spanish": "odiarás"
+            },
+            "lui/lei": {
+              "italian": "odierà",
+              "english": "will hate",
+              "german": "wird hassen",
+              "spanish": "odiará"
+            },
+            "noi": {
+              "italian": "odieremo",
+              "english": "will hate",
+              "german": "werden hassen",
+              "spanish": "odiaremos"
+            },
+            "voi": {
+              "italian": "odierete",
+              "english": "will hate",
+              "german": "werdet hassen",
+              "spanish": "odiaréis"
+            },
+            "loro": {
+              "italian": "odieranno",
+              "english": "will hate",
+              "german": "werden hassen",
+              "spanish": "odiarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "odia",
+              "english": "hate",
+              "german": "hasse",
+              "spanish": "odie"
+            },
+            "tu": {
+              "italian": "odia",
+              "english": "hate",
+              "german": "hasst",
+              "spanish": "odies"
+            },
+            "lui/lei": {
+              "italian": "odia",
+              "english": "hate",
+              "german": "hasst",
+              "spanish": "odie"
+            },
+            "noi": {
+              "italian": "odiamo",
+              "english": "hate",
+              "german": "hassen",
+              "spanish": "odiemos"
+            },
+            "voi": {
+              "italian": "odiate",
+              "english": "hate",
+              "german": "hasst",
+              "spanish": "odiéis"
+            },
+            "loro": {
+              "italian": "odiano",
+              "english": "hate",
+              "german": "hassen",
+              "spanish": "odien"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "odiasse",
+              "english": "hated",
+              "german": "hasste",
+              "spanish": "odiara"
+            },
+            "tu": {
+              "italian": "odiasse",
+              "english": "hated",
+              "german": "hasstest",
+              "spanish": "odiaras"
+            },
+            "lui/lei": {
+              "italian": "odiasse",
+              "english": "hated",
+              "german": "hasste",
+              "spanish": "odiara"
+            },
+            "noi": {
+              "italian": "odiassimo",
+              "english": "hated",
+              "german": "hassten",
+              "spanish": "odiáramos"
+            },
+            "voi": {
+              "italian": "odiaste",
+              "english": "hated",
+              "german": "hasstet",
+              "spanish": "odiarais"
+            },
+            "loro": {
+              "italian": "odiassero",
+              "english": "hated",
+              "german": "hassten",
+              "spanish": "odiaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "odierai",
+              "english": "would hate",
+              "german": "würde hassen",
+              "spanish": "odiaría"
+            },
+            "tu": {
+              "italian": "odieresti",
+              "english": "would hate",
+              "german": "würdest hassen",
+              "spanish": "odiarías"
+            },
+            "lui/lei": {
+              "italian": "odierebbe",
+              "english": "would hate",
+              "german": "würde hassen",
+              "spanish": "odiaría"
+            },
+            "noi": {
+              "italian": "odieremmo",
+              "english": "would hate",
+              "german": "würden hassen",
+              "spanish": "odiaríamos"
+            },
+            "voi": {
+              "italian": "odiereste",
+              "english": "would hate",
+              "german": "würdet hassen",
+              "spanish": "odiaríais"
+            },
+            "loro": {
+              "italian": "odierrebbero",
+              "english": "would hate",
+              "german": "würden hassen",
+              "spanish": "odiarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "odia",
+              "english": "hate!",
+              "german": "hasse!",
+              "spanish": "¡odia!"
+            },
+            "lui/lei": {
+              "italian": "odia",
+              "english": "hate!",
+              "german": "hasse!",
+              "spanish": "¡odie!"
+            },
+            "noi": {
+              "italian": "odiamo",
+              "english": "let's hate!",
+              "german": "hassen wir!",
+              "spanish": "¡odiemos!"
+            },
+            "voi": {
+              "italian": "odiate",
+              "english": "hate!",
+              "german": "hasst!",
+              "spanish": "¡odiad!"
+            },
+            "loro": {
+              "italian": "odino",
+              "english": "hate!",
+              "german": "hassen Sie!",
+              "spanish": "¡odien!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "odiato",
+        "english": "hated",
+        "german": "gehasst",
+        "spanish": "odiado"
+      },
+      "gerundio_presente": {
+        "italian": "odiando",
+        "english": "hating",
+        "german": "hassend",
+        "spanish": "odiando"
+      }
+    },
+    {
+      "id": "lavare",
+      "infinitive": {
+        "italian": "lavare",
+        "english": "to wash",
+        "german": "waschen",
+        "spanish": "lavar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "lavo",
+              "english": "wash",
+              "german": "wasche",
+              "spanish": "lavo"
+            },
+            "tu": {
+              "italian": "lavi",
+              "english": "wash",
+              "german": "wäschst",
+              "spanish": "lavas"
+            },
+            "lui/lei": {
+              "italian": "lava",
+              "english": "washes",
+              "german": "wäscht",
+              "spanish": "lava"
+            },
+            "noi": {
+              "italian": "laviamo",
+              "english": "wash",
+              "german": "waschen",
+              "spanish": "lavamos"
+            },
+            "voi": {
+              "italian": "lavate",
+              "english": "wash",
+              "german": "wascht",
+              "spanish": "laváis"
+            },
+            "loro": {
+              "italian": "lavano",
+              "english": "wash",
+              "german": "waschen",
+              "spanish": "lavan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "lavavo",
+              "english": "used to wash",
+              "german": "wusch",
+              "spanish": "lavaba"
+            },
+            "tu": {
+              "italian": "lavavi",
+              "english": "used to wash",
+              "german": "wuschst",
+              "spanish": "lavabas"
+            },
+            "lui/lei": {
+              "italian": "lavava",
+              "english": "used to wash",
+              "german": "wusch",
+              "spanish": "lavaba"
+            },
+            "noi": {
+              "italian": "lavavamo",
+              "english": "used to wash",
+              "german": "wuschen",
+              "spanish": "lavábamos"
+            },
+            "voi": {
+              "italian": "lavavate",
+              "english": "used to wash",
+              "german": "wuscht",
+              "spanish": "lavabais"
+            },
+            "loro": {
+              "italian": "lavavano",
+              "english": "used to wash",
+              "german": "wuschen",
+              "spanish": "lavaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "lavai",
+              "english": "washed",
+              "german": "wusch",
+              "spanish": "lavé"
+            },
+            "tu": {
+              "italian": "lavasti",
+              "english": "washed",
+              "german": "wuschst",
+              "spanish": "lavaste"
+            },
+            "lui/lei": {
+              "italian": "lavò",
+              "english": "washed",
+              "german": "wusch",
+              "spanish": "lavó"
+            },
+            "noi": {
+              "italian": "lavammo",
+              "english": "washed",
+              "german": "wuschen",
+              "spanish": "lavamos"
+            },
+            "voi": {
+              "italian": "lavaste",
+              "english": "washed",
+              "german": "wuscht",
+              "spanish": "lavasteis"
+            },
+            "loro": {
+              "italian": "lavarono",
+              "english": "washed",
+              "german": "wuschen",
+              "spanish": "lavaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "laverò",
+              "english": "will wash",
+              "german": "werde waschen",
+              "spanish": "lavaré"
+            },
+            "tu": {
+              "italian": "laverai",
+              "english": "will wash",
+              "german": "wirst waschen",
+              "spanish": "lavarás"
+            },
+            "lui/lei": {
+              "italian": "laverà",
+              "english": "will wash",
+              "german": "wird waschen",
+              "spanish": "lavará"
+            },
+            "noi": {
+              "italian": "laveremo",
+              "english": "will wash",
+              "german": "werden waschen",
+              "spanish": "lavaremos"
+            },
+            "voi": {
+              "italian": "laverete",
+              "english": "will wash",
+              "german": "werdet waschen",
+              "spanish": "lavaréis"
+            },
+            "loro": {
+              "italian": "laveranno",
+              "english": "will wash",
+              "german": "werden waschen",
+              "spanish": "lavarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "lavi",
+              "english": "wash",
+              "german": "wasche",
+              "spanish": "lave"
+            },
+            "tu": {
+              "italian": "lavi",
+              "english": "wash",
+              "german": "waschest",
+              "spanish": "laves"
+            },
+            "lui/lei": {
+              "italian": "lavi",
+              "english": "wash",
+              "german": "wasche",
+              "spanish": "lave"
+            },
+            "noi": {
+              "italian": "laviamo",
+              "english": "wash",
+              "german": "waschen",
+              "spanish": "lavemos"
+            },
+            "voi": {
+              "italian": "laviate",
+              "english": "wash",
+              "german": "waschet",
+              "spanish": "lavéis"
+            },
+            "loro": {
+              "italian": "lavino",
+              "english": "wash",
+              "german": "waschen",
+              "spanish": "laven"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "lavassi",
+              "english": "washed",
+              "german": "wüsche",
+              "spanish": "lavara"
+            },
+            "tu": {
+              "italian": "lavassi",
+              "english": "washed",
+              "german": "wüschest",
+              "spanish": "lavaras"
+            },
+            "lui/lei": {
+              "italian": "lavasse",
+              "english": "washed",
+              "german": "wüsche",
+              "spanish": "lavara"
+            },
+            "noi": {
+              "italian": "lavassimo",
+              "english": "washed",
+              "german": "wüschen",
+              "spanish": "laváramos"
+            },
+            "voi": {
+              "italian": "lavaste",
+              "english": "washed",
+              "german": "wüschet",
+              "spanish": "lavarais"
+            },
+            "loro": {
+              "italian": "lavassero",
+              "english": "washed",
+              "german": "wüschen",
+              "spanish": "lavaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "laverei",
+              "english": "would wash",
+              "german": "würde waschen",
+              "spanish": "lavaría"
+            },
+            "tu": {
+              "italian": "laveresti",
+              "english": "would wash",
+              "german": "würdest waschen",
+              "spanish": "lavarías"
+            },
+            "lui/lei": {
+              "italian": "laverebbe",
+              "english": "would wash",
+              "german": "würde waschen",
+              "spanish": "lavaría"
+            },
+            "noi": {
+              "italian": "laveremmo",
+              "english": "would wash",
+              "german": "würden waschen",
+              "spanish": "lavaríamos"
+            },
+            "voi": {
+              "italian": "lavereste",
+              "english": "would wash",
+              "german": "würdet waschen",
+              "spanish": "lavaríais"
+            },
+            "loro": {
+              "italian": "laverebbero",
+              "english": "would wash",
+              "german": "würden waschen",
+              "spanish": "lavarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "lava",
+              "english": "wash!",
+              "german": "wasch!",
+              "spanish": "¡lava!"
+            },
+            "lui/lei": {
+              "italian": "lavi",
+              "english": "wash!",
+              "german": "wasche!",
+              "spanish": "¡lave!"
+            },
+            "noi": {
+              "italian": "laviamo",
+              "english": "let's wash!",
+              "german": "waschen wir!",
+              "spanish": "¡lavemos!"
+            },
+            "voi": {
+              "italian": "lavate",
+              "english": "wash!",
+              "german": "wascht!",
+              "spanish": "¡lavad!"
+            },
+            "loro": {
+              "italian": "lavino",
+              "english": "wash!",
+              "german": "waschen Sie!",
+              "spanish": "¡laven!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "lavato",
+        "english": "washed",
+        "german": "gewaschen",
+        "spanish": "lavado"
+      },
+      "gerundio_presente": {
+        "italian": "lavando",
+        "english": "washing",
+        "german": "waschend",
+        "spanish": "lavando"
+      }
+    },
+    {
+      "id": "riparare",
+      "infinitive": {
+        "italian": "riparare",
+        "english": "to repair",
+        "german": "reparieren",
+        "spanish": "reparar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "riparo",
+              "english": "repair",
+              "german": "repariere",
+              "spanish": "reparo"
+            },
+            "tu": {
+              "italian": "ripari",
+              "english": "repair",
+              "german": "reparierst",
+              "spanish": "reparas"
+            },
+            "lui/lei": {
+              "italian": "ripara",
+              "english": "repairs",
+              "german": "repariert",
+              "spanish": "repara"
+            },
+            "noi": {
+              "italian": "ripariamo",
+              "english": "repair",
+              "german": "reparieren",
+              "spanish": "reparamos"
+            },
+            "voi": {
+              "italian": "riparate",
+              "english": "repair",
+              "german": "repariert",
+              "spanish": "reparáis"
+            },
+            "loro": {
+              "italian": "riparano",
+              "english": "repair",
+              "german": "reparieren",
+              "spanish": "reparan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "riparavo",
+              "english": "used to repair",
+              "german": "reparierte",
+              "spanish": "reparaba"
+            },
+            "tu": {
+              "italian": "riparavi",
+              "english": "used to repair",
+              "german": "repariertest",
+              "spanish": "reparabas"
+            },
+            "lui/lei": {
+              "italian": "riparava",
+              "english": "used to repair",
+              "german": "reparierte",
+              "spanish": "reparaba"
+            },
+            "noi": {
+              "italian": "riparavamo",
+              "english": "used to repair",
+              "german": "reparierten",
+              "spanish": "reparábamos"
+            },
+            "voi": {
+              "italian": "riparavate",
+              "english": "used to repair",
+              "german": "repariertet",
+              "spanish": "reparabais"
+            },
+            "loro": {
+              "italian": "riparavano",
+              "english": "used to repair",
+              "german": "reparierten",
+              "spanish": "reparaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "riparai",
+              "english": "repaired",
+              "german": "reparierte",
+              "spanish": "reparé"
+            },
+            "tu": {
+              "italian": "riparasti",
+              "english": "repaired",
+              "german": "repariertest",
+              "spanish": "reparaste"
+            },
+            "lui/lei": {
+              "italian": "riparò",
+              "english": "repaired",
+              "german": "reparierte",
+              "spanish": "reparó"
+            },
+            "noi": {
+              "italian": "riparammo",
+              "english": "repaired",
+              "german": "reparierten",
+              "spanish": "reparamos"
+            },
+            "voi": {
+              "italian": "riparaste",
+              "english": "repaired",
+              "german": "repariertet",
+              "spanish": "reparasteis"
+            },
+            "loro": {
+              "italian": "ripararono",
+              "english": "repaired",
+              "german": "reparierten",
+              "spanish": "repararon"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "riparerò",
+              "english": "will repair",
+              "german": "werde reparieren",
+              "spanish": "repararé"
+            },
+            "tu": {
+              "italian": "riparerai",
+              "english": "will repair",
+              "german": "wirst reparieren",
+              "spanish": "repararás"
+            },
+            "lui/lei": {
+              "italian": "riparerà",
+              "english": "will repair",
+              "german": "wird reparieren",
+              "spanish": "reparará"
+            },
+            "noi": {
+              "italian": "ripareremo",
+              "english": "will repair",
+              "german": "werden reparieren",
+              "spanish": "repararemos"
+            },
+            "voi": {
+              "italian": "riparerete",
+              "english": "will repair",
+              "german": "werdet reparieren",
+              "spanish": "repararéis"
+            },
+            "loro": {
+              "italian": "ripareranno",
+              "english": "will repair",
+              "german": "werden reparieren",
+              "spanish": "repararán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "ripari",
+              "english": "repair",
+              "german": "repariere",
+              "spanish": "repare"
+            },
+            "tu": {
+              "italian": "ripari",
+              "english": "repair",
+              "german": "reparierst",
+              "spanish": "repares"
+            },
+            "lui/lei": {
+              "italian": "ripari",
+              "english": "repair",
+              "german": "repariere",
+              "spanish": "repare"
+            },
+            "noi": {
+              "italian": "ripariamo",
+              "english": "repair",
+              "german": "reparieren",
+              "spanish": "reparemos"
+            },
+            "voi": {
+              "italian": "ripariate",
+              "english": "repair",
+              "german": "repariert",
+              "spanish": "reparéis"
+            },
+            "loro": {
+              "italian": "riparino",
+              "english": "repair",
+              "german": "reparieren",
+              "spanish": "reparen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "riparassi",
+              "english": "repaired",
+              "german": "reparierte",
+              "spanish": "reparara"
+            },
+            "tu": {
+              "italian": "riparassi",
+              "english": "repaired",
+              "german": "repariertest",
+              "spanish": "repararas"
+            },
+            "lui/lei": {
+              "italian": "riparasse",
+              "english": "repaired",
+              "german": "reparierte",
+              "spanish": "reparara"
+            },
+            "noi": {
+              "italian": "riparassimo",
+              "english": "repaired",
+              "german": "reparierten",
+              "spanish": "reparáramos"
+            },
+            "voi": {
+              "italian": "riparaste",
+              "english": "repaired",
+              "german": "repariertet",
+              "spanish": "repararais"
+            },
+            "loro": {
+              "italian": "riparassero",
+              "english": "repaired",
+              "german": "reparierten",
+              "spanish": "repararan"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "riparerei",
+              "english": "would repair",
+              "german": "würde reparieren",
+              "spanish": "repararía"
+            },
+            "tu": {
+              "italian": "ripareresti",
+              "english": "would repair",
+              "german": "würdest reparieren",
+              "spanish": "repararías"
+            },
+            "lui/lei": {
+              "italian": "riparerebbe",
+              "english": "would repair",
+              "german": "würde reparieren",
+              "spanish": "repararía"
+            },
+            "noi": {
+              "italian": "ripareremmo",
+              "english": "would repair",
+              "german": "würden reparieren",
+              "spanish": "repararíamos"
+            },
+            "voi": {
+              "italian": "riparereste",
+              "english": "would repair",
+              "german": "würdet reparieren",
+              "spanish": "repararíais"
+            },
+            "loro": {
+              "italian": "riparerebbero",
+              "english": "would repair",
+              "german": "würden reparieren",
+              "spanish": "repararían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "ripara",
+              "english": "repair!",
+              "german": "repariere!",
+              "spanish": "¡repara!"
+            },
+            "lui/lei": {
+              "italian": "ripari",
+              "english": "repair!",
+              "german": "repariere!",
+              "spanish": "¡repare!"
+            },
+            "noi": {
+              "italian": "ripariamo",
+              "english": "let's repair!",
+              "german": "reparieren wir!",
+              "spanish": "¡reparemos!"
+            },
+            "voi": {
+              "italian": "riparate",
+              "english": "repair!",
+              "german": "repariert!",
+              "spanish": "¡reparad!"
+            },
+            "loro": {
+              "italian": "riparino",
+              "english": "repair!",
+              "german": "reparieren Sie!",
+              "spanish": "¡reparen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "riparato",
+        "english": "repaired",
+        "german": "repariert",
+        "spanish": "reparado"
+      },
+      "gerundio_presente": {
+        "italian": "riparando",
+        "english": "repairing",
+        "german": "reparierend",
+        "spanish": "reparando"
       }
     }
   ]
