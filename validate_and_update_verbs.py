@@ -9,6 +9,7 @@ supported_languages = ["italian", "english"]
 def is_valid_verb_structure(verb):
     try:
         # Infinitive
+        assert isinstance(verb["id"], str), "id"
         assert isinstance(verb["infinitive"], dict), "infinitive"
         assert all(lang in verb["infinitive"] for lang in supported_languages), "infinitive"
         # Regularity
@@ -26,11 +27,9 @@ def is_valid_verb_structure(verb):
         # Past Participle
         assert isinstance(verb["participio_passato"], dict), "participio_passato"
         assert all(lang in verb["participio_passato"] for lang in supported_languages), "participio_passato"
-        #assert all(lang in verb["participio_passato"] for lang in ["italian", "english", "german"]), "participio_passato"
         # Gerundio
         assert isinstance(verb["gerundio_presente"], dict), "gerundio_presente"
         assert all(lang in verb["gerundio_presente"] for lang in supported_languages), "gerundio_presente"
-        #assert all(lang in verb["gerundio_presente"] for lang in ["italian", "english", "german"]), "gerundio_presente"
         return True
     except Exception as e:
         print("Verb: " + verb["infinitive"]["italian"])
@@ -73,7 +72,6 @@ def validate_conjugations_structure(conjugations):
                     if forms is not None:
                         assert isinstance(forms, dict), f"{mood} -> {tense} -> {pronoun} should be a dictionary"
                         assert all(lang in forms for lang in supported_languages), f"{mood} -> {tense} -> {pronoun} missing translations"
-                        #assert all(lang in forms for lang in ["italian", "english", "german"]), f"{mood} -> {tense} -> {pronoun} missing translations"
 
 
 def is_valid_meta(meta):

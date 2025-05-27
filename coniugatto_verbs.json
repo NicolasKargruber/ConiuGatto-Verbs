@@ -12,6 +12,7 @@
   },
   "verbs": [
     {
+      "id": "avere",
       "infinitive": {
         "italian": "avere",
         "english": "to have",
@@ -247,6 +248,7 @@
       }
     },
     {
+      "id": "essere",
       "infinitive": {
         "italian": "essere",
         "english": "to be (permanent)",
@@ -484,6 +486,7 @@
       }
     },
     {
+      "id": "stare",
       "infinitive": {
         "italian": "stare",
         "english": "to be (temporary), to stay",
@@ -719,6 +722,7 @@
       }
     },
     {
+      "id": "volere",
       "infinitive": {
         "italian": "volere",
         "english": "to want",
@@ -956,6 +960,7 @@
       }
     },
     {
+      "id": "fare",
       "infinitive": {
         "italian": "fare",
         "english": "to do/make",
@@ -1194,6 +1199,7 @@
       }
     },
     {
+      "id": "dire",
       "infinitive": {
         "italian": "dire",
         "english": "to say",
@@ -1432,6 +1438,7 @@
       }
     },
     {
+      "id": "capire",
       "infinitive": {
         "italian": "capire",
         "english": "to understand",
@@ -1669,6 +1676,7 @@
       }
     },
     {
+      "id": "sapere",
       "infinitive": {
         "italian": "sapere",
         "english": "to know",
@@ -1904,6 +1912,7 @@
       }
     },
     {
+      "id": "spiegare",
       "infinitive": {
         "italian": "spiegare",
         "english": "to explain",
@@ -2141,6 +2150,7 @@
       }
     },
     {
+      "id": "uscire",
       "infinitive": {
         "italian": "uscire",
         "english": "to go out, to exit",
@@ -2378,6 +2388,7 @@
       }
     },
     {
+      "id": "andare",
       "infinitive": {
         "italian": "andare",
         "english": "to go",
@@ -2613,6 +2624,7 @@
       }
     },
     {
+      "id": "venire",
       "infinitive": {
         "italian": "venire",
         "english": "to come",
@@ -2851,6 +2863,7 @@
       }
     },
     {
+      "id": "potere",
       "infinitive": {
         "italian": "potere",
         "english": "can, to be able to",
@@ -3071,6 +3084,7 @@
       }
     },
     {
+      "id": "dovere",
       "infinitive": {
         "italian": "dovere",
         "english": "must, to have to",
@@ -3291,6 +3305,7 @@
       }
     },
     {
+      "id": "preferire",
       "infinitive": {
         "italian": "preferire",
         "english": "to prefer",
@@ -3528,6 +3543,7 @@
       }
     },
     {
+      "id": "bere",
       "infinitive": {
         "italian": "bere",
         "english": "to drink",
@@ -3765,6 +3781,7 @@
       }
     },
     {
+      "id": "salire",
       "infinitive": {
         "italian": "salire",
         "english": "to go up, to climb",
@@ -4003,6 +4020,7 @@
       }
     },
     {
+      "id": "rimanere",
       "infinitive": {
         "italian": "rimanere",
         "english": "to stay",
@@ -4290,6 +4308,7 @@
       }
     },
     {
+      "id": "morire",
       "infinitive": {
         "italian": "morire",
         "english": "to die",
@@ -4577,6 +4596,7 @@
       }
     },
     {
+      "id": "finire",
       "infinitive": {
         "italian": "finire",
         "english": "to finish",
@@ -4864,6 +4884,7 @@
       }
     },
     {
+      "id": "vedere",
       "infinitive": {
         "italian": "vedere",
         "english": "to see",
@@ -5151,6 +5172,7 @@
       }
     },
     {
+      "id": "leggere",
       "infinitive": {
         "italian": "leggere",
         "english": "to read",
@@ -5437,6 +5459,7 @@
       }
     },
     {
+      "id": "nascere",
       "infinitive": {
         "italian": "nascere",
         "english": "to be born",
@@ -5723,6 +5746,7 @@
       }
     },
     {
+      "id": "chiedere",
       "infinitive": {
         "italian": "chiedere",
         "english": "to ask",
@@ -6009,6 +6033,7 @@
       }
     },
     {
+      "id": "rispondere",
       "infinitive": {
         "italian": "rispondere",
         "english": "to reply",
@@ -6295,6 +6320,7 @@
       }
     },
     {
+      "id": "conoscere",
       "infinitive": {
         "italian": "conoscere",
         "english": "to know",
@@ -6581,6 +6607,7 @@
       }
     },
     {
+      "id": "mettere",
       "infinitive": {
         "italian": "mettere",
         "english": "to put",
@@ -6867,6 +6894,7 @@
       }
     },
     {
+      "id": "aprire",
       "infinitive": {
         "italian": "aprire",
         "english": "to open",
@@ -7153,6 +7181,7 @@
       }
     },
     {
+      "id": "perdere",
       "infinitive": {
         "italian": "perdere",
         "english": "to lose",
@@ -7439,6 +7468,7 @@
       }
     },
     {
+      "id": "vivere",
       "infinitive": {
         "italian": "vivere",
         "english": "to live",
@@ -7727,6 +7757,7 @@
       }
     },
     {
+      "id": "scendere",
       "infinitive": {
         "italian": "scendere",
         "english": "to go down",
@@ -8014,6 +8045,7 @@
       }
     },
     {
+      "id": "scrivere",
       "infinitive": {
         "italian": "scrivere",
         "english": "to write",
@@ -8300,6 +8332,7 @@
       }
     },
     {
+      "id": "prendere",
       "infinitive": {
         "italian": "prendere",
         "english": "to take",
@@ -8586,6 +8619,7 @@
       }
     },
     {
+      "id": "rompere",
       "infinitive": {
         "italian": "rompere",
         "english": "to break",
@@ -8872,6 +8906,7 @@
       }
     },
     {
+      "id": "correre",
       "infinitive": {
         "italian": "correre",
         "english": "to run",
@@ -9159,6 +9194,7 @@
       }
     },
     {
+      "id": "vincere",
       "infinitive": {
         "italian": "vincere",
         "english": "to win",
@@ -9445,6 +9481,7 @@
       }
     },
     {
+      "id": "tradurre",
       "infinitive": {
         "italian": "tradurre",
         "english": "to translate",
@@ -9732,6 +9769,7 @@
       }
     },
     {
+      "id": "chiudere",
       "infinitive": {
         "italian": "chiudere",
         "english": "to close",
@@ -10018,6 +10056,7 @@
       }
     },
     {
+      "id": "accendere",
       "infinitive": {
         "italian": "accendere",
         "english": "to switch on",
@@ -10304,6 +10343,7 @@
       }
     },
     {
+      "id": "crescere",
       "infinitive": {
         "italian": "crescere",
         "english": "to grow up, to increase",
@@ -10591,6 +10631,7 @@
       }
     },
     {
+      "id": "spingere",
       "infinitive": {
         "italian": "spingere",
         "english": "to push",
@@ -11451,6 +11492,7 @@
       }
     },
     {
+      "id": "mancare",
       "infinitive": {
         "italian": "mancare",
         "english": "to miss",
@@ -11738,6 +11780,7 @@
       }
     },
     {
+      "id": "interessare",
       "infinitive": {
         "italian": "interessare",
         "english": "to interest",
@@ -12022,6 +12065,7 @@
       }
     },
     {
+      "id": "sembrare",
       "infinitive": {
         "italian": "sembrare",
         "english": "to seem",
@@ -12306,6 +12350,7 @@
       }
     },
     {
+      "id": "amare",
       "infinitive": {
         "italian": "amare",
         "english": "to love",
@@ -12590,6 +12635,7 @@
       }
     },
     {
+      "id": "mangiare",
       "infinitive": {
         "italian": "mangiare",
         "english": "to eat",
@@ -12874,6 +12920,7 @@
       }
     },
     {
+      "id": "ascoltare",
       "infinitive": {
         "italian": "ascoltare",
         "english": "to listen",
@@ -13158,6 +13205,7 @@
       }
     },
     {
+      "id": "parlare",
       "infinitive": {
         "italian": "parlare",
         "english": "to speak",
@@ -13442,6 +13490,7 @@
       }
     },
     {
+      "id": "ordinare",
       "infinitive": {
         "italian": "ordinare",
         "english": "to order",
@@ -13726,6 +13775,7 @@
       }
     },
     {
+      "id": "cercare",
       "infinitive": {
         "italian": "cercare",
         "english": "to look for",
@@ -14012,6 +14062,7 @@
       }
     },
     {
+      "id": "pensare",
       "infinitive": {
         "italian": "pensare",
         "english": "to think",
@@ -14296,6 +14347,7 @@
       }
     },
     {
+      "id": "incontrare",
       "infinitive": {
         "italian": "incontrare",
         "english": "to meet",
@@ -14580,6 +14632,7 @@
       }
     },
     {
+      "id": "portare",
       "infinitive": {
         "italian": "portare",
         "english": "to bring",
@@ -14864,6 +14917,7 @@
       }
     },
     {
+      "id": "toccare",
       "infinitive": {
         "italian": "toccare",
         "english": "to touch",
@@ -15150,6 +15204,7 @@
       }
     },
     {
+      "id": "guardare",
       "infinitive": {
         "italian": "guardare",
         "english": "to watch",
@@ -15434,6 +15489,7 @@
       }
     },
     {
+      "id": "tornare",
       "infinitive": {
         "italian": "tornare",
         "english": "to return",
@@ -15718,6 +15774,7 @@
       }
     },
     {
+      "id": "trovare",
       "infinitive": {
         "italian": "trovare",
         "english": "to find",
@@ -16002,6 +16059,7 @@
       }
     },
     {
+      "id": "dare",
       "infinitive": {
         "italian": "dare",
         "english": "to give",
@@ -16286,6 +16344,7 @@
       }
     },
     {
+      "id": "abitare",
       "infinitive": {
         "italian": "abitare",
         "english": "to live in",
@@ -16570,6 +16629,7 @@
       }
     },
     {
+      "id": "sperare",
       "infinitive": {
         "italian": "sperare",
         "english": "to hope",
@@ -16854,6 +16914,7 @@
       }
     },
     {
+      "id": "aspettare",
       "infinitive": {
         "italian": "aspettare",
         "english": "to wait",
@@ -17138,6 +17199,7 @@
       }
     },
     {
+      "id": "pranzare",
       "infinitive": {
         "italian": "pranzare",
         "english": "to have lunch",
@@ -17422,6 +17484,7 @@
       }
     },
     {
+      "id": "cenare",
       "infinitive": {
         "italian": "cenare",
         "english": "to have dinner",
@@ -17706,6 +17769,7 @@
       }
     },
     {
+      "id": "telefonare",
       "infinitive": {
         "italian": "telefonare",
         "english": "to phone",
@@ -17990,6 +18054,7 @@
       }
     },
     {
+      "id": "comprare",
       "infinitive": {
         "italian": "comprare",
         "english": "to buy",
@@ -18274,6 +18339,7 @@
       }
     },
     {
+      "id": "pagare",
       "infinitive": {
         "italian": "pagare",
         "english": "to pay",
@@ -18560,6 +18626,7 @@
       }
     },
     {
+      "id": "entrare",
       "infinitive": {
         "italian": "entrare",
         "english": "to enter",
@@ -18844,6 +18911,7 @@
       }
     },
     {
+      "id": "lavorare",
       "infinitive": {
         "italian": "lavorare",
         "english": "to work",
@@ -19128,6 +19196,7 @@
       }
     },
     {
+      "id": "sedere",
       "infinitive": {
         "italian": "sedere",
         "english": "to sit",
@@ -19414,6 +19483,7 @@
       }
     },
     {
+      "id": "tenere",
       "infinitive": {
         "italian": "tenere",
         "english": "to hold",
@@ -19701,6 +19771,7 @@
       }
     },
     {
+      "id": "scegliere",
       "infinitive": {
         "italian": "scegliere",
         "english": "to choose",
@@ -19988,6 +20059,7 @@
       }
     },
     {
+      "id": "pulire",
       "infinitive": {
         "italian": "pulire",
         "english": "to clean",
@@ -20274,6 +20346,7 @@
       }
     },
     {
+      "id": "muovere",
       "infinitive": {
         "italian": "muovere",
         "english": "to move",
@@ -20561,6 +20634,7 @@
       }
     },
     {
+      "id": "costruire",
       "infinitive": {
         "italian": "costruire",
         "english": "to build",
@@ -20847,6 +20921,7 @@
       }
     },
     {
+      "id": "ridere",
       "infinitive": {
         "italian": "ridere",
         "english": "to laugh",
@@ -21131,6 +21206,7 @@
       }
     },
     {
+      "id": "spedire",
       "infinitive": {
         "italian": "spedire",
         "english": "to send",
@@ -21417,6 +21493,7 @@
       }
     },
     {
+      "id": "suonare",
       "infinitive": {
         "italian": "suonare",
         "english": "to play (an instrument), to sound",
@@ -21702,6 +21779,7 @@
       }
     },
     {
+      "id": "girare",
       "infinitive": {
         "italian": "girare",
         "english": "to turn, to rotate",
@@ -21987,6 +22065,7 @@
       }
     },
     {
+      "id": "cuocere",
       "infinitive": {
         "italian": "cuocere",
         "english": "to cook, to heat up",
@@ -22275,6 +22354,7 @@
       }
     },
     {
+      "id": "seguire",
       "infinitive": {
         "italian": "seguire",
         "english": "to follow",
@@ -22562,6 +22642,7 @@
       }
     },
     {
+      "id": "volare",
       "infinitive": {
         "italian": "volare",
         "english": "to fly",
@@ -22847,6 +22928,7 @@
       }
     },
     {
+      "id": "ritornare",
       "infinitive": {
         "italian": "ritornare",
         "english": "to return",
@@ -23132,6 +23214,7 @@
       }
     },
     {
+      "id": "migliorare",
       "infinitive": {
         "italian": "migliorare",
         "english": "to improve, to better",
@@ -23417,6 +23500,7 @@
       }
     },
     {
+      "id": "durare",
       "infinitive": {
         "italian": "durare",
         "english": "to last",
@@ -23702,6 +23786,7 @@
       }
     },
     {
+      "id": "cominciare",
       "infinitive": {
         "italian": "cominciare",
         "english": "to begin",
@@ -24286,6 +24371,7 @@
       }
     },
     {
+      "id": "cambiare",
       "infinitive": {
         "italian": "cambiare",
         "english": "to change",
@@ -24620,6 +24706,7 @@
       }
     },
     {
+      "id": "aggiungere",
       "infinitive": {
         "italian": "aggiungere",
         "english": "to add",
@@ -24907,6 +24994,7 @@
       }
     },
     {
+      "id": "piangere",
       "infinitive": {
         "italian": "piangere",
         "english": "to cry",
@@ -25194,6 +25282,7 @@
       }
     },
     {
+      "id": "valere",
       "infinitive": {
         "italian": "valere",
         "english": "to be worth",
@@ -25481,6 +25570,7 @@
       }
     },
     {
+      "id": "passare",
       "infinitive": {
         "italian": "passare",
         "english": "to pass, to spend time",
