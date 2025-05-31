@@ -29,7 +29,7 @@ Contains metadata about the entire dataset:
 - `version`: Integer incremented with each update e.g. 1.0 
 - `last_updated`: Flutter DateTime.toString() timestamp  
 - `min_app_version`: Minimum client version required  
-- `languages`: Supported languages (e.g., `["it", "en", "de"]`)
+- `languages`: Supported languages (e.g., `["italian", "english", "german", "spanish"]`)
 
 ---
 
