@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 1.5,
-    "last_updated": "2025-05-31 12:11:39",
+    "version": 1.6,
+    "last_updated": "2025-06-03 23:01:52",
     "min_app_version": "0.3.1",
     "languages": [
       "italian",
@@ -35096,7 +35096,7 @@
         "german": "anzeigen",
         "spanish": "indicar"
       },
-      "regularity": "regular",
+      "regularity": "irregular",
       "irregularities": [
         "spelling change"
       ],
@@ -39129,7 +39129,7 @@
         "german": "konjugieren, verbinden",
         "spanish": "conjugar, combinar"
       },
-      "regularity": "regular",
+      "regularity": "irregular",
       "irregularities": [
         "spelling change"
       ],
@@ -39467,7 +39467,7 @@
         "german": "navigieren",
         "spanish": "navegar"
       },
-      "regularity": "regular",
+      "regularity": "irregular",
       "irregularities": [
         "spelling change"
       ],
@@ -39804,7 +39804,7 @@
         "german": "trocknen",
         "spanish": "secar"
       },
-      "regularity": "regular",
+      "regularity": "irregular",
       "irregularities": [
         "spelling change"
       ],
@@ -40142,7 +40142,7 @@
         "german": "ermüden",
         "spanish": "cansar"
       },
-      "regularity": "regular",
+      "regularity": "irregular",
       "irregularities": [
         "spelling change"
       ],
@@ -40470,6 +40470,6379 @@
         "english": "tiring",
         "german": "ermüdend",
         "spanish": "cansando"
+      }
+    },
+    {
+      "id": "cantare",
+      "infinitive": {
+        "italian": "cantare",
+        "english": "to sing",
+        "german": "singen",
+        "spanish": "cantar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "canto",
+              "english": "sing",
+              "german": "sing",
+              "spanish": "canto"
+            },
+            "tu": {
+              "italian": "canti",
+              "english": "sing",
+              "german": "singst",
+              "spanish": "cantas"
+            },
+            "lui/lei": {
+              "italian": "canta",
+              "english": "sings",
+              "german": "singt",
+              "spanish": "canta"
+            },
+            "noi": {
+              "italian": "cantiamo",
+              "english": "sing",
+              "german": "singen",
+              "spanish": "cantamos"
+            },
+            "voi": {
+              "italian": "cantate",
+              "english": "sing",
+              "german": "singt",
+              "spanish": "cantáis"
+            },
+            "loro": {
+              "italian": "cantano",
+              "english": "sing",
+              "german": "singen",
+              "spanish": "cantan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "cantavo",
+              "english": "used to sing",
+              "german": "sang",
+              "spanish": "cantaba"
+            },
+            "tu": {
+              "italian": "cantavi",
+              "english": "used to sing",
+              "german": "sangst",
+              "spanish": "cantabas"
+            },
+            "lui/lei": {
+              "italian": "cantava",
+              "english": "used to sing",
+              "german": "sang",
+              "spanish": "cantaba"
+            },
+            "noi": {
+              "italian": "cantavamo",
+              "english": "used to sing",
+              "german": "sangen",
+              "spanish": "cantábamos"
+            },
+            "voi": {
+              "italian": "cantavate",
+              "english": "used to sing",
+              "german": "sangt",
+              "spanish": "cantabais"
+            },
+            "loro": {
+              "italian": "cantavano",
+              "english": "used to sing",
+              "german": "sangen",
+              "spanish": "cantaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "cantai",
+              "english": "sang",
+              "german": "sang",
+              "spanish": "canté"
+            },
+            "tu": {
+              "italian": "cantasti",
+              "english": "sang",
+              "german": "sangst",
+              "spanish": "cantaste"
+            },
+            "lui/lei": {
+              "italian": "cantò",
+              "english": "sang",
+              "german": "sang",
+              "spanish": "cantó"
+            },
+            "noi": {
+              "italian": "cantammo",
+              "english": "sang",
+              "german": "sangen",
+              "spanish": "cantamos"
+            },
+            "voi": {
+              "italian": "cantaste",
+              "english": "sang",
+              "german": "sangt",
+              "spanish": "cantasteis"
+            },
+            "loro": {
+              "italian": "cantarono",
+              "english": "sang",
+              "german": "sangen",
+              "spanish": "cantaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "canterò",
+              "english": "will sing",
+              "german": "werde singen",
+              "spanish": "cantaré"
+            },
+            "tu": {
+              "italian": "canterai",
+              "english": "will sing",
+              "german": "wirst singen",
+              "spanish": "cantarás"
+            },
+            "lui/lei": {
+              "italian": "canterà",
+              "english": "will sing",
+              "german": "wird singen",
+              "spanish": "cantará"
+            },
+            "noi": {
+              "italian": "canteremo",
+              "english": "will sing",
+              "german": "werden singen",
+              "spanish": "cantaremos"
+            },
+            "voi": {
+              "italian": "canterete",
+              "english": "will sing",
+              "german": "werdet singen",
+              "spanish": "cantaréis"
+            },
+            "loro": {
+              "italian": "canteranno",
+              "english": "will sing",
+              "german": "werden singen",
+              "spanish": "cantarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "canti",
+              "english": "sing",
+              "german": "sing",
+              "spanish": "cante"
+            },
+            "tu": {
+              "italian": "canti",
+              "english": "sing",
+              "german": "singst",
+              "spanish": "cantes"
+            },
+            "lui/lei": {
+              "italian": "canti",
+              "english": "sings",
+              "german": "singt",
+              "spanish": "cante"
+            },
+            "noi": {
+              "italian": "cantiamo",
+              "english": "sing",
+              "german": "singen",
+              "spanish": "cantemos"
+            },
+            "voi": {
+              "italian": "cantiate",
+              "english": "sing",
+              "german": "singt",
+              "spanish": "cantéis"
+            },
+            "loro": {
+              "italian": "cantino",
+              "english": "sing",
+              "german": "singen",
+              "spanish": "canten"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "cantassi",
+              "english": "sang",
+              "german": "sänge",
+              "spanish": "cantara"
+            },
+            "tu": {
+              "italian": "cantassi",
+              "english": "sang",
+              "german": "sängest",
+              "spanish": "cantaras"
+            },
+            "lui/lei": {
+              "italian": "cantasse",
+              "english": "sang",
+              "german": "sänge",
+              "spanish": "cantara"
+            },
+            "noi": {
+              "italian": "cantassimo",
+              "english": "sang",
+              "german": "sängen",
+              "spanish": "cantáramos"
+            },
+            "voi": {
+              "italian": "cantaste",
+              "english": "sang",
+              "german": "sänget",
+              "spanish": "cantarais"
+            },
+            "loro": {
+              "italian": "cantassero",
+              "english": "sang",
+              "german": "sängen",
+              "spanish": "cantaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "canterei",
+              "english": "would sing",
+              "german": "würde singen",
+              "spanish": "cantaría"
+            },
+            "tu": {
+              "italian": "canteresti",
+              "english": "would sing",
+              "german": "würdest singen",
+              "spanish": "cantarías"
+            },
+            "lui/lei": {
+              "italian": "canterebbe",
+              "english": "would sing",
+              "german": "würde singen",
+              "spanish": "cantaría"
+            },
+            "noi": {
+              "italian": "canteremmo",
+              "english": "would sing",
+              "german": "würden singen",
+              "spanish": "cantaríamos"
+            },
+            "voi": {
+              "italian": "cantereste",
+              "english": "would sing",
+              "german": "würdet singen",
+              "spanish": "cantaríais"
+            },
+            "loro": {
+              "italian": "canterebbero",
+              "english": "would sing",
+              "german": "würden singen",
+              "spanish": "cantarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "canta",
+              "english": "sing!",
+              "german": "sing!",
+              "spanish": "¡canta!"
+            },
+            "lui/lei": {
+              "italian": "canta",
+              "english": "sing!",
+              "german": "sing!",
+              "spanish": "¡cante!"
+            },
+            "noi": {
+              "italian": "cantiamo",
+              "english": "let's sing!",
+              "german": "singen wir!",
+              "spanish": "¡cantemos!"
+            },
+            "voi": {
+              "italian": "cantate",
+              "english": "sing!",
+              "german": "singt!",
+              "spanish": "¡cantad!"
+            },
+            "loro": {
+              "italian": "cantino",
+              "english": "sing!",
+              "german": "singen Sie!",
+              "spanish": "¡canten!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "cantato",
+        "english": "sung",
+        "german": "gesungen",
+        "spanish": "cantado"
+      },
+      "gerundio_presente": {
+        "italian": "cantando",
+        "english": "singing",
+        "german": "singend",
+        "spanish": "cantando"
+      }
+    },
+    {
+      "id": "baciare",
+      "infinitive": {
+        "italian": "baciare",
+        "english": "to kiss",
+        "german": "küssen",
+        "spanish": "besar"
+      },
+      "regularity": "irregular",
+      "irregularities": [
+        "spelling change"
+      ],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "bacio",
+              "english": "kiss",
+              "german": "küsse",
+              "spanish": "beso"
+            },
+            "tu": {
+              "italian": "baci",
+              "english": "kiss",
+              "german": "küsst",
+              "spanish": "besas"
+            },
+            "lui/lei": {
+              "italian": "bacia",
+              "english": "kisses",
+              "german": "küsst",
+              "spanish": "besa"
+            },
+            "noi": {
+              "italian": "baciamo",
+              "english": "kiss",
+              "german": "küssen",
+              "spanish": "besamos"
+            },
+            "voi": {
+              "italian": "baciate",
+              "english": "kiss",
+              "german": "küsst",
+              "spanish": "besáis"
+            },
+            "loro": {
+              "italian": "baciano",
+              "english": "kiss",
+              "german": "küssen",
+              "spanish": "besan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "baciavo",
+              "english": "used to kiss",
+              "german": "küsste",
+              "spanish": "besaba"
+            },
+            "tu": {
+              "italian": "baciavi",
+              "english": "used to kiss",
+              "german": "küsstest",
+              "spanish": "besabas"
+            },
+            "lui/lei": {
+              "italian": "baciava",
+              "english": "used to kiss",
+              "german": "küsste",
+              "spanish": "besaba"
+            },
+            "noi": {
+              "italian": "baciavamo",
+              "english": "used to kiss",
+              "german": "küssten",
+              "spanish": "besábamos"
+            },
+            "voi": {
+              "italian": "baciavate",
+              "english": "used to kiss",
+              "german": "küsstet",
+              "spanish": "besabais"
+            },
+            "loro": {
+              "italian": "baciavano",
+              "english": "used to kiss",
+              "german": "küssten",
+              "spanish": "besaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "baciai",
+              "english": "kissed",
+              "german": "küsste",
+              "spanish": "besé"
+            },
+            "tu": {
+              "italian": "baciasti",
+              "english": "kissed",
+              "german": "küsstest",
+              "spanish": "besaste"
+            },
+            "lui/lei": {
+              "italian": "baciò",
+              "english": "kissed",
+              "german": "küsste",
+              "spanish": "besó"
+            },
+            "noi": {
+              "italian": "baciammo",
+              "english": "kissed",
+              "german": "küssten",
+              "spanish": "besamos"
+            },
+            "voi": {
+              "italian": "baciaste",
+              "english": "kissed",
+              "german": "küsstet",
+              "spanish": "besasteis"
+            },
+            "loro": {
+              "italian": "baciarono",
+              "english": "kissed",
+              "german": "küssten",
+              "spanish": "besaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "bacerò",
+              "english": "will kiss",
+              "german": "werde küssen",
+              "spanish": "besará"
+            },
+            "tu": {
+              "italian": "bacerai",
+              "english": "will kiss",
+              "german": "wirst küssen",
+              "spanish": "besarás"
+            },
+            "lui/lei": {
+              "italian": "bacerà",
+              "english": "will kiss",
+              "german": "wird küssen",
+              "spanish": "besará"
+            },
+            "noi": {
+              "italian": "baceremo",
+              "english": "will kiss",
+              "german": "werden küssen",
+              "spanish": "besaremos"
+            },
+            "voi": {
+              "italian": "bacerete",
+              "english": "will kiss",
+              "german": "werdet küssen",
+              "spanish": "besaréis"
+            },
+            "loro": {
+              "italian": "baceranno",
+              "english": "will kiss",
+              "german": "werden küssen",
+              "spanish": "besarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "baci",
+              "english": "kiss",
+              "german": "küsse",
+              "spanish": "bese"
+            },
+            "tu": {
+              "italian": "baci",
+              "english": "kiss",
+              "german": "küssest",
+              "spanish": "beses"
+            },
+            "lui/lei": {
+              "italian": "baci",
+              "english": "kiss",
+              "german": "küsse",
+              "spanish": "bese"
+            },
+            "noi": {
+              "italian": "baciamo",
+              "english": "kiss",
+              "german": "küssen",
+              "spanish": "besemos"
+            },
+            "voi": {
+              "italian": "baciate",
+              "english": "kiss",
+              "german": "küsset",
+              "spanish": "beséis"
+            },
+            "loro": {
+              "italian": "bacino",
+              "english": "kiss",
+              "german": "küssen",
+              "spanish": "besen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "baciassi",
+              "english": "kissed",
+              "german": "küsste",
+              "spanish": "besara"
+            },
+            "tu": {
+              "italian": "baciassi",
+              "english": "kissed",
+              "german": "küsstest",
+              "spanish": "besaras"
+            },
+            "lui/lei": {
+              "italian": "baciasse",
+              "english": "kissed",
+              "german": "küsste",
+              "spanish": "besara"
+            },
+            "noi": {
+              "italian": "baciassimo",
+              "english": "kissed",
+              "german": "küssten",
+              "spanish": "besáramos"
+            },
+            "voi": {
+              "italian": "baciaste",
+              "english": "kissed",
+              "german": "küsstet",
+              "spanish": "besarais"
+            },
+            "loro": {
+              "italian": "baciassero",
+              "english": "kissed",
+              "german": "küssten",
+              "spanish": "besaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "bacerei",
+              "english": "would kiss",
+              "german": "würde küssen",
+              "spanish": "besaría"
+            },
+            "tu": {
+              "italian": "baceresti",
+              "english": "would kiss",
+              "german": "würdest küssen",
+              "spanish": "besarías"
+            },
+            "lui/lei": {
+              "italian": "bacerebbe",
+              "english": "would kiss",
+              "german": "würde küssen",
+              "spanish": "besaría"
+            },
+            "noi": {
+              "italian": "baceremmo",
+              "english": "would kiss",
+              "german": "würden küssen",
+              "spanish": "besaríamos"
+            },
+            "voi": {
+              "italian": "bacereste",
+              "english": "would kiss",
+              "german": "würdet küssen",
+              "spanish": "besaríais"
+            },
+            "loro": {
+              "italian": "bacerebbero",
+              "english": "would kiss",
+              "german": "würden küssen",
+              "spanish": "besarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "bacia",
+              "english": "kiss!",
+              "german": "küss!",
+              "spanish": "¡besa!"
+            },
+            "lui/lei": {
+              "italian": "baci",
+              "english": "kiss!",
+              "german": "küsse!",
+              "spanish": "¡bese!"
+            },
+            "noi": {
+              "italian": "baciamo",
+              "english": "let's kiss!",
+              "german": "küssen wir!",
+              "spanish": "¡besemos!"
+            },
+            "voi": {
+              "italian": "baciate",
+              "english": "kiss!",
+              "german": "küsst!",
+              "spanish": "¡besad!"
+            },
+            "loro": {
+              "italian": "bacino",
+              "english": "kiss!",
+              "german": "küssen Sie!",
+              "spanish": "¡besen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "baciato",
+        "english": "kissed",
+        "german": "geküsst",
+        "spanish": "besado"
+      },
+      "gerundio_presente": {
+        "italian": "baciando",
+        "english": "kissing",
+        "german": "küssend",
+        "spanish": "besando"
+      }
+    },
+    {
+      "id": "ballare",
+      "infinitive": {
+        "italian": "ballare",
+        "english": "to dance",
+        "german": "tanzen",
+        "spanish": "bailar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "ballo",
+              "english": "dance",
+              "german": "tanze",
+              "spanish": "bailo"
+            },
+            "tu": {
+              "italian": "balli",
+              "english": "dance",
+              "german": "tanzt",
+              "spanish": "bailas"
+            },
+            "lui/lei": {
+              "italian": "balla",
+              "english": "dances",
+              "german": "tanzt",
+              "spanish": "baila"
+            },
+            "noi": {
+              "italian": "balliamo",
+              "english": "dance",
+              "german": "tanzen",
+              "spanish": "bailamos"
+            },
+            "voi": {
+              "italian": "ballate",
+              "english": "dance",
+              "german": "tanzt",
+              "spanish": "bailáis"
+            },
+            "loro": {
+              "italian": "ballano",
+              "english": "dance",
+              "german": "tanzen",
+              "spanish": "bailan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "ballavo",
+              "english": "used to dance",
+              "german": "tanzte",
+              "spanish": "bailaba"
+            },
+            "tu": {
+              "italian": "ballavi",
+              "english": "used to dance",
+              "german": "tanztest",
+              "spanish": "bailabas"
+            },
+            "lui/lei": {
+              "italian": "ballava",
+              "english": "used to dance",
+              "german": "tanzte",
+              "spanish": "bailaba"
+            },
+            "noi": {
+              "italian": "ballavamo",
+              "english": "used to dance",
+              "german": "tanzten",
+              "spanish": "bailábamos"
+            },
+            "voi": {
+              "italian": "ballavate",
+              "english": "used to dance",
+              "german": "tanztet",
+              "spanish": "bailabais"
+            },
+            "loro": {
+              "italian": "ballavano",
+              "english": "used to dance",
+              "german": "tanzten",
+              "spanish": "bailaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "ballai",
+              "english": "danced",
+              "german": "tanzte",
+              "spanish": "bailé"
+            },
+            "tu": {
+              "italian": "ballasti",
+              "english": "danced",
+              "german": "tanztest",
+              "spanish": "bailaste"
+            },
+            "lui/lei": {
+              "italian": "ballò",
+              "english": "danced",
+              "german": "tanzte",
+              "spanish": "bailó"
+            },
+            "noi": {
+              "italian": "ballammo",
+              "english": "danced",
+              "german": "tanzten",
+              "spanish": "bailamos"
+            },
+            "voi": {
+              "italian": "ballaste",
+              "english": "danced",
+              "german": "tanztet",
+              "spanish": "bailasteis"
+            },
+            "loro": {
+              "italian": "ballarono",
+              "english": "danced",
+              "german": "tanzten",
+              "spanish": "bailaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "ballerò",
+              "english": "will dance",
+              "german": "werde tanzen",
+              "spanish": "bailaré"
+            },
+            "tu": {
+              "italian": "ballerai",
+              "english": "will dance",
+              "german": "wirst tanzen",
+              "spanish": "bailarás"
+            },
+            "lui/lei": {
+              "italian": "ballerà",
+              "english": "will dance",
+              "german": "wird tanzen",
+              "spanish": "bailará"
+            },
+            "noi": {
+              "italian": "balleremo",
+              "english": "will dance",
+              "german": "werden tanzen",
+              "spanish": "bailaremos"
+            },
+            "voi": {
+              "italian": "ballerete",
+              "english": "will dance",
+              "german": "werdet tanzen",
+              "spanish": "bailaréis"
+            },
+            "loro": {
+              "italian": "balleranno",
+              "english": "will dance",
+              "german": "werden tanzen",
+              "spanish": "bailarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "balli",
+              "english": "dance",
+              "german": "tanze",
+              "spanish": "baile"
+            },
+            "tu": {
+              "italian": "balli",
+              "english": "dance",
+              "german": "tanzest",
+              "spanish": "bailes"
+            },
+            "lui/lei": {
+              "italian": "balli",
+              "english": "dance",
+              "german": "tanze",
+              "spanish": "baile"
+            },
+            "noi": {
+              "italian": "balliamo",
+              "english": "dance",
+              "german": "tanzen",
+              "spanish": "bailemos"
+            },
+            "voi": {
+              "italian": "balliate",
+              "english": "dance",
+              "german": "tanzet",
+              "spanish": "bailéis"
+            },
+            "loro": {
+              "italian": "ballino",
+              "english": "dance",
+              "german": "tanzen",
+              "spanish": "bailen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "ballassi",
+              "english": "danced",
+              "german": "tanzte",
+              "spanish": "bailara"
+            },
+            "tu": {
+              "italian": "ballassi",
+              "english": "danced",
+              "german": "tanztest",
+              "spanish": "bailaras"
+            },
+            "lui/lei": {
+              "italian": "ballasse",
+              "english": "danced",
+              "german": "tanzte",
+              "spanish": "bailara"
+            },
+            "noi": {
+              "italian": "ballassimo",
+              "english": "danced",
+              "german": "tanzten",
+              "spanish": "bailáramos"
+            },
+            "voi": {
+              "italian": "ballaste",
+              "english": "danced",
+              "german": "tanztet",
+              "spanish": "bailarais"
+            },
+            "loro": {
+              "italian": "ballassero",
+              "english": "danced",
+              "german": "tanzten",
+              "spanish": "bailaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "ballerei",
+              "english": "would dance",
+              "german": "würde tanzen",
+              "spanish": "bailaría"
+            },
+            "tu": {
+              "italian": "balleresti",
+              "english": "would dance",
+              "german": "würdest tanzen",
+              "spanish": "bailarías"
+            },
+            "lui/lei": {
+              "italian": "ballerebbe",
+              "english": "would dance",
+              "german": "würde tanzen",
+              "spanish": "bailaría"
+            },
+            "noi": {
+              "italian": "balleremmo",
+              "english": "would dance",
+              "german": "würden tanzen",
+              "spanish": "bailaríamos"
+            },
+            "voi": {
+              "italian": "ballereste",
+              "english": "would dance",
+              "german": "würdet tanzen",
+              "spanish": "bailaríais"
+            },
+            "loro": {
+              "italian": "ballerebbero",
+              "english": "would dance",
+              "german": "würden tanzen",
+              "spanish": "bailarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "balla",
+              "english": "dance!",
+              "german": "tanz!",
+              "spanish": "¡baila!"
+            },
+            "lui/lei": {
+              "italian": "balli",
+              "english": "dance!",
+              "german": "tanze!",
+              "spanish": "¡baile!"
+            },
+            "noi": {
+              "italian": "balliamo",
+              "english": "let's dance!",
+              "german": "tanzen wir!",
+              "spanish": "¡bailemos!"
+            },
+            "voi": {
+              "italian": "ballate",
+              "english": "dance!",
+              "german": "tanzt!",
+              "spanish": "¡bailad!"
+            },
+            "loro": {
+              "italian": "ballino",
+              "english": "dance!",
+              "german": "tanzen Sie!",
+              "spanish": "¡bailen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "ballato",
+        "english": "danced",
+        "german": "getanzt",
+        "spanish": "bailado"
+      },
+      "gerundio_presente": {
+        "italian": "ballando",
+        "english": "dancing",
+        "german": "tanzend",
+        "spanish": "bailando"
+      }
+    },
+    {
+      "id": "costare",
+      "infinitive": {
+        "italian": "costare",
+        "english": "to cost",
+        "german": "kosten",
+        "spanish": "costar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "essere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "costo",
+              "english": "cost",
+              "german": "koste",
+              "spanish": "cuesto"
+            },
+            "tu": {
+              "italian": "costi",
+              "english": "cost",
+              "german": "kostest",
+              "spanish": "cuestas"
+            },
+            "lui/lei": {
+              "italian": "costa",
+              "english": "costs",
+              "german": "kostet",
+              "spanish": "cuesta"
+            },
+            "noi": {
+              "italian": "costiamo",
+              "english": "cost",
+              "german": "kosten",
+              "spanish": "costamos"
+            },
+            "voi": {
+              "italian": "costate",
+              "english": "cost",
+              "german": "kostet",
+              "spanish": "costáis"
+            },
+            "loro": {
+              "italian": "costano",
+              "english": "cost",
+              "german": "kosten",
+              "spanish": "cuestan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "costavo",
+              "english": "used to cost",
+              "german": "kostete",
+              "spanish": "costaba"
+            },
+            "tu": {
+              "italian": "costavi",
+              "english": "used to cost",
+              "german": "kostetest",
+              "spanish": "costabas"
+            },
+            "lui/lei": {
+              "italian": "costava",
+              "english": "used to cost",
+              "german": "kostete",
+              "spanish": "costaba"
+            },
+            "noi": {
+              "italian": "costavamo",
+              "english": "used to cost",
+              "german": "kosteten",
+              "spanish": "costábamos"
+            },
+            "voi": {
+              "italian": "costavate",
+              "english": "used to cost",
+              "german": "kostetet",
+              "spanish": "costabais"
+            },
+            "loro": {
+              "italian": "costavano",
+              "english": "used to cost",
+              "german": "kosteten",
+              "spanish": "costaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "costai",
+              "english": "costed",
+              "german": "kostete",
+              "spanish": "costé"
+            },
+            "tu": {
+              "italian": "costasti",
+              "english": "costed",
+              "german": "kostetest",
+              "spanish": "costaste"
+            },
+            "lui/lei": {
+              "italian": "costò",
+              "english": "costed",
+              "german": "kostete",
+              "spanish": "costó"
+            },
+            "noi": {
+              "italian": "costammo",
+              "english": "costed",
+              "german": "kosteten",
+              "spanish": "costamos"
+            },
+            "voi": {
+              "italian": "costaste",
+              "english": "costed",
+              "german": "kostetet",
+              "spanish": "costasteis"
+            },
+            "loro": {
+              "italian": "costarono",
+              "english": "costed",
+              "german": "kosteten",
+              "spanish": "costaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "costerò",
+              "english": "will cost",
+              "german": "werde kosten",
+              "spanish": "costaré"
+            },
+            "tu": {
+              "italian": "costerai",
+              "english": "will cost",
+              "german": "wirst kosten",
+              "spanish": "costarás"
+            },
+            "lui/lei": {
+              "italian": "costerà",
+              "english": "will cost",
+              "german": "wird kosten",
+              "spanish": "costará"
+            },
+            "noi": {
+              "italian": "costeremo",
+              "english": "will cost",
+              "german": "werden kosten",
+              "spanish": "costaremos"
+            },
+            "voi": {
+              "italian": "costerete",
+              "english": "will cost",
+              "german": "werdet kosten",
+              "spanish": "costaréis"
+            },
+            "loro": {
+              "italian": "costeranno",
+              "english": "will cost",
+              "german": "werden kosten",
+              "spanish": "costarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "costi",
+              "english": "cost",
+              "german": "koste",
+              "spanish": "cueste"
+            },
+            "tu": {
+              "italian": "costi",
+              "english": "cost",
+              "german": "kostest",
+              "spanish": "cuestes"
+            },
+            "lui/lei": {
+              "italian": "costi",
+              "english": "costs",
+              "german": "koste",
+              "spanish": "cueste"
+            },
+            "noi": {
+              "italian": "costiamo",
+              "english": "cost",
+              "german": "kosten",
+              "spanish": "costemos"
+            },
+            "voi": {
+              "italian": "costiate",
+              "english": "cost",
+              "german": "kostet",
+              "spanish": "costéis"
+            },
+            "loro": {
+              "italian": "costino",
+              "english": "cost",
+              "german": "kosten",
+              "spanish": "cuesten"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "costassi",
+              "english": "costed",
+              "german": "kostete",
+              "spanish": "costara"
+            },
+            "tu": {
+              "italian": "costassi",
+              "english": "costed",
+              "german": "kostetest",
+              "spanish": "costaras"
+            },
+            "lui/lei": {
+              "italian": "costasse",
+              "english": "costed",
+              "german": "kostete",
+              "spanish": "costara"
+            },
+            "noi": {
+              "italian": "costassimo",
+              "english": "costed",
+              "german": "kosteten",
+              "spanish": "costáramos"
+            },
+            "voi": {
+              "italian": "costaste",
+              "english": "costed",
+              "german": "kostetet",
+              "spanish": "costarais"
+            },
+            "loro": {
+              "italian": "costassero",
+              "english": "costed",
+              "german": "kosteten",
+              "spanish": "costaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "costerei",
+              "english": "would cost",
+              "german": "würde kosten",
+              "spanish": "costaría"
+            },
+            "tu": {
+              "italian": "costeresti",
+              "english": "would cost",
+              "german": "würdest kosten",
+              "spanish": "costarías"
+            },
+            "lui/lei": {
+              "italian": "costerrebbe",
+              "english": "would cost",
+              "german": "würde kosten",
+              "spanish": "costaría"
+            },
+            "noi": {
+              "italian": "costeremmo",
+              "english": "would cost",
+              "german": "würden kosten",
+              "spanish": "costaríamos"
+            },
+            "voi": {
+              "italian": "costereste",
+              "english": "would cost",
+              "german": "würdet kosten",
+              "spanish": "costaríais"
+            },
+            "loro": {
+              "italian": "costerrebbero",
+              "english": "would cost",
+              "german": "würden kosten",
+              "spanish": "costarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "costa",
+              "english": "cost!",
+              "german": "kost!",
+              "spanish": "¡cuesta!"
+            },
+            "lui/lei": {
+              "italian": "costi",
+              "english": "cost!",
+              "german": "koste!",
+              "spanish": "¡cueste!"
+            },
+            "noi": {
+              "italian": "costiamo",
+              "english": "let's cost!",
+              "german": "kosten wir!",
+              "spanish": "¡costemos!"
+            },
+            "voi": {
+              "italian": "costate",
+              "english": "cost!",
+              "german": "kostet!",
+              "spanish": "¡costad!"
+            },
+            "loro": {
+              "italian": "costino",
+              "english": "cost!",
+              "german": "kosten Sie!",
+              "spanish": "¡cuesten!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "costato",
+        "english": "costed",
+        "german": "gekostet",
+        "spanish": "costado"
+      },
+      "gerundio_presente": {
+        "italian": "costando",
+        "english": "costing",
+        "german": "kostend",
+        "spanish": "costando"
+      }
+    },
+    {
+      "id": "cucinare",
+      "infinitive": {
+        "italian": "cucinare",
+        "english": "to cook",
+        "german": "kochen",
+        "spanish": "cocinar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "cucino",
+              "english": "cook",
+              "german": "koche",
+              "spanish": "cocino"
+            },
+            "tu": {
+              "italian": "cucini",
+              "english": "cook",
+              "german": "kochst",
+              "spanish": "cocinas"
+            },
+            "lui/lei": {
+              "italian": "cucina",
+              "english": "cooks",
+              "german": "kocht",
+              "spanish": "cocina"
+            },
+            "noi": {
+              "italian": "cuciniamo",
+              "english": "cook",
+              "german": "kochen",
+              "spanish": "cocinamos"
+            },
+            "voi": {
+              "italian": "cucinate",
+              "english": "cook",
+              "german": "kocht",
+              "spanish": "cocináis"
+            },
+            "loro": {
+              "italian": "cucinano",
+              "english": "cook",
+              "german": "kochen",
+              "spanish": "cocinan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "cucinavo",
+              "english": "used to cook",
+              "german": "kochte",
+              "spanish": "cocinaba"
+            },
+            "tu": {
+              "italian": "cucinavi",
+              "english": "used to cook",
+              "german": "kochtest",
+              "spanish": "cocinabas"
+            },
+            "lui/lei": {
+              "italian": "cucinava",
+              "english": "used to cook",
+              "german": "kochte",
+              "spanish": "cocinaba"
+            },
+            "noi": {
+              "italian": "cucinavamo",
+              "english": "used to cook",
+              "german": "kochten",
+              "spanish": "cocinábamos"
+            },
+            "voi": {
+              "italian": "cucinavate",
+              "english": "used to cook",
+              "german": "kochtet",
+              "spanish": "cocinabais"
+            },
+            "loro": {
+              "italian": "cucinavano",
+              "english": "used to cook",
+              "german": "kochten",
+              "spanish": "cocinaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "cucinai",
+              "english": "cooked",
+              "german": "kochte",
+              "spanish": "cociné"
+            },
+            "tu": {
+              "italian": "cucinasti",
+              "english": "cooked",
+              "german": "kochtest",
+              "spanish": "cocinaste"
+            },
+            "lui/lei": {
+              "italian": "cucinò",
+              "english": "cooked",
+              "german": "kochte",
+              "spanish": "cocinó"
+            },
+            "noi": {
+              "italian": "cucinammo",
+              "english": "cooked",
+              "german": "kochten",
+              "spanish": "cocinamos"
+            },
+            "voi": {
+              "italian": "cucinaste",
+              "english": "cooked",
+              "german": "kochtet",
+              "spanish": "cocinasteis"
+            },
+            "loro": {
+              "italian": "cucinarono",
+              "english": "cooked",
+              "german": "kochten",
+              "spanish": "cocinaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "cucinerò",
+              "english": "will cook",
+              "german": "werde kochen",
+              "spanish": "cocinaré"
+            },
+            "tu": {
+              "italian": "cucinerai",
+              "english": "will cook",
+              "german": "wirst kochen",
+              "spanish": "cocinarás"
+            },
+            "lui/lei": {
+              "italian": "cucinerà",
+              "english": "will cook",
+              "german": "wird kochen",
+              "spanish": "cocinará"
+            },
+            "noi": {
+              "italian": "cucineremo",
+              "english": "will cook",
+              "german": "werden kochen",
+              "spanish": "cocinaremos"
+            },
+            "voi": {
+              "italian": "cucinerete",
+              "english": "will cook",
+              "german": "werdet kochen",
+              "spanish": "cocinaréis"
+            },
+            "loro": {
+              "italian": "cucineranno",
+              "english": "will cook",
+              "german": "werden kochen",
+              "spanish": "cocinarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "cucini",
+              "english": "cook",
+              "german": "koche",
+              "spanish": "cocine"
+            },
+            "tu": {
+              "italian": "cucini",
+              "english": "cook",
+              "german": "kochest",
+              "spanish": "cocines"
+            },
+            "lui/lei": {
+              "italian": "cucini",
+              "english": "cooks",
+              "german": "koche",
+              "spanish": "cocine"
+            },
+            "noi": {
+              "italian": "cuciniamo",
+              "english": "cook",
+              "german": "kochen",
+              "spanish": "cocinemos"
+            },
+            "voi": {
+              "italian": "cuciniate",
+              "english": "cook",
+              "german": "kochtet",
+              "spanish": "cocinéis"
+            },
+            "loro": {
+              "italian": "cucinino",
+              "english": "cook",
+              "german": "kochen",
+              "spanish": "cocinen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "cucinassi",
+              "english": "cooked",
+              "german": "kochte",
+              "spanish": "cocinara"
+            },
+            "tu": {
+              "italian": "cucinassi",
+              "english": "cooked",
+              "german": "kochtest",
+              "spanish": "cocinaras"
+            },
+            "lui/lei": {
+              "italian": "cucinasse",
+              "english": "cooked",
+              "german": "kochte",
+              "spanish": "cocinara"
+            },
+            "noi": {
+              "italian": "cucinassimo",
+              "english": "cooked",
+              "german": "kochten",
+              "spanish": "cocináramos"
+            },
+            "voi": {
+              "italian": "cucinaste",
+              "english": "cooked",
+              "german": "kochtet",
+              "spanish": "cocinarais"
+            },
+            "loro": {
+              "italian": "cucinassero",
+              "english": "cooked",
+              "german": "kochten",
+              "spanish": "cocinaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "cucinerei",
+              "english": "would cook",
+              "german": "würde kochen",
+              "spanish": "cocinaría"
+            },
+            "tu": {
+              "italian": "cucineresti",
+              "english": "would cook",
+              "german": "würdest kochen",
+              "spanish": "cocinarías"
+            },
+            "lui/lei": {
+              "italian": "cucinerebbe",
+              "english": "would cook",
+              "german": "würde kochen",
+              "spanish": "cocinaría"
+            },
+            "noi": {
+              "italian": "cucineremmo",
+              "english": "would cook",
+              "german": "würden kochen",
+              "spanish": "cocinaríamos"
+            },
+            "voi": {
+              "italian": "cucinereste",
+              "english": "would cook",
+              "german": "würdet kochen",
+              "spanish": "cocinaríais"
+            },
+            "loro": {
+              "italian": "cucinerebbero",
+              "english": "would cook",
+              "german": "würden kochen",
+              "spanish": "cocinarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "cucina",
+              "english": "cook!",
+              "german": "koche!",
+              "spanish": "¡cocina!"
+            },
+            "lui/lei": {
+              "italian": "cucini",
+              "english": "cook!",
+              "german": "koche!",
+              "spanish": "¡cocine!"
+            },
+            "noi": {
+              "italian": "cuciniamo",
+              "english": "let's cook!",
+              "german": "kochen wir!",
+              "spanish": "¡cocinemos!"
+            },
+            "voi": {
+              "italian": "cucinate",
+              "english": "cook!",
+              "german": "kocht!",
+              "spanish": "¡cocinad!"
+            },
+            "loro": {
+              "italian": "cucinino",
+              "english": "cook!",
+              "german": "kochen Sie!",
+              "spanish": "¡cocinen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "cucinato",
+        "english": "cooked",
+        "german": "gekocht",
+        "spanish": "cocinado"
+      },
+      "gerundio_presente": {
+        "italian": "cucinando",
+        "english": "cooking",
+        "german": "kochend",
+        "spanish": "cocinando"
+      }
+    },
+    {
+      "id": "camminare",
+      "infinitive": {
+        "italian": "camminare",
+        "english": "to walk",
+        "german": "gehen",
+        "spanish": "caminar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "cammino",
+              "english": "walk",
+              "german": "gehe",
+              "spanish": "camino"
+            },
+            "tu": {
+              "italian": "cammini",
+              "english": "walk",
+              "german": "gehst",
+              "spanish": "caminas"
+            },
+            "lui/lei": {
+              "italian": "cammina",
+              "english": "walks",
+              "german": "geht",
+              "spanish": "camina"
+            },
+            "noi": {
+              "italian": "camminiamo",
+              "english": "walk",
+              "german": "gehen",
+              "spanish": "caminamos"
+            },
+            "voi": {
+              "italian": "camminate",
+              "english": "walk",
+              "german": "geht",
+              "spanish": "camináis"
+            },
+            "loro": {
+              "italian": "camminano",
+              "english": "walk",
+              "german": "gehen",
+              "spanish": "caminan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "camminavo",
+              "english": "used to walk",
+              "german": "ging",
+              "spanish": "caminaba"
+            },
+            "tu": {
+              "italian": "camminavi",
+              "english": "used to walk",
+              "german": "gingst",
+              "spanish": "caminabas"
+            },
+            "lui/lei": {
+              "italian": "camminava",
+              "english": "used to walk",
+              "german": "ging",
+              "spanish": "caminaba"
+            },
+            "noi": {
+              "italian": "camminavamo",
+              "english": "used to walk",
+              "german": "gingen",
+              "spanish": "caminábamos"
+            },
+            "voi": {
+              "italian": "camminavate",
+              "english": "used to walk",
+              "german": "gingt",
+              "spanish": "caminabais"
+            },
+            "loro": {
+              "italian": "camminavano",
+              "english": "used to walk",
+              "german": "gingen",
+              "spanish": "caminaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "camminai",
+              "english": "walked",
+              "german": "ging",
+              "spanish": "caminé"
+            },
+            "tu": {
+              "italian": "camminasti",
+              "english": "walked",
+              "german": "gingst",
+              "spanish": "caminaste"
+            },
+            "lui/lei": {
+              "italian": "camminò",
+              "english": "walked",
+              "german": "ging",
+              "spanish": "caminó"
+            },
+            "noi": {
+              "italian": "camminammo",
+              "english": "walked",
+              "german": "gingen",
+              "spanish": "caminamos"
+            },
+            "voi": {
+              "italian": "camminaste",
+              "english": "walked",
+              "german": "gingt",
+              "spanish": "caminasteis"
+            },
+            "loro": {
+              "italian": "camminarono",
+              "english": "walked",
+              "german": "gingen",
+              "spanish": "caminaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "camminerò",
+              "english": "will walk",
+              "german": "werde gehen",
+              "spanish": "caminaré"
+            },
+            "tu": {
+              "italian": "camminerai",
+              "english": "will walk",
+              "german": "wirst gehen",
+              "spanish": "caminarás"
+            },
+            "lui/lei": {
+              "italian": "camminerà",
+              "english": "will walk",
+              "german": "wird gehen",
+              "spanish": "caminará"
+            },
+            "noi": {
+              "italian": "cammineremo",
+              "english": "will walk",
+              "german": "werden gehen",
+              "spanish": "caminaremos"
+            },
+            "voi": {
+              "italian": "camminerete",
+              "english": "will walk",
+              "german": "werdet gehen",
+              "spanish": "caminaréis"
+            },
+            "loro": {
+              "italian": "cammineranno",
+              "english": "will walk",
+              "german": "werden gehen",
+              "spanish": "caminarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "cammini",
+              "english": "walk",
+              "german": "gehe",
+              "spanish": "camine"
+            },
+            "tu": {
+              "italian": "cammini",
+              "english": "walk",
+              "german": "gehest",
+              "spanish": "camines"
+            },
+            "lui/lei": {
+              "italian": "cammini",
+              "english": "walk",
+              "german": "gehe",
+              "spanish": "camine"
+            },
+            "noi": {
+              "italian": "camminiamo",
+              "english": "walk",
+              "german": "gehen",
+              "spanish": "caminemos"
+            },
+            "voi": {
+              "italian": "camminiate",
+              "english": "walk",
+              "german": "gehet",
+              "spanish": "caminéis"
+            },
+            "loro": {
+              "italian": "camminino",
+              "english": "walk",
+              "german": "gehen",
+              "spanish": "caminen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "camminassi",
+              "english": "walked",
+              "german": "ginge",
+              "spanish": "caminara"
+            },
+            "tu": {
+              "italian": "camminassi",
+              "english": "walked",
+              "german": "gingest",
+              "spanish": "caminaras"
+            },
+            "lui/lei": {
+              "italian": "camminasse",
+              "english": "walked",
+              "german": "ginge",
+              "spanish": "caminara"
+            },
+            "noi": {
+              "italian": "camminassimo",
+              "english": "walked",
+              "german": "gingen",
+              "spanish": "camináramos"
+            },
+            "voi": {
+              "italian": "camminaste",
+              "english": "walked",
+              "german": "ginget",
+              "spanish": "caminarais"
+            },
+            "loro": {
+              "italian": "camminassero",
+              "english": "walked",
+              "german": "gingen",
+              "spanish": "caminaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "camminerei",
+              "english": "would walk",
+              "german": "würde gehen",
+              "spanish": "caminaría"
+            },
+            "tu": {
+              "italian": "cammineresti",
+              "english": "would walk",
+              "german": "würdest gehen",
+              "spanish": "caminarías"
+            },
+            "lui/lei": {
+              "italian": "camminerebbe",
+              "english": "would walk",
+              "german": "würde gehen",
+              "spanish": "caminaría"
+            },
+            "noi": {
+              "italian": "cammineremmo",
+              "english": "would walk",
+              "german": "würden gehen",
+              "spanish": "caminaríamos"
+            },
+            "voi": {
+              "italian": "camminereste",
+              "english": "would walk",
+              "german": "würdet gehen",
+              "spanish": "caminaríais"
+            },
+            "loro": {
+              "italian": "camminerebbero",
+              "english": "would walk",
+              "german": "würden gehen",
+              "spanish": "caminarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "cammina",
+              "english": "walk!",
+              "german": "geh!",
+              "spanish": "¡camina!"
+            },
+            "lui/lei": {
+              "italian": "cammini",
+              "english": "walk!",
+              "german": "gehe!",
+              "spanish": "¡camine!"
+            },
+            "noi": {
+              "italian": "camminiamo",
+              "english": "let's walk!",
+              "german": "gehen wir!",
+              "spanish": "¡caminemos!"
+            },
+            "voi": {
+              "italian": "camminate",
+              "english": "walk!",
+              "german": "geht!",
+              "spanish": "¡caminad!"
+            },
+            "loro": {
+              "italian": "camminino",
+              "english": "walk!",
+              "german": "gehen Sie!",
+              "spanish": "¡caminen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "camminato",
+        "english": "walked",
+        "german": "gegangen",
+        "spanish": "caminado"
+      },
+      "gerundio_presente": {
+        "italian": "camminando",
+        "english": "walking",
+        "german": "gehend",
+        "spanish": "caminando"
+      }
+    },
+    {
+      "id": "continuare",
+      "infinitive": {
+        "italian": "continuare",
+        "english": "to continue",
+        "german": "fortsetzen",
+        "spanish": "continuar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "continuo",
+              "english": "continue",
+              "german": "setze fort",
+              "spanish": "continúo"
+            },
+            "tu": {
+              "italian": "continui",
+              "english": "continue",
+              "german": "setzt fort",
+              "spanish": "continúas"
+            },
+            "lui/lei": {
+              "italian": "continua",
+              "english": "continues",
+              "german": "setzt fort",
+              "spanish": "continúa"
+            },
+            "noi": {
+              "italian": "continuiamo",
+              "english": "continue",
+              "german": "setzen fort",
+              "spanish": "continuamos"
+            },
+            "voi": {
+              "italian": "continuate",
+              "english": "continue",
+              "german": "setzt fort",
+              "spanish": "continuáis"
+            },
+            "loro": {
+              "italian": "continuano",
+              "english": "continue",
+              "german": "setzen fort",
+              "spanish": "continúan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "continuavo",
+              "english": "used to continue",
+              "german": "setzte fort",
+              "spanish": "continuaba"
+            },
+            "tu": {
+              "italian": "continuavi",
+              "english": "used to continue",
+              "german": "setztest fort",
+              "spanish": "continuabas"
+            },
+            "lui/lei": {
+              "italian": "continuava",
+              "english": "used to continue",
+              "german": "setzte fort",
+              "spanish": "continuaba"
+            },
+            "noi": {
+              "italian": "continuavamo",
+              "english": "used to continue",
+              "german": "setzten fort",
+              "spanish": "continuábamos"
+            },
+            "voi": {
+              "italian": "continuavate",
+              "english": "used to continue",
+              "german": "setztet fort",
+              "spanish": "continuabais"
+            },
+            "loro": {
+              "italian": "continuavano",
+              "english": "used to continue",
+              "german": "setzten fort",
+              "spanish": "continuaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "continuai",
+              "english": "continued",
+              "german": "setzte fort",
+              "spanish": "continué"
+            },
+            "tu": {
+              "italian": "continuasti",
+              "english": "continued",
+              "german": "setztest fort",
+              "spanish": "continuaste"
+            },
+            "lui/lei": {
+              "italian": "continuò",
+              "english": "continued",
+              "german": "setzte fort",
+              "spanish": "continuó"
+            },
+            "noi": {
+              "italian": "continuammo",
+              "english": "continued",
+              "german": "setzten fort",
+              "spanish": "continuamos"
+            },
+            "voi": {
+              "italian": "continuaste",
+              "english": "continued",
+              "german": "setztet fort",
+              "spanish": "continuasteis"
+            },
+            "loro": {
+              "italian": "continuarono",
+              "english": "continued",
+              "german": "setzten fort",
+              "spanish": "continuaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "continuerò",
+              "english": "will continue",
+              "german": "werde fortsetzen",
+              "spanish": "continuaré"
+            },
+            "tu": {
+              "italian": "continuerai",
+              "english": "will continue",
+              "german": "wirst fortsetzen",
+              "spanish": "continuarás"
+            },
+            "lui/lei": {
+              "italian": "continuerà",
+              "english": "will continue",
+              "german": "wird fortsetzen",
+              "spanish": "continuará"
+            },
+            "noi": {
+              "italian": "continueremo",
+              "english": "will continue",
+              "german": "werden fortsetzen",
+              "spanish": "continuaremos"
+            },
+            "voi": {
+              "italian": "continuerete",
+              "english": "will continue",
+              "german": "werdet fortsetzen",
+              "spanish": "continuaréis"
+            },
+            "loro": {
+              "italian": "continueranno",
+              "english": "will continue",
+              "german": "werden fortsetzen",
+              "spanish": "continuarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "continui",
+              "english": "continue",
+              "german": "setze fort",
+              "spanish": "continúe"
+            },
+            "tu": {
+              "italian": "continui",
+              "english": "continue",
+              "german": "setzest fort",
+              "spanish": "continúes"
+            },
+            "lui/lei": {
+              "italian": "continui",
+              "english": "continue",
+              "german": "setze fort",
+              "spanish": "continúe"
+            },
+            "noi": {
+              "italian": "continuiamo",
+              "english": "continue",
+              "german": "setzen fort",
+              "spanish": "continuemos"
+            },
+            "voi": {
+              "italian": "continuiate",
+              "english": "continue",
+              "german": "setzet fort",
+              "spanish": "continuéis"
+            },
+            "loro": {
+              "italian": "continuino",
+              "english": "continue",
+              "german": "setzen fort",
+              "spanish": "continúen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "continuassi",
+              "english": "continued",
+              "german": "setzte fort",
+              "spanish": "continuara"
+            },
+            "tu": {
+              "italian": "continuassi",
+              "english": "continued",
+              "german": "setztest fort",
+              "spanish": "continuaras"
+            },
+            "lui/lei": {
+              "italian": "continuasse",
+              "english": "continued",
+              "german": "setzte fort",
+              "spanish": "continuara"
+            },
+            "noi": {
+              "italian": "continuassimo",
+              "english": "continued",
+              "german": "setzten fort",
+              "spanish": "continuáramos"
+            },
+            "voi": {
+              "italian": "continuaste",
+              "english": "continued",
+              "german": "setztet fort",
+              "spanish": "continuarais"
+            },
+            "loro": {
+              "italian": "continuassero",
+              "english": "continued",
+              "german": "setzten fort",
+              "spanish": "continuaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "continuerei",
+              "english": "would continue",
+              "german": "würde fortsetzen",
+              "spanish": "continuaría"
+            },
+            "tu": {
+              "italian": "continueresti",
+              "english": "would continue",
+              "german": "würdest fortsetzen",
+              "spanish": "continuarías"
+            },
+            "lui/lei": {
+              "italian": "continuerebbe",
+              "english": "would continue",
+              "german": "würde fortsetzen",
+              "spanish": "continuaría"
+            },
+            "noi": {
+              "italian": "continueremmo",
+              "english": "would continue",
+              "german": "würden fortsetzen",
+              "spanish": "continuaríamos"
+            },
+            "voi": {
+              "italian": "continuereste",
+              "english": "would continue",
+              "german": "würdet fortsetzen",
+              "spanish": "continuaríais"
+            },
+            "loro": {
+              "italian": "continuerebbero",
+              "english": "would continue",
+              "german": "würden fortsetzen",
+              "spanish": "continuarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "continua",
+              "english": "continue!",
+              "german": "setz fort!",
+              "spanish": "¡continúa!"
+            },
+            "lui/lei": {
+              "italian": "continui",
+              "english": "continue!",
+              "german": "setze fort!",
+              "spanish": "¡continúe!"
+            },
+            "noi": {
+              "italian": "continuiamo",
+              "english": "let's continue!",
+              "german": "setzen wir fort!",
+              "spanish": "¡continuemos!"
+            },
+            "voi": {
+              "italian": "continuate",
+              "english": "continue!",
+              "german": "setzt fort!",
+              "spanish": "¡continuad!"
+            },
+            "loro": {
+              "italian": "continuino",
+              "english": "continue!",
+              "german": "setzen Sie fort!",
+              "spanish": "¡continúen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "continuato",
+        "english": "continued",
+        "german": "fortgesetzt",
+        "spanish": "continuado"
+      },
+      "gerundio_presente": {
+        "italian": "continuando",
+        "english": "continuing",
+        "german": "fortsetzend",
+        "spanish": "continuando"
+      }
+    },
+    {
+      "id": "dimenticare",
+      "infinitive": {
+        "italian": "dimenticare",
+        "english": "to forget",
+        "german": "vergessen",
+        "spanish": "olvidar"
+      },
+      "regularity": "irregular",
+      "irregularities": [
+        "spelling change"
+      ],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "dimentico",
+              "english": "forget",
+              "german": "vergesse",
+              "spanish": "olvido"
+            },
+            "tu": {
+              "italian": "dimentichi",
+              "english": "forget",
+              "german": "vergisst",
+              "spanish": "olvidas"
+            },
+            "lui/lei": {
+              "italian": "dimentica",
+              "english": "forgets",
+              "german": "vergisst",
+              "spanish": "olvida"
+            },
+            "noi": {
+              "italian": "dimentichiamo",
+              "english": "forget",
+              "german": "vergessen",
+              "spanish": "olvidamos"
+            },
+            "voi": {
+              "italian": "dimenticate",
+              "english": "forget",
+              "german": "vergisst",
+              "spanish": "olvidáis"
+            },
+            "loro": {
+              "italian": "dimenticano",
+              "english": "forget",
+              "german": "vergessen",
+              "spanish": "olvidan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "dimenticavo",
+              "english": "used to forget",
+              "german": "vergaß",
+              "spanish": "olvidaba"
+            },
+            "tu": {
+              "italian": "dimenticavi",
+              "english": "used to forget",
+              "german": "vergaßest",
+              "spanish": "olvidabas"
+            },
+            "lui/lei": {
+              "italian": "dimenticava",
+              "english": "used to forget",
+              "german": "vergaß",
+              "spanish": "olvidaba"
+            },
+            "noi": {
+              "italian": "dimenticavamo",
+              "english": "used to forget",
+              "german": "vergaßen",
+              "spanish": "olvidábamos"
+            },
+            "voi": {
+              "italian": "dimenticavate",
+              "english": "used to forget",
+              "german": "vergaßt",
+              "spanish": "olvidabais"
+            },
+            "loro": {
+              "italian": "dimenticavano",
+              "english": "used to forget",
+              "german": "vergaßen",
+              "spanish": "olvidaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "dimenticai",
+              "english": "forgot",
+              "german": "vergaß",
+              "spanish": "olvidé"
+            },
+            "tu": {
+              "italian": "dimenticasti",
+              "english": "forgot",
+              "german": "vergaßest",
+              "spanish": "olvidaste"
+            },
+            "lui/lei": {
+              "italian": "dimenticò",
+              "english": "forgot",
+              "german": "vergaß",
+              "spanish": "olvidó"
+            },
+            "noi": {
+              "italian": "dimenticammo",
+              "english": "forgot",
+              "german": "vergaßen",
+              "spanish": "olvidamos"
+            },
+            "voi": {
+              "italian": "dimenticaste",
+              "english": "forgot",
+              "german": "vergaßt",
+              "spanish": "olvidasteis"
+            },
+            "loro": {
+              "italian": "dimenticarono",
+              "english": "forgot",
+              "german": "vergaßen",
+              "spanish": "olvidaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "dimenticherò",
+              "english": "will forget",
+              "german": "werde vergessen",
+              "spanish": "olvidaré"
+            },
+            "tu": {
+              "italian": "dimenticherai",
+              "english": "will forget",
+              "german": "wirst vergessen",
+              "spanish": "olvidarás"
+            },
+            "lui/lei": {
+              "italian": "dimenticherà",
+              "english": "will forget",
+              "german": "wird vergessen",
+              "spanish": "olvidará"
+            },
+            "noi": {
+              "italian": "dimenticheremo",
+              "english": "will forget",
+              "german": "werden vergessen",
+              "spanish": "olvidaremos"
+            },
+            "voi": {
+              "italian": "dimenticherete",
+              "english": "will forget",
+              "german": "werdet vergessen",
+              "spanish": "olvidaréis"
+            },
+            "loro": {
+              "italian": "dimenticheranno",
+              "english": "will forget",
+              "german": "werden vergessen",
+              "spanish": "olvidarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "dimentichi",
+              "english": "forget",
+              "german": "vergesse",
+              "spanish": "olvide"
+            },
+            "tu": {
+              "italian": "dimentichi",
+              "english": "forget",
+              "german": "vergessest",
+              "spanish": "olvides"
+            },
+            "lui/lei": {
+              "italian": "dimentichi",
+              "english": "forget",
+              "german": "vergesse",
+              "spanish": "olvide"
+            },
+            "noi": {
+              "italian": "dimentichiamo",
+              "english": "forget",
+              "german": "vergessen",
+              "spanish": "olvidemos"
+            },
+            "voi": {
+              "italian": "dimentichiate",
+              "english": "forget",
+              "german": "vergesset",
+              "spanish": "olvidéis"
+            },
+            "loro": {
+              "italian": "dimentichino",
+              "english": "forget",
+              "german": "vergessen",
+              "spanish": "olviden"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "dimenticassi",
+              "english": "forgot",
+              "german": "vergaße",
+              "spanish": "olvidara"
+            },
+            "tu": {
+              "italian": "dimenticassi",
+              "english": "forgot",
+              "german": "vergaßest",
+              "spanish": "olvidaras"
+            },
+            "lui/lei": {
+              "italian": "dimenticasse",
+              "english": "forgot",
+              "german": "vergaße",
+              "spanish": "olvidara"
+            },
+            "noi": {
+              "italian": "dimenticassimo",
+              "english": "forgot",
+              "german": "vergaßen",
+              "spanish": "olvidáramos"
+            },
+            "voi": {
+              "italian": "dimenticaste",
+              "english": "forgot",
+              "german": "vergaßt",
+              "spanish": "olvidarais"
+            },
+            "loro": {
+              "italian": "dimenticassero",
+              "english": "forgot",
+              "german": "vergaßen",
+              "spanish": "olvidaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "dimenticherei",
+              "english": "would forget",
+              "german": "würde vergessen",
+              "spanish": "olvidaría"
+            },
+            "tu": {
+              "italian": "dimenticheresti",
+              "english": "would forget",
+              "german": "würdest vergessen",
+              "spanish": "olvidarías"
+            },
+            "lui/lei": {
+              "italian": "dimenticherebbe",
+              "english": "would forget",
+              "german": "würde vergessen",
+              "spanish": "olvidaría"
+            },
+            "noi": {
+              "italian": "dimenticheremmo",
+              "english": "would forget",
+              "german": "würden vergessen",
+              "spanish": "olvidaríamos"
+            },
+            "voi": {
+              "italian": "dimentichereste",
+              "english": "would forget",
+              "german": "würdet vergessen",
+              "spanish": "olvidaríais"
+            },
+            "loro": {
+              "italian": "dimenticherebbero",
+              "english": "would forget",
+              "german": "würden vergessen",
+              "spanish": "olvidarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "dimentica",
+              "english": "forget!",
+              "german": "vergiss!",
+              "spanish": "¡olvida!"
+            },
+            "lui/lei": {
+              "italian": "dimentichi",
+              "english": "forget!",
+              "german": "vergesse!",
+              "spanish": "¡olvide!"
+            },
+            "noi": {
+              "italian": "dimentichiamo",
+              "english": "let's forget!",
+              "german": "vergessen wir!",
+              "spanish": "¡olvidemos!"
+            },
+            "voi": {
+              "italian": "dimenticate",
+              "english": "forget!",
+              "german": "vergisst!",
+              "spanish": "¡olvidad!"
+            },
+            "loro": {
+              "italian": "dimentichino",
+              "english": "forget!",
+              "german": "vergessen Sie!",
+              "spanish": "¡olviden!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "dimenticato",
+        "english": "forgotten",
+        "german": "vergessen",
+        "spanish": "olvidado"
+      },
+      "gerundio_presente": {
+        "italian": "dimenticando",
+        "english": "forgetting",
+        "german": "vergessend",
+        "spanish": "olvidando"
+      }
+    },
+    {
+      "id": "domandare",
+      "infinitive": {
+        "italian": "domandare",
+        "english": "to ask",
+        "german": "fragen",
+        "spanish": "preguntar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "domando",
+              "english": "ask",
+              "german": "frage",
+              "spanish": "pregunto"
+            },
+            "tu": {
+              "italian": "domandi",
+              "english": "ask",
+              "german": "fragst",
+              "spanish": "preguntas"
+            },
+            "lui/lei": {
+              "italian": "domanda",
+              "english": "asks",
+              "german": "fragt",
+              "spanish": "pregunta"
+            },
+            "noi": {
+              "italian": "domandiamo",
+              "english": "ask",
+              "german": "fragen",
+              "spanish": "preguntamos"
+            },
+            "voi": {
+              "italian": "domandate",
+              "english": "ask",
+              "german": "fragt",
+              "spanish": "preguntáis"
+            },
+            "loro": {
+              "italian": "domandano",
+              "english": "ask",
+              "german": "fragen",
+              "spanish": "preguntan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "domandavo",
+              "english": "used to ask",
+              "german": "fragte",
+              "spanish": "preguntaba"
+            },
+            "tu": {
+              "italian": "domandavi",
+              "english": "used to ask",
+              "german": "fragtest",
+              "spanish": "preguntabas"
+            },
+            "lui/lei": {
+              "italian": "domandava",
+              "english": "used to ask",
+              "german": "fragte",
+              "spanish": "preguntaba"
+            },
+            "noi": {
+              "italian": "domandavamo",
+              "english": "used to ask",
+              "german": "fragten",
+              "spanish": "preguntábamos"
+            },
+            "voi": {
+              "italian": "domandavate",
+              "english": "used to ask",
+              "german": "fragtet",
+              "spanish": "preguntabais"
+            },
+            "loro": {
+              "italian": "domandavano",
+              "english": "used to ask",
+              "german": "fragten",
+              "spanish": "preguntaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "domandai",
+              "english": "asked",
+              "german": "fragte",
+              "spanish": "pregunté"
+            },
+            "tu": {
+              "italian": "domandasti",
+              "english": "asked",
+              "german": "fragtest",
+              "spanish": "preguntaste"
+            },
+            "lui/lei": {
+              "italian": "domandò",
+              "english": "asked",
+              "german": "fragte",
+              "spanish": "preguntó"
+            },
+            "noi": {
+              "italian": "domandammo",
+              "english": "asked",
+              "german": "fragten",
+              "spanish": "preguntamos"
+            },
+            "voi": {
+              "italian": "domandaste",
+              "english": "asked",
+              "german": "fragtet",
+              "spanish": "preguntasteis"
+            },
+            "loro": {
+              "italian": "domandarono",
+              "english": "asked",
+              "german": "fragten",
+              "spanish": "preguntaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "domanderò",
+              "english": "will ask",
+              "german": "werde fragen",
+              "spanish": "preguntaré"
+            },
+            "tu": {
+              "italian": "domanderai",
+              "english": "will ask",
+              "german": "wirst fragen",
+              "spanish": "preguntarás"
+            },
+            "lui/lei": {
+              "italian": "domanderà",
+              "english": "will ask",
+              "german": "wird fragen",
+              "spanish": "preguntará"
+            },
+            "noi": {
+              "italian": "domanderemo",
+              "english": "will ask",
+              "german": "werden fragen",
+              "spanish": "preguntaremos"
+            },
+            "voi": {
+              "italian": "domanderete",
+              "english": "will ask",
+              "german": "werdet fragen",
+              "spanish": "preguntaréis"
+            },
+            "loro": {
+              "italian": "domanderanno",
+              "english": "will ask",
+              "german": "werden fragen",
+              "spanish": "preguntarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "domandi",
+              "english": "ask",
+              "german": "frage",
+              "spanish": "pregunte"
+            },
+            "tu": {
+              "italian": "domandi",
+              "english": "ask",
+              "german": "fragest",
+              "spanish": "preguntes"
+            },
+            "lui/lei": {
+              "italian": "domandi",
+              "english": "ask",
+              "german": "frage",
+              "spanish": "pregunte"
+            },
+            "noi": {
+              "italian": "domandiamo",
+              "english": "ask",
+              "german": "fragen",
+              "spanish": "preguntemos"
+            },
+            "voi": {
+              "italian": "domandiate",
+              "english": "ask",
+              "german": "fraget",
+              "spanish": "preguntéis"
+            },
+            "loro": {
+              "italian": "domandino",
+              "english": "ask",
+              "german": "fragen",
+              "spanish": "pregunten"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "domandassi",
+              "english": "asked",
+              "german": "fragte",
+              "spanish": "preguntara"
+            },
+            "tu": {
+              "italian": "domandassi",
+              "english": "asked",
+              "german": "fragtest",
+              "spanish": "preguntaras"
+            },
+            "lui/lei": {
+              "italian": "domandasse",
+              "english": "asked",
+              "german": "fragte",
+              "spanish": "preguntara"
+            },
+            "noi": {
+              "italian": "domandassimo",
+              "english": "asked",
+              "german": "fragten",
+              "spanish": "preguntáramos"
+            },
+            "voi": {
+              "italian": "domandaste",
+              "english": "asked",
+              "german": "fragtet",
+              "spanish": "preguntarais"
+            },
+            "loro": {
+              "italian": "domandassero",
+              "english": "asked",
+              "german": "fragten",
+              "spanish": "preguntaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "domanderei",
+              "english": "would ask",
+              "german": "würde fragen",
+              "spanish": "preguntaría"
+            },
+            "tu": {
+              "italian": "domanderesti",
+              "english": "would ask",
+              "german": "würdest fragen",
+              "spanish": "preguntarías"
+            },
+            "lui/lei": {
+              "italian": "domanderebbe",
+              "english": "would ask",
+              "german": "würde fragen",
+              "spanish": "preguntaría"
+            },
+            "noi": {
+              "italian": "domanderemmo",
+              "english": "would ask",
+              "german": "würden fragen",
+              "spanish": "preguntaríamos"
+            },
+            "voi": {
+              "italian": "domandereste",
+              "english": "would ask",
+              "german": "würdet fragen",
+              "spanish": "preguntaríais"
+            },
+            "loro": {
+              "italian": "domanderebbero",
+              "english": "would ask",
+              "german": "würden fragen",
+              "spanish": "preguntarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "domanda",
+              "english": "ask!",
+              "german": "frag!",
+              "spanish": "¡pregunta!"
+            },
+            "lui/lei": {
+              "italian": "domandi",
+              "english": "ask!",
+              "german": "frage!",
+              "spanish": "¡pregunte!"
+            },
+            "noi": {
+              "italian": "domandiamo",
+              "english": "let's ask!",
+              "german": "fragen wir!",
+              "spanish": "¡preguntemos!"
+            },
+            "voi": {
+              "italian": "domandate",
+              "english": "ask!",
+              "german": "fragt!",
+              "spanish": "¡preguntad!"
+            },
+            "loro": {
+              "italian": "domandino",
+              "english": "ask!",
+              "german": "fragen Sie!",
+              "spanish": "¡pregunten!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "domandato",
+        "english": "asked",
+        "german": "gefragt",
+        "spanish": "preguntado"
+      },
+      "gerundio_presente": {
+        "italian": "domandando",
+        "english": "asking",
+        "german": "fragend",
+        "spanish": "preguntando"
+      }
+    },
+    {
+      "id": "dormire",
+      "infinitive": {
+        "italian": "dormire",
+        "english": "to sleep",
+        "german": "schlafen",
+        "spanish": "dormir"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "dormo",
+              "english": "sleep",
+              "german": "schlafe",
+              "spanish": "duermo"
+            },
+            "tu": {
+              "italian": "dormi",
+              "english": "sleep",
+              "german": "schläfst",
+              "spanish": "duermes"
+            },
+            "lui/lei": {
+              "italian": "dorme",
+              "english": "sleeps",
+              "german": "schläft",
+              "spanish": "duerme"
+            },
+            "noi": {
+              "italian": "dormiamo",
+              "english": "sleep",
+              "german": "schlafen",
+              "spanish": "dormimos"
+            },
+            "voi": {
+              "italian": "dormite",
+              "english": "sleep",
+              "german": "schlaft",
+              "spanish": "dormís"
+            },
+            "loro": {
+              "italian": "dormono",
+              "english": "sleep",
+              "german": "schlafen",
+              "spanish": "duermen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "dormivo",
+              "english": "used to sleep",
+              "german": "schlief",
+              "spanish": "dormía"
+            },
+            "tu": {
+              "italian": "dormivi",
+              "english": "used to sleep",
+              "german": "schliefst",
+              "spanish": "dormías"
+            },
+            "lui/lei": {
+              "italian": "dormiva",
+              "english": "used to sleep",
+              "german": "schlief",
+              "spanish": "dormía"
+            },
+            "noi": {
+              "italian": "dormivamo",
+              "english": "used to sleep",
+              "german": "schliefen",
+              "spanish": "dormíamos"
+            },
+            "voi": {
+              "italian": "dormivate",
+              "english": "used to sleep",
+              "german": "schlieft",
+              "spanish": "dormíais"
+            },
+            "loro": {
+              "italian": "dormivano",
+              "english": "used to sleep",
+              "german": "schliefen",
+              "spanish": "dormían"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "dormii",
+              "english": "slept",
+              "german": "schlief",
+              "spanish": "dormí"
+            },
+            "tu": {
+              "italian": "dormisti",
+              "english": "slept",
+              "german": "schliefst",
+              "spanish": "dormiste"
+            },
+            "lui/lei": {
+              "italian": "dormì",
+              "english": "slept",
+              "german": "schlief",
+              "spanish": "durmió"
+            },
+            "noi": {
+              "italian": "dormimmo",
+              "english": "slept",
+              "german": "schliefen",
+              "spanish": "dormimos"
+            },
+            "voi": {
+              "italian": "dormiste",
+              "english": "slept",
+              "german": "schlieft",
+              "spanish": "dormisteis"
+            },
+            "loro": {
+              "italian": "dormirono",
+              "english": "slept",
+              "german": "schliefen",
+              "spanish": "durmieron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "dormirò",
+              "english": "will sleep",
+              "german": "werde schlafen",
+              "spanish": "dormiré"
+            },
+            "tu": {
+              "italian": "dormirai",
+              "english": "will sleep",
+              "german": "wirst schlafen",
+              "spanish": "dormirás"
+            },
+            "lui/lei": {
+              "italian": "dormirà",
+              "english": "will sleep",
+              "german": "wird schlafen",
+              "spanish": "dormirá"
+            },
+            "noi": {
+              "italian": "dormiremo",
+              "english": "will sleep",
+              "german": "werden schlafen",
+              "spanish": "dormiremos"
+            },
+            "voi": {
+              "italian": "dormirete",
+              "english": "will sleep",
+              "german": "werdet schlafen",
+              "spanish": "dormiréis"
+            },
+            "loro": {
+              "italian": "dormiranno",
+              "english": "will sleep",
+              "german": "werden schlafen",
+              "spanish": "dormirán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "dorma",
+              "english": "sleep",
+              "german": "schlafe",
+              "spanish": "duerma"
+            },
+            "tu": {
+              "italian": "dorma",
+              "english": "sleep",
+              "german": "schlafest",
+              "spanish": "duermas"
+            },
+            "lui/lei": {
+              "italian": "dorma",
+              "english": "sleep",
+              "german": "schlafe",
+              "spanish": "duerma"
+            },
+            "noi": {
+              "italian": "dormiamo",
+              "english": "sleep",
+              "german": "schlafen",
+              "spanish": "durmamos"
+            },
+            "voi": {
+              "italian": "dormiate",
+              "english": "sleep",
+              "german": "schlaft",
+              "spanish": "durmáis"
+            },
+            "loro": {
+              "italian": "dormano",
+              "english": "sleep",
+              "german": "schlafen",
+              "spanish": "duerman"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "dormissi",
+              "english": "slept",
+              "german": "schliefe",
+              "spanish": "durmiera"
+            },
+            "tu": {
+              "italian": "dormissi",
+              "english": "slept",
+              "german": "schliefest",
+              "spanish": "durmieras"
+            },
+            "lui/lei": {
+              "italian": "dormisse",
+              "english": "slept",
+              "german": "schliefe",
+              "spanish": "durmiera"
+            },
+            "noi": {
+              "italian": "dormissimo",
+              "english": "slept",
+              "german": "schliefen",
+              "spanish": "durmiéramos"
+            },
+            "voi": {
+              "italian": "dormiste",
+              "english": "slept",
+              "german": "schliefet",
+              "spanish": "durmierais"
+            },
+            "loro": {
+              "italian": "dormissero",
+              "english": "slept",
+              "german": "schliefen",
+              "spanish": "durmieran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "dormirei",
+              "english": "would sleep",
+              "german": "würde schlafen",
+              "spanish": "dormiría"
+            },
+            "tu": {
+              "italian": "dormiresti",
+              "english": "would sleep",
+              "german": "würdest schlafen",
+              "spanish": "dormirías"
+            },
+            "lui/lei": {
+              "italian": "dormirebbe",
+              "english": "would sleep",
+              "german": "würde schlafen",
+              "spanish": "dormiría"
+            },
+            "noi": {
+              "italian": "dormiremmo",
+              "english": "would sleep",
+              "german": "würden schlafen",
+              "spanish": "dormiríamos"
+            },
+            "voi": {
+              "italian": "dormireste",
+              "english": "would sleep",
+              "german": "würdet schlafen",
+              "spanish": "dormiríais"
+            },
+            "loro": {
+              "italian": "dormirebbero",
+              "english": "would sleep",
+              "german": "würden schlafen",
+              "spanish": "dormirían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "dormi",
+              "english": "sleep!",
+              "german": "schlaf!",
+              "spanish": "¡duerme!"
+            },
+            "lui/lei": {
+              "italian": "dorma",
+              "english": "sleep!",
+              "german": "schlafe!",
+              "spanish": "¡duerma!"
+            },
+            "noi": {
+              "italian": "dormiamo",
+              "english": "let's sleep!",
+              "german": "schlafen wir!",
+              "spanish": "¡durmamos!"
+            },
+            "voi": {
+              "italian": "dormite",
+              "english": "sleep!",
+              "german": "schlaft!",
+              "spanish": "¡dormid!"
+            },
+            "loro": {
+              "italian": "dormano",
+              "english": "sleep!",
+              "german": "schlafen Sie!",
+              "spanish": "¡duerman!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "dormito",
+        "english": "slept",
+        "german": "geschlafen",
+        "spanish": "dormido"
+      },
+      "gerundio_presente": {
+        "italian": "dormendo",
+        "english": "sleeping",
+        "german": "schlafend",
+        "spanish": "durmiendo"
+      }
+    },
+    {
+      "id": "nuotare",
+      "infinitive": {
+        "italian": "nuotare",
+        "english": "to swim",
+        "german": "schwimmen",
+        "spanish": "nadar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "nuoto",
+              "english": "swim",
+              "german": "schwimme",
+              "spanish": "nado"
+            },
+            "tu": {
+              "italian": "nuoti",
+              "english": "swim",
+              "german": "schwimmst",
+              "spanish": "nadas"
+            },
+            "lui/lei": {
+              "italian": "nuota",
+              "english": "swims",
+              "german": "schwimmt",
+              "spanish": "nada"
+            },
+            "noi": {
+              "italian": "nuotiamo",
+              "english": "swim",
+              "german": "schwimmen",
+              "spanish": "nadamos"
+            },
+            "voi": {
+              "italian": "nuotate",
+              "english": "swim",
+              "german": "schwimmt",
+              "spanish": "nadáis"
+            },
+            "loro": {
+              "italian": "nuotano",
+              "english": "swim",
+              "german": "schwimmen",
+              "spanish": "nadan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "nuotavo",
+              "english": "used to swim",
+              "german": "schwamm",
+              "spanish": "nadaba"
+            },
+            "tu": {
+              "italian": "nuotavi",
+              "english": "used to swim",
+              "german": "schwammst",
+              "spanish": "nadabas"
+            },
+            "lui/lei": {
+              "italian": "nuotava",
+              "english": "used to swim",
+              "german": "schwamm",
+              "spanish": "nadaba"
+            },
+            "noi": {
+              "italian": "nuotavamo",
+              "english": "used to swim",
+              "german": "schwammen",
+              "spanish": "nadábamos"
+            },
+            "voi": {
+              "italian": "nuotavate",
+              "english": "used to swim",
+              "german": "schwammt",
+              "spanish": "nadabais"
+            },
+            "loro": {
+              "italian": "nuotavano",
+              "english": "used to swim",
+              "german": "schwammen",
+              "spanish": "nadaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "nuotai",
+              "english": "swam",
+              "german": "schwamm",
+              "spanish": "nadé"
+            },
+            "tu": {
+              "italian": "nuotasti",
+              "english": "swam",
+              "german": "schwammst",
+              "spanish": "nadaste"
+            },
+            "lui/lei": {
+              "italian": "nuotò",
+              "english": "swam",
+              "german": "schwamm",
+              "spanish": "nadó"
+            },
+            "noi": {
+              "italian": "nuotammo",
+              "english": "swam",
+              "german": "schwammen",
+              "spanish": "nadamos"
+            },
+            "voi": {
+              "italian": "nuotaste",
+              "english": "swam",
+              "german": "schwammt",
+              "spanish": "nadasteis"
+            },
+            "loro": {
+              "italian": "nuotarono",
+              "english": "swam",
+              "german": "schwammen",
+              "spanish": "nadaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "nuoterò",
+              "english": "will swim",
+              "german": "werde schwimmen",
+              "spanish": "nadaré"
+            },
+            "tu": {
+              "italian": "nuoterai",
+              "english": "will swim",
+              "german": "wirst schwimmen",
+              "spanish": "nadarás"
+            },
+            "lui/lei": {
+              "italian": "nuoterà",
+              "english": "will swim",
+              "german": "wird schwimmen",
+              "spanish": "nadará"
+            },
+            "noi": {
+              "italian": "nuoteremo",
+              "english": "will swim",
+              "german": "werden schwimmen",
+              "spanish": "nadaremos"
+            },
+            "voi": {
+              "italian": "nuoterete",
+              "english": "will swim",
+              "german": "werdet schwimmen",
+              "spanish": "nadaréis"
+            },
+            "loro": {
+              "italian": "nuoteranno",
+              "english": "will swim",
+              "german": "werden schwimmen",
+              "spanish": "nadarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "nuoti",
+              "english": "swim",
+              "german": "schwimme",
+              "spanish": "nade"
+            },
+            "tu": {
+              "italian": "nuoti",
+              "english": "swim",
+              "german": "schwimmest",
+              "spanish": "nades"
+            },
+            "lui/lei": {
+              "italian": "nuoti",
+              "english": "swim",
+              "german": "schwimme",
+              "spanish": "nade"
+            },
+            "noi": {
+              "italian": "nuotiamo",
+              "english": "swim",
+              "german": "schwimmen",
+              "spanish": "nademos"
+            },
+            "voi": {
+              "italian": "nuotiate",
+              "english": "swim",
+              "german": "schwimmt",
+              "spanish": "nadéis"
+            },
+            "loro": {
+              "italian": "nuotino",
+              "english": "swim",
+              "german": "schwimmen",
+              "spanish": "naden"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "nuotassi",
+              "english": "swam",
+              "german": "schwämme",
+              "spanish": "nadara"
+            },
+            "tu": {
+              "italian": "nuotassi",
+              "english": "swam",
+              "german": "schwämmest",
+              "spanish": "nadaras"
+            },
+            "lui/lei": {
+              "italian": "nuotasse",
+              "english": "swam",
+              "german": "schwämme",
+              "spanish": "nadara"
+            },
+            "noi": {
+              "italian": "nuotassimo",
+              "english": "swam",
+              "german": "schwämmen",
+              "spanish": "nadáramos"
+            },
+            "voi": {
+              "italian": "nuotaste",
+              "english": "swam",
+              "german": "schwämmt",
+              "spanish": "nadarais"
+            },
+            "loro": {
+              "italian": "nuotassero",
+              "english": "swam",
+              "german": "schwämmen",
+              "spanish": "nadaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "nuoterei",
+              "english": "would swim",
+              "german": "würde schwimmen",
+              "spanish": "nadaría"
+            },
+            "tu": {
+              "italian": "nuoteresti",
+              "english": "would swim",
+              "german": "würdest schwimmen",
+              "spanish": "nadarías"
+            },
+            "lui/lei": {
+              "italian": "nuoterebbe",
+              "english": "would swim",
+              "german": "würde schwimmen",
+              "spanish": "nadaría"
+            },
+            "noi": {
+              "italian": "nuoteremmo",
+              "english": "would swim",
+              "german": "würden schwimmen",
+              "spanish": "nadaríamos"
+            },
+            "voi": {
+              "italian": "nuotereste",
+              "english": "would swim",
+              "german": "würdet schwimmen",
+              "spanish": "nadaríais"
+            },
+            "loro": {
+              "italian": "nuoterebbero",
+              "english": "would swim",
+              "german": "würden schwimmen",
+              "spanish": "nadarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "nuota",
+              "english": "swim!",
+              "german": "schwimm!",
+              "spanish": "¡nada!"
+            },
+            "lui/lei": {
+              "italian": "nuoti",
+              "english": "swim!",
+              "german": "schwimme!",
+              "spanish": "¡nade!"
+            },
+            "noi": {
+              "italian": "nuotiamo",
+              "english": "let's swim!",
+              "german": "schwimmen wir!",
+              "spanish": "¡nademos!"
+            },
+            "voi": {
+              "italian": "nuotate",
+              "english": "swim!",
+              "german": "schwimmt!",
+              "spanish": "¡nadad!"
+            },
+            "loro": {
+              "italian": "nuotino",
+              "english": "swim!",
+              "german": "schwimmen Sie!",
+              "spanish": "¡naden!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "nuotato",
+        "english": "swum",
+        "german": "geschwommen",
+        "spanish": "nadado"
+      },
+      "gerundio_presente": {
+        "italian": "nuotando",
+        "english": "swimming",
+        "german": "schwimmend",
+        "spanish": "nadando"
+      }
+    },
+    {
+      "id": "visitare",
+      "infinitive": {
+        "italian": "visitare",
+        "english": "to visit",
+        "german": "besuchen",
+        "spanish": "visitar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "visito",
+              "english": "visit",
+              "german": "besuche",
+              "spanish": "visito"
+            },
+            "tu": {
+              "italian": "visiti",
+              "english": "visit",
+              "german": "besuchst",
+              "spanish": "visitas"
+            },
+            "lui/lei": {
+              "italian": "visita",
+              "english": "visits",
+              "german": "besucht",
+              "spanish": "visita"
+            },
+            "noi": {
+              "italian": "visitiamo",
+              "english": "visit",
+              "german": "besuchen",
+              "spanish": "visitamos"
+            },
+            "voi": {
+              "italian": "visitate",
+              "english": "visit",
+              "german": "besucht",
+              "spanish": "visitáis"
+            },
+            "loro": {
+              "italian": "visitano",
+              "english": "visit",
+              "german": "besuchen",
+              "spanish": "visitan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "visitavo",
+              "english": "used to visit",
+              "german": "besuchte",
+              "spanish": "visitaba"
+            },
+            "tu": {
+              "italian": "visitavi",
+              "english": "used to visit",
+              "german": "besuchtest",
+              "spanish": "visitabas"
+            },
+            "lui/lei": {
+              "italian": "visitava",
+              "english": "used to visit",
+              "german": "besuchte",
+              "spanish": "visitaba"
+            },
+            "noi": {
+              "italian": "visitavamo",
+              "english": "used to visit",
+              "german": "besuchten",
+              "spanish": "visitábamos"
+            },
+            "voi": {
+              "italian": "visitavate",
+              "english": "used to visit",
+              "german": "besuchtet",
+              "spanish": "visitabais"
+            },
+            "loro": {
+              "italian": "visitavano",
+              "english": "used to visit",
+              "german": "besuchten",
+              "spanish": "visitaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "visitai",
+              "english": "visited",
+              "german": "besuchte",
+              "spanish": "visité"
+            },
+            "tu": {
+              "italian": "visitasti",
+              "english": "visited",
+              "german": "besuchtest",
+              "spanish": "visitaste"
+            },
+            "lui/lei": {
+              "italian": "visitò",
+              "english": "visited",
+              "german": "besuchte",
+              "spanish": "visitó"
+            },
+            "noi": {
+              "italian": "visitammo",
+              "english": "visited",
+              "german": "besuchten",
+              "spanish": "visitamos"
+            },
+            "voi": {
+              "italian": "visitaste",
+              "english": "visited",
+              "german": "besuchtet",
+              "spanish": "visitasteis"
+            },
+            "loro": {
+              "italian": "visitarono",
+              "english": "visited",
+              "german": "besuchten",
+              "spanish": "visitaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "visiterò",
+              "english": "will visit",
+              "german": "werde besuchen",
+              "spanish": "visitaré"
+            },
+            "tu": {
+              "italian": "visiterai",
+              "english": "will visit",
+              "german": "wirst besuchen",
+              "spanish": "visitarás"
+            },
+            "lui/lei": {
+              "italian": "visiterà",
+              "english": "will visit",
+              "german": "wird besuchen",
+              "spanish": "visitará"
+            },
+            "noi": {
+              "italian": "visiteremo",
+              "english": "will visit",
+              "german": "werden besuchen",
+              "spanish": "visitaremos"
+            },
+            "voi": {
+              "italian": "visiterete",
+              "english": "will visit",
+              "german": "werdet besuchen",
+              "spanish": "visitaréis"
+            },
+            "loro": {
+              "italian": "visiteranno",
+              "english": "will visit",
+              "german": "werden besuchen",
+              "spanish": "visitarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "visiti",
+              "english": "visit",
+              "german": "besuche",
+              "spanish": "visite"
+            },
+            "tu": {
+              "italian": "visiti",
+              "english": "visit",
+              "german": "besuchest",
+              "spanish": "visites"
+            },
+            "lui/lei": {
+              "italian": "visiti",
+              "english": "visit",
+              "german": "besuche",
+              "spanish": "visite"
+            },
+            "noi": {
+              "italian": "visitiamo",
+              "english": "visit",
+              "german": "besuchen",
+              "spanish": "visitemos"
+            },
+            "voi": {
+              "italian": "visitate",
+              "english": "visit",
+              "german": "besuchet",
+              "spanish": "visitéis"
+            },
+            "loro": {
+              "italian": "visitino",
+              "english": "visit",
+              "german": "besuchen",
+              "spanish": "visiten"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "visitassi",
+              "english": "visited",
+              "german": "besuchte",
+              "spanish": "visitara"
+            },
+            "tu": {
+              "italian": "visitassi",
+              "english": "visited",
+              "german": "besuchtest",
+              "spanish": "visitaras"
+            },
+            "lui/lei": {
+              "italian": "visitasse",
+              "english": "visited",
+              "german": "besuchte",
+              "spanish": "visitara"
+            },
+            "noi": {
+              "italian": "visitassimo",
+              "english": "visited",
+              "german": "besuchten",
+              "spanish": "visitáramos"
+            },
+            "voi": {
+              "italian": "visitaste",
+              "english": "visited",
+              "german": "besuchtet",
+              "spanish": "visitarais"
+            },
+            "loro": {
+              "italian": "visitassero",
+              "english": "visited",
+              "german": "besuchten",
+              "spanish": "visitaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "visiterei",
+              "english": "would visit",
+              "german": "würde besuchen",
+              "spanish": "visitaría"
+            },
+            "tu": {
+              "italian": "visiteresti",
+              "english": "would visit",
+              "german": "würdest besuchen",
+              "spanish": "visitarías"
+            },
+            "lui/lei": {
+              "italian": "visiterebbe",
+              "english": "would visit",
+              "german": "würde besuchen",
+              "spanish": "visitaría"
+            },
+            "noi": {
+              "italian": "visiteremmo",
+              "english": "would visit",
+              "german": "würden besuchen",
+              "spanish": "visitaríamos"
+            },
+            "voi": {
+              "italian": "visitereste",
+              "english": "would visit",
+              "german": "würdet besuchen",
+              "spanish": "visitaríais"
+            },
+            "loro": {
+              "italian": "visiterebbero",
+              "english": "would visit",
+              "german": "würden besuchen",
+              "spanish": "visitarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "visita",
+              "english": "visit!",
+              "german": "besuche!",
+              "spanish": "¡visita!"
+            },
+            "lui/lei": {
+              "italian": "visiti",
+              "english": "visit!",
+              "german": "besuche!",
+              "spanish": "¡visite!"
+            },
+            "noi": {
+              "italian": "visitiamo",
+              "english": "let's visit!",
+              "german": "besuchen wir!",
+              "spanish": "¡visitemos!"
+            },
+            "voi": {
+              "italian": "visitate",
+              "english": "visit!",
+              "german": "besucht!",
+              "spanish": "¡visitad!"
+            },
+            "loro": {
+              "italian": "visitino",
+              "english": "visit!",
+              "german": "besuchen Sie!",
+              "spanish": "¡visiten!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "visitato",
+        "english": "visited",
+        "german": "besucht",
+        "spanish": "visitado"
+      },
+      "gerundio_presente": {
+        "italian": "visitando",
+        "english": "visiting",
+        "german": "besuchend",
+        "spanish": "visitando"
+      }
+    },
+    {
+      "id": "vietare",
+      "infinitive": {
+        "italian": "vietare",
+        "english": "to forbid",
+        "german": "verbieten",
+        "spanish": "prohibir"
+      },
+      "regularity": "irregular",
+      "irregularities": [
+        "spelling change"
+      ],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "vieto",
+              "english": "forbid",
+              "german": "verbiete",
+              "spanish": "prohíbo"
+            },
+            "tu": {
+              "italian": "vieti",
+              "english": "forbid",
+              "german": "verbietest",
+              "spanish": "prohíbes"
+            },
+            "lui/lei": {
+              "italian": "vieta",
+              "english": "forbids",
+              "german": "verbietet",
+              "spanish": "prohíbe"
+            },
+            "noi": {
+              "italian": "vietiamo",
+              "english": "forbid",
+              "german": "verbieten",
+              "spanish": "prohibimos"
+            },
+            "voi": {
+              "italian": "vietate",
+              "english": "forbid",
+              "german": "verbietet",
+              "spanish": "prohibís"
+            },
+            "loro": {
+              "italian": "vietano",
+              "english": "forbid",
+              "german": "verbieten",
+              "spanish": "prohíben"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "vietavo",
+              "english": "used to forbid",
+              "german": "verbot",
+              "spanish": "prohibía"
+            },
+            "tu": {
+              "italian": "vietavi",
+              "english": "used to forbid",
+              "german": "verbotest",
+              "spanish": "prohibías"
+            },
+            "lui/lei": {
+              "italian": "vietava",
+              "english": "used to forbid",
+              "german": "verbot",
+              "spanish": "prohibía"
+            },
+            "noi": {
+              "italian": "vietavamo",
+              "english": "used to forbid",
+              "german": "verboten",
+              "spanish": "prohibíamos"
+            },
+            "voi": {
+              "italian": "vietavate",
+              "english": "used to forbid",
+              "german": "verbotet",
+              "spanish": "prohibíais"
+            },
+            "loro": {
+              "italian": "vietavano",
+              "english": "used to forbid",
+              "german": "verboten",
+              "spanish": "prohibían"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "vietai",
+              "english": "forbade",
+              "german": "verbot",
+              "spanish": "prohibí"
+            },
+            "tu": {
+              "italian": "vietasti",
+              "english": "forbade",
+              "german": "verbotest",
+              "spanish": "prohibiste"
+            },
+            "lui/lei": {
+              "italian": "vietò",
+              "english": "forbade",
+              "german": "verbot",
+              "spanish": "prohibió"
+            },
+            "noi": {
+              "italian": "vietammo",
+              "english": "forbade",
+              "german": "verboten",
+              "spanish": "prohibimos"
+            },
+            "voi": {
+              "italian": "vietaste",
+              "english": "forbade",
+              "german": "verbotet",
+              "spanish": "prohibisteis"
+            },
+            "loro": {
+              "italian": "vietarono",
+              "english": "forbade",
+              "german": "verboten",
+              "spanish": "prohibieron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "vieterò",
+              "english": "will forbid",
+              "german": "werde verbieten",
+              "spanish": "prohibiré"
+            },
+            "tu": {
+              "italian": "vieterai",
+              "english": "will forbid",
+              "german": "wirst verbieten",
+              "spanish": "prohibirás"
+            },
+            "lui/lei": {
+              "italian": "vieterà",
+              "english": "will forbid",
+              "german": "wird verbieten",
+              "spanish": "prohibirá"
+            },
+            "noi": {
+              "italian": "vieteremo",
+              "english": "will forbid",
+              "german": "werden verbieten",
+              "spanish": "prohibiremos"
+            },
+            "voi": {
+              "italian": "vieterete",
+              "english": "will forbid",
+              "german": "werdet verbieten",
+              "spanish": "prohibiréis"
+            },
+            "loro": {
+              "italian": "vieteranno",
+              "english": "will forbid",
+              "german": "werden verbieten",
+              "spanish": "prohibirán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "vieti",
+              "english": "forbid",
+              "german": "verbiete",
+              "spanish": "prohíba"
+            },
+            "tu": {
+              "italian": "vieti",
+              "english": "forbid",
+              "german": "verbietest",
+              "spanish": "prohíbas"
+            },
+            "lui/lei": {
+              "italian": "vieti",
+              "english": "forbid",
+              "german": "verbiete",
+              "spanish": "prohíba"
+            },
+            "noi": {
+              "italian": "vietiamo",
+              "english": "forbid",
+              "german": "verbieten",
+              "spanish": "prohibamos"
+            },
+            "voi": {
+              "italian": "vietiate",
+              "english": "forbid",
+              "german": "verbietet",
+              "spanish": "prohibáis"
+            },
+            "loro": {
+              "italian": "vietino",
+              "english": "forbid",
+              "german": "verbieten",
+              "spanish": "prohíban"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "vietassi",
+              "english": "forbade",
+              "german": "verböte",
+              "spanish": "prohibiera"
+            },
+            "tu": {
+              "italian": "vietassi",
+              "english": "forbade",
+              "german": "verbötest",
+              "spanish": "prohibieras"
+            },
+            "lui/lei": {
+              "italian": "vietasse",
+              "english": "forbade",
+              "german": "verböte",
+              "spanish": "prohibiera"
+            },
+            "noi": {
+              "italian": "vietassimo",
+              "english": "forbade",
+              "german": "verböten",
+              "spanish": "prohibiéramos"
+            },
+            "voi": {
+              "italian": "vietaste",
+              "english": "forbade",
+              "german": "verbötet",
+              "spanish": "prohibierais"
+            },
+            "loro": {
+              "italian": "vietassero",
+              "english": "forbade",
+              "german": "verböten",
+              "spanish": "prohibieran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "vieterei",
+              "english": "would forbid",
+              "german": "würde verbieten",
+              "spanish": "prohibiría"
+            },
+            "tu": {
+              "italian": "vieteresti",
+              "english": "would forbid",
+              "german": "würdest verbieten",
+              "spanish": "prohibirías"
+            },
+            "lui/lei": {
+              "italian": "vieterrebbe",
+              "english": "would forbid",
+              "german": "würde verbieten",
+              "spanish": "prohibiría"
+            },
+            "noi": {
+              "italian": "vieteremmo",
+              "english": "would forbid",
+              "german": "würden verbieten",
+              "spanish": "prohibiríamos"
+            },
+            "voi": {
+              "italian": "vietereste",
+              "english": "would forbid",
+              "german": "würdet verbieten",
+              "spanish": "prohibiríais"
+            },
+            "loro": {
+              "italian": "vieterrebbero",
+              "english": "would forbid",
+              "german": "würden verbieten",
+              "spanish": "prohibirían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "vieti",
+              "english": "forbid!",
+              "german": "verbiete!",
+              "spanish": "¡prohíbe!"
+            },
+            "lui/lei": {
+              "italian": "vieti",
+              "english": "forbid!",
+              "german": "verbiete!",
+              "spanish": "¡prohíba!"
+            },
+            "noi": {
+              "italian": "vietiamo",
+              "english": "let's forbid!",
+              "german": "verbieten wir!",
+              "spanish": "¡prohibamos!"
+            },
+            "voi": {
+              "italian": "vietate",
+              "english": "forbid!",
+              "german": "verbietet!",
+              "spanish": "¡prohibid!"
+            },
+            "loro": {
+              "italian": "vietino",
+              "english": "forbid!",
+              "german": "verbieten Sie!",
+              "spanish": "¡prohíban!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "vietato",
+        "english": "forbidden",
+        "german": "verboten",
+        "spanish": "prohibido"
+      },
+      "gerundio_presente": {
+        "italian": "vietando",
+        "english": "forbidding",
+        "german": "verbietend",
+        "spanish": "prohibiendo"
+      }
+    },
+    {
+      "id": "viaggiare",
+      "infinitive": {
+        "italian": "viaggiare",
+        "english": "to travel",
+        "german": "reisen",
+        "spanish": "viajar"
+      },
+      "regularity": "irregular",
+      "irregularities": [
+        "spelling change"
+      ],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "viaggio",
+              "english": "travel",
+              "german": "reise",
+              "spanish": "viajo"
+            },
+            "tu": {
+              "italian": "viaggi",
+              "english": "travel",
+              "german": "reist",
+              "spanish": "viajas"
+            },
+            "lui/lei": {
+              "italian": "viaggia",
+              "english": "travels",
+              "german": "reist",
+              "spanish": "viaja"
+            },
+            "noi": {
+              "italian": "viaggiamo",
+              "english": "travel",
+              "german": "reisen",
+              "spanish": "viajamos"
+            },
+            "voi": {
+              "italian": "viaggiate",
+              "english": "travel",
+              "german": "reist",
+              "spanish": "viajáis"
+            },
+            "loro": {
+              "italian": "viaggiano",
+              "english": "travel",
+              "german": "reisen",
+              "spanish": "viajan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "viaggiavo",
+              "english": "used to travel",
+              "german": "reiste",
+              "spanish": "viajaba"
+            },
+            "tu": {
+              "italian": "viaggiavi",
+              "english": "used to travel",
+              "german": "reistest",
+              "spanish": "viajabas"
+            },
+            "lui/lei": {
+              "italian": "viaggiava",
+              "english": "used to travel",
+              "german": "reiste",
+              "spanish": "viajaba"
+            },
+            "noi": {
+              "italian": "viaggiavamo",
+              "english": "used to travel",
+              "german": "reisten",
+              "spanish": "viajábamos"
+            },
+            "voi": {
+              "italian": "viaggiavate",
+              "english": "used to travel",
+              "german": "reistet",
+              "spanish": "viajabais"
+            },
+            "loro": {
+              "italian": "viaggiavano",
+              "english": "used to travel",
+              "german": "reisten",
+              "spanish": "viajaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "viaggiai",
+              "english": "traveled",
+              "german": "reiste",
+              "spanish": "viajé"
+            },
+            "tu": {
+              "italian": "viaggiasti",
+              "english": "traveled",
+              "german": "reistest",
+              "spanish": "viajaste"
+            },
+            "lui/lei": {
+              "italian": "viaggiò",
+              "english": "traveled",
+              "german": "reiste",
+              "spanish": "viajó"
+            },
+            "noi": {
+              "italian": "viaggiammo",
+              "english": "traveled",
+              "german": "reisten",
+              "spanish": "viajamos"
+            },
+            "voi": {
+              "italian": "viaggiaste",
+              "english": "traveled",
+              "german": "reistet",
+              "spanish": "viajasteis"
+            },
+            "loro": {
+              "italian": "viaggiarono",
+              "english": "traveled",
+              "german": "reisten",
+              "spanish": "viajaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "viaggerò",
+              "english": "will travel",
+              "german": "werde reisen",
+              "spanish": "viajaré"
+            },
+            "tu": {
+              "italian": "viaggerai",
+              "english": "will travel",
+              "german": "wirst reisen",
+              "spanish": "viajarás"
+            },
+            "lui/lei": {
+              "italian": "viaggerà",
+              "english": "will travel",
+              "german": "wird reisen",
+              "spanish": "viajará"
+            },
+            "noi": {
+              "italian": "viaggeremo",
+              "english": "will travel",
+              "german": "werden reisen",
+              "spanish": "viajaremos"
+            },
+            "voi": {
+              "italian": "viaggerete",
+              "english": "will travel",
+              "german": "werdet reisen",
+              "spanish": "viajaréis"
+            },
+            "loro": {
+              "italian": "viaggeranno",
+              "english": "will travel",
+              "german": "werden reisen",
+              "spanish": "viajarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "viaggi",
+              "english": "travel",
+              "german": "reise",
+              "spanish": "viaje"
+            },
+            "tu": {
+              "italian": "viaggi",
+              "english": "travel",
+              "german": "reisest",
+              "spanish": "viajes"
+            },
+            "lui/lei": {
+              "italian": "viaggi",
+              "english": "travel",
+              "german": "reise",
+              "spanish": "viaje"
+            },
+            "noi": {
+              "italian": "viaggiamo",
+              "english": "travel",
+              "german": "reisen",
+              "spanish": "viajemos"
+            },
+            "voi": {
+              "italian": "viaggiate",
+              "english": "travel",
+              "german": "reiset",
+              "spanish": "viajéis"
+            },
+            "loro": {
+              "italian": "viaggino",
+              "english": "travel",
+              "german": "reisen",
+              "spanish": "viajen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "viaggiassi",
+              "english": "traveled",
+              "german": "reiste",
+              "spanish": "viajara"
+            },
+            "tu": {
+              "italian": "viaggiassi",
+              "english": "traveled",
+              "german": "reistest",
+              "spanish": "viajaras"
+            },
+            "lui/lei": {
+              "italian": "viaggiasse",
+              "english": "traveled",
+              "german": "reiste",
+              "spanish": "viajara"
+            },
+            "noi": {
+              "italian": "viaggiassimo",
+              "english": "traveled",
+              "german": "reisten",
+              "spanish": "viajáramos"
+            },
+            "voi": {
+              "italian": "viaggiaste",
+              "english": "traveled",
+              "german": "reistet",
+              "spanish": "viajarais"
+            },
+            "loro": {
+              "italian": "viaggiassero",
+              "english": "traveled",
+              "german": "reisten",
+              "spanish": "viajaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "viaggerei",
+              "english": "would travel",
+              "german": "würde reisen",
+              "spanish": "viajaría"
+            },
+            "tu": {
+              "italian": "viaggeresti",
+              "english": "would travel",
+              "german": "würdest reisen",
+              "spanish": "viajarías"
+            },
+            "lui/lei": {
+              "italian": "viaggerebbe",
+              "english": "would travel",
+              "german": "würde reisen",
+              "spanish": "viajaría"
+            },
+            "noi": {
+              "italian": "viaggeremmo",
+              "english": "would travel",
+              "german": "würden reisen",
+              "spanish": "viajaríamos"
+            },
+            "voi": {
+              "italian": "viaggereste",
+              "english": "would travel",
+              "german": "würdet reisen",
+              "spanish": "viajaríais"
+            },
+            "loro": {
+              "italian": "viaggerebbero",
+              "english": "would travel",
+              "german": "würden reisen",
+              "spanish": "viajarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "viaggia",
+              "english": "travel!",
+              "german": "reis!",
+              "spanish": "¡viaja!"
+            },
+            "lui/lei": {
+              "italian": "viaggi",
+              "english": "travel!",
+              "german": "reise!",
+              "spanish": "¡viaje!"
+            },
+            "noi": {
+              "italian": "viaggiamo",
+              "english": "let's travel!",
+              "german": "reisen wir!",
+              "spanish": "¡viajemos!"
+            },
+            "voi": {
+              "italian": "viaggiate",
+              "english": "travel!",
+              "german": "reist!",
+              "spanish": "¡viajad!"
+            },
+            "loro": {
+              "italian": "viaggino",
+              "english": "travel!",
+              "german": "reisen Sie!",
+              "spanish": "¡viajen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "viaggiato",
+        "english": "traveled",
+        "german": "gereist",
+        "spanish": "viajado"
+      },
+      "gerundio_presente": {
+        "italian": "viaggiando",
+        "english": "traveling",
+        "german": "reisend",
+        "spanish": "viajando"
+      }
+    },
+    {
+      "id": "vendere",
+      "infinitive": {
+        "italian": "vendere",
+        "english": "to sell",
+        "german": "verkaufen",
+        "spanish": "vender"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "vendo",
+              "english": "sell",
+              "german": "verkaufe",
+              "spanish": "vendo"
+            },
+            "tu": {
+              "italian": "vendi",
+              "english": "sell",
+              "german": "verkaufst",
+              "spanish": "vendes"
+            },
+            "lui/lei": {
+              "italian": "vende",
+              "english": "sells",
+              "german": "verkauft",
+              "spanish": "vende"
+            },
+            "noi": {
+              "italian": "vendiamo",
+              "english": "sell",
+              "german": "verkaufen",
+              "spanish": "vendemos"
+            },
+            "voi": {
+              "italian": "vendete",
+              "english": "sell",
+              "german": "verkauft",
+              "spanish": "vendéis"
+            },
+            "loro": {
+              "italian": "vendono",
+              "english": "sell",
+              "german": "verkaufen",
+              "spanish": "venden"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "vendevo",
+              "english": "used to sell",
+              "german": "verkaufte",
+              "spanish": "vendía"
+            },
+            "tu": {
+              "italian": "vendevi",
+              "english": "used to sell",
+              "german": "verkauftest",
+              "spanish": "vendías"
+            },
+            "lui/lei": {
+              "italian": "vendeva",
+              "english": "used to sell",
+              "german": "verkaufte",
+              "spanish": "vendía"
+            },
+            "noi": {
+              "italian": "vendevamo",
+              "english": "used to sell",
+              "german": "verkauften",
+              "spanish": "vendíamos"
+            },
+            "voi": {
+              "italian": "vendevate",
+              "english": "used to sell",
+              "german": "verkauftet",
+              "spanish": "vendíais"
+            },
+            "loro": {
+              "italian": "vendevano",
+              "english": "used to sell",
+              "german": "verkauften",
+              "spanish": "vendían"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "vendei",
+              "english": "sold",
+              "german": "verkaufte",
+              "spanish": "vendí"
+            },
+            "tu": {
+              "italian": "vendesti",
+              "english": "sold",
+              "german": "verkauftest",
+              "spanish": "vendiste"
+            },
+            "lui/lei": {
+              "italian": "vendé",
+              "english": "sold",
+              "german": "verkaufte",
+              "spanish": "vendió"
+            },
+            "noi": {
+              "italian": "vendemmo",
+              "english": "sold",
+              "german": "verkauften",
+              "spanish": "vendimos"
+            },
+            "voi": {
+              "italian": "vendeste",
+              "english": "sold",
+              "german": "verkauftet",
+              "spanish": "vendisteis"
+            },
+            "loro": {
+              "italian": "venderono",
+              "english": "sold",
+              "german": "verkauften",
+              "spanish": "vendieron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "venderò",
+              "english": "will sell",
+              "german": "werde verkaufen",
+              "spanish": "venderé"
+            },
+            "tu": {
+              "italian": "venderai",
+              "english": "will sell",
+              "german": "wirst verkaufen",
+              "spanish": "venderás"
+            },
+            "lui/lei": {
+              "italian": "venderà",
+              "english": "will sell",
+              "german": "wird verkaufen",
+              "spanish": "venderá"
+            },
+            "noi": {
+              "italian": "venderemo",
+              "english": "will sell",
+              "german": "werden verkaufen",
+              "spanish": "venderemos"
+            },
+            "voi": {
+              "italian": "venderete",
+              "english": "will sell",
+              "german": "werdet verkaufen",
+              "spanish": "venderéis"
+            },
+            "loro": {
+              "italian": "venderanno",
+              "english": "will sell",
+              "german": "werden verkaufen",
+              "spanish": "venderán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "venda",
+              "english": "sell",
+              "german": "verkaufe",
+              "spanish": "venda"
+            },
+            "tu": {
+              "italian": "venda",
+              "english": "sell",
+              "german": "verkaufest",
+              "spanish": "vendas"
+            },
+            "lui/lei": {
+              "italian": "venda",
+              "english": "sell",
+              "german": "verkaufe",
+              "spanish": "venda"
+            },
+            "noi": {
+              "italian": "vendiamo",
+              "english": "sell",
+              "german": "verkaufen",
+              "spanish": "vendamos"
+            },
+            "voi": {
+              "italian": "vendiate",
+              "english": "sell",
+              "german": "verkaufet",
+              "spanish": "vendáis"
+            },
+            "loro": {
+              "italian": "vendano",
+              "english": "sell",
+              "german": "verkaufen",
+              "spanish": "vendan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "vendessi",
+              "english": "sold",
+              "german": "verkaufte",
+              "spanish": "vendiera"
+            },
+            "tu": {
+              "italian": "vendessi",
+              "english": "sold",
+              "german": "verkauftest",
+              "spanish": "vendieras"
+            },
+            "lui/lei": {
+              "italian": "vendesse",
+              "english": "sold",
+              "german": "verkaufte",
+              "spanish": "vendiera"
+            },
+            "noi": {
+              "italian": "vendessimo",
+              "english": "sold",
+              "german": "verkauften",
+              "spanish": "vendiéramos"
+            },
+            "voi": {
+              "italian": "vendeste",
+              "english": "sold",
+              "german": "verkauftet",
+              "spanish": "vendierais"
+            },
+            "loro": {
+              "italian": "vendessero",
+              "english": "sold",
+              "german": "verkauften",
+              "spanish": "vendieran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "venderei",
+              "english": "would sell",
+              "german": "würde verkaufen",
+              "spanish": "vendería"
+            },
+            "tu": {
+              "italian": "venderesti",
+              "english": "would sell",
+              "german": "würdest verkaufen",
+              "spanish": "venderías"
+            },
+            "lui/lei": {
+              "italian": "venderebbe",
+              "english": "would sell",
+              "german": "würde verkaufen",
+              "spanish": "vendería"
+            },
+            "noi": {
+              "italian": "venderemmo",
+              "english": "would sell",
+              "german": "würden verkaufen",
+              "spanish": "venderíamos"
+            },
+            "voi": {
+              "italian": "vendereste",
+              "english": "would sell",
+              "german": "würdet verkaufen",
+              "spanish": "venderíais"
+            },
+            "loro": {
+              "italian": "venderebbero",
+              "english": "would sell",
+              "german": "würden verkaufen",
+              "spanish": "venderían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "vendi",
+              "english": "sell!",
+              "german": "verkauf!",
+              "spanish": "¡vende!"
+            },
+            "lui/lei": {
+              "italian": "venda",
+              "english": "sell!",
+              "german": "verkaufe!",
+              "spanish": "¡venda!"
+            },
+            "noi": {
+              "italian": "vendiamo",
+              "english": "let's sell!",
+              "german": "verkaufen wir!",
+              "spanish": "¡vendamos!"
+            },
+            "voi": {
+              "italian": "vendete",
+              "english": "sell!",
+              "german": "verkauft!",
+              "spanish": "¡vended!"
+            },
+            "loro": {
+              "italian": "vendano",
+              "english": "sell!",
+              "german": "verkaufen Sie!",
+              "spanish": "¡vendan!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "venduto",
+        "english": "sold",
+        "german": "verkauft",
+        "spanish": "vendido"
+      },
+      "gerundio_presente": {
+        "italian": "vendendo",
+        "english": "selling",
+        "german": "verkaufend",
+        "spanish": "vendiendo"
+      }
+    },
+    {
+      "id": "sposare",
+      "infinitive": {
+        "italian": "sposare",
+        "english": "to marry",
+        "german": "heiraten",
+        "spanish": "casar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "sposo",
+              "english": "marry",
+              "german": "heirate",
+              "spanish": "casa"
+            },
+            "tu": {
+              "italian": "sposi",
+              "english": "marry",
+              "german": "heiratest",
+              "spanish": "casas"
+            },
+            "lui/lei": {
+              "italian": "sposa",
+              "english": "marries",
+              "german": "heiratet",
+              "spanish": "casa"
+            },
+            "noi": {
+              "italian": "sposiamo",
+              "english": "marry",
+              "german": "heiraten",
+              "spanish": "casamos"
+            },
+            "voi": {
+              "italian": "sposate",
+              "english": "marry",
+              "german": "heiratet",
+              "spanish": "casáis"
+            },
+            "loro": {
+              "italian": "sposano",
+              "english": "marry",
+              "german": "heiraten",
+              "spanish": "casan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "sposavo",
+              "english": "used to marry",
+              "german": "heiratete",
+              "spanish": "casaba"
+            },
+            "tu": {
+              "italian": "sposavi",
+              "english": "used to marry",
+              "german": "heiratetest",
+              "spanish": "casabas"
+            },
+            "lui/lei": {
+              "italian": "sposava",
+              "english": "used to marry",
+              "german": "heiratete",
+              "spanish": "casaba"
+            },
+            "noi": {
+              "italian": "sposavamo",
+              "english": "used to marry",
+              "german": "heirateten",
+              "spanish": "casábamos"
+            },
+            "voi": {
+              "italian": "sposavate",
+              "english": "used to marry",
+              "german": "heiratetet",
+              "spanish": "casabais"
+            },
+            "loro": {
+              "italian": "sposavano",
+              "english": "used to marry",
+              "german": "heirateten",
+              "spanish": "casaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "sposai",
+              "english": "married",
+              "german": "heiratete",
+              "spanish": "casé"
+            },
+            "tu": {
+              "italian": "sposasti",
+              "english": "married",
+              "german": "heiratetest",
+              "spanish": "casaste"
+            },
+            "lui/lei": {
+              "italian": "sposò",
+              "english": "married",
+              "german": "heiratete",
+              "spanish": "casó"
+            },
+            "noi": {
+              "italian": "sposammo",
+              "english": "married",
+              "german": "heirateten",
+              "spanish": "casamos"
+            },
+            "voi": {
+              "italian": "sposaste",
+              "english": "married",
+              "german": "heiratetet",
+              "spanish": "casasteis"
+            },
+            "loro": {
+              "italian": "sposarono",
+              "english": "married",
+              "german": "heirateten",
+              "spanish": "casaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "sposerò",
+              "english": "will marry",
+              "german": "werde heiraten",
+              "spanish": "casaré"
+            },
+            "tu": {
+              "italian": "sposerai",
+              "english": "will marry",
+              "german": "wirst heiraten",
+              "spanish": "casarás"
+            },
+            "lui/lei": {
+              "italian": "sposerà",
+              "english": "will marry",
+              "german": "wird heiraten",
+              "spanish": "casará"
+            },
+            "noi": {
+              "italian": "sposeremo",
+              "english": "will marry",
+              "german": "werden heiraten",
+              "spanish": "casaremos"
+            },
+            "voi": {
+              "italian": "sposerete",
+              "english": "will marry",
+              "german": "werdet heiraten",
+              "spanish": "casaréis"
+            },
+            "loro": {
+              "italian": "sposeranno",
+              "english": "will marry",
+              "german": "werden heiraten",
+              "spanish": "casarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "sposi",
+              "english": "marry",
+              "german": "heirate",
+              "spanish": "case"
+            },
+            "tu": {
+              "italian": "sposi",
+              "english": "marry",
+              "german": "heiratest",
+              "spanish": "cases"
+            },
+            "lui/lei": {
+              "italian": "sposi",
+              "english": "marry",
+              "german": "heirate",
+              "spanish": "case"
+            },
+            "noi": {
+              "italian": "sposiamo",
+              "english": "marry",
+              "german": "heiraten",
+              "spanish": "casemos"
+            },
+            "voi": {
+              "italian": "sposiate",
+              "english": "marry",
+              "german": "heiratet",
+              "spanish": "caséis"
+            },
+            "loro": {
+              "italian": "sposino",
+              "english": "marry",
+              "german": "heiraten",
+              "spanish": "casen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "sposassi",
+              "english": "married",
+              "german": "heiratete",
+              "spanish": "casara"
+            },
+            "tu": {
+              "italian": "sposassi",
+              "english": "married",
+              "german": "heiratetest",
+              "spanish": "casaras"
+            },
+            "lui/lei": {
+              "italian": "sposasse",
+              "english": "married",
+              "german": "heiratete",
+              "spanish": "casara"
+            },
+            "noi": {
+              "italian": "sposassimo",
+              "english": "married",
+              "german": "heirateten",
+              "spanish": "casáramos"
+            },
+            "voi": {
+              "italian": "sposaste",
+              "english": "married",
+              "german": "heiratetet",
+              "spanish": "casarais"
+            },
+            "loro": {
+              "italian": "sposassero",
+              "english": "married",
+              "german": "heirateten",
+              "spanish": "casaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "sposerei",
+              "english": "would marry",
+              "german": "würde heiraten",
+              "spanish": "casaría"
+            },
+            "tu": {
+              "italian": "sposeresti",
+              "english": "would marry",
+              "german": "würdest heiraten",
+              "spanish": "casarías"
+            },
+            "lui/lei": {
+              "italian": "sposerebbe",
+              "english": "would marry",
+              "german": "würde heiraten",
+              "spanish": "casaría"
+            },
+            "noi": {
+              "italian": "sposeremmo",
+              "english": "would marry",
+              "german": "würden heiraten",
+              "spanish": "casaríamos"
+            },
+            "voi": {
+              "italian": "sposereste",
+              "english": "would marry",
+              "german": "würdet heiraten",
+              "spanish": "casaríais"
+            },
+            "loro": {
+              "italian": "sposerebbero",
+              "english": "would marry",
+              "german": "würden heiraten",
+              "spanish": "casarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "sposa",
+              "english": "marry!",
+              "german": "heirate!",
+              "spanish": "¡casa!"
+            },
+            "lui/lei": {
+              "italian": "sposi",
+              "english": "marry!",
+              "german": "heirate!",
+              "spanish": "¡case!"
+            },
+            "noi": {
+              "italian": "sposiamo",
+              "english": "let's marry!",
+              "german": "heiraten wir!",
+              "spanish": "¡casémonos!"
+            },
+            "voi": {
+              "italian": "sposate",
+              "english": "marry!",
+              "german": "heiratet!",
+              "spanish": "¡casad!"
+            },
+            "loro": {
+              "italian": "sposino",
+              "english": "marry!",
+              "german": "heiraten Sie!",
+              "spanish": "¡casen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "sposato",
+        "english": "married",
+        "german": "geheiratet",
+        "spanish": "casado"
+      },
+      "gerundio_presente": {
+        "italian": "sposando",
+        "english": "marrying",
+        "german": "heiraten",
+        "spanish": "casando"
+      }
+    },
+    {
+      "id": "regalare",
+      "infinitive": {
+        "italian": "regalare",
+        "english": "to give as a gift",
+        "german": "schenken",
+        "spanish": "regalar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "regalo",
+              "english": "give as a gift",
+              "german": "schenke",
+              "spanish": "regalo"
+            },
+            "tu": {
+              "italian": "regali",
+              "english": "give as a gift",
+              "german": "schenkst",
+              "spanish": "regalas"
+            },
+            "lui/lei": {
+              "italian": "regala",
+              "english": "gives as a gift",
+              "german": "schenkt",
+              "spanish": "regala"
+            },
+            "noi": {
+              "italian": "regaliamo",
+              "english": "give as a gift",
+              "german": "schenken",
+              "spanish": "regalamos"
+            },
+            "voi": {
+              "italian": "regalate",
+              "english": "give as a gift",
+              "german": "schenkt",
+              "spanish": "regaláis"
+            },
+            "loro": {
+              "italian": "regalano",
+              "english": "give as a gift",
+              "german": "schenken",
+              "spanish": "regalan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "regalavo",
+              "english": "used to give as a gift",
+              "german": "schenkte",
+              "spanish": "regalaba"
+            },
+            "tu": {
+              "italian": "regalavi",
+              "english": "used to give as a gift",
+              "german": "schenktest",
+              "spanish": "regalabas"
+            },
+            "lui/lei": {
+              "italian": "regalava",
+              "english": "used to give as a gift",
+              "german": "schenkte",
+              "spanish": "regalaba"
+            },
+            "noi": {
+              "italian": "regalavamo",
+              "english": "used to give as a gift",
+              "german": "schenkten",
+              "spanish": "regalábamos"
+            },
+            "voi": {
+              "italian": "regalavate",
+              "english": "used to give as a gift",
+              "german": "schenktet",
+              "spanish": "regalabais"
+            },
+            "loro": {
+              "italian": "regalavano",
+              "english": "used to give as a gift",
+              "german": "schenkten",
+              "spanish": "regalaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "regalai",
+              "english": "gave as a gift",
+              "german": "schenkte",
+              "spanish": "regalé"
+            },
+            "tu": {
+              "italian": "regalasti",
+              "english": "gave as a gift",
+              "german": "schenktest",
+              "spanish": "regalaste"
+            },
+            "lui/lei": {
+              "italian": "regalò",
+              "english": "gave as a gift",
+              "german": "schenkte",
+              "spanish": "regaló"
+            },
+            "noi": {
+              "italian": "regalammo",
+              "english": "gave as a gift",
+              "german": "schenkten",
+              "spanish": "regalamos"
+            },
+            "voi": {
+              "italian": "regalaste",
+              "english": "gave as a gift",
+              "german": "schenktet",
+              "spanish": "regalasteis"
+            },
+            "loro": {
+              "italian": "regalarono",
+              "english": "gave as a gift",
+              "german": "schenkten",
+              "spanish": "regalaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "regalerò",
+              "english": "will give as a gift",
+              "german": "werde schenken",
+              "spanish": "regalaré"
+            },
+            "tu": {
+              "italian": "regalerai",
+              "english": "will give as a gift",
+              "german": "wirst schenken",
+              "spanish": "regalarás"
+            },
+            "lui/lei": {
+              "italian": "regalerà",
+              "english": "will give as a gift",
+              "german": "wird schenken",
+              "spanish": "regalará"
+            },
+            "noi": {
+              "italian": "regaleremo",
+              "english": "will give as a gift",
+              "german": "werden schenken",
+              "spanish": "regalaremos"
+            },
+            "voi": {
+              "italian": "regalerete",
+              "english": "will give as a gift",
+              "german": "werdet schenken",
+              "spanish": "regalaréis"
+            },
+            "loro": {
+              "italian": "regaleranno",
+              "english": "will give as a gift",
+              "german": "werden schenken",
+              "spanish": "regalarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "regali",
+              "english": "give as a gift",
+              "german": "schenke",
+              "spanish": "regale"
+            },
+            "tu": {
+              "italian": "regali",
+              "english": "give as a gift",
+              "german": "schenkest",
+              "spanish": "regales"
+            },
+            "lui/lei": {
+              "italian": "regali",
+              "english": "give as a gift",
+              "german": "schenke",
+              "spanish": "regale"
+            },
+            "noi": {
+              "italian": "regaliamo",
+              "english": "give as a gift",
+              "german": "schenken",
+              "spanish": "regalemos"
+            },
+            "voi": {
+              "italian": "regaliate",
+              "english": "give as a gift",
+              "german": "schenket",
+              "spanish": "regaléis"
+            },
+            "loro": {
+              "italian": "regalino",
+              "english": "give as a gift",
+              "german": "schenken",
+              "spanish": "regalen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "regalassi",
+              "english": "gave as a gift",
+              "german": "schenkte",
+              "spanish": "regalara"
+            },
+            "tu": {
+              "italian": "regalassi",
+              "english": "gave as a gift",
+              "german": "schenktest",
+              "spanish": "regaras"
+            },
+            "lui/lei": {
+              "italian": "regalasse",
+              "english": "gave as a gift",
+              "german": "schenkte",
+              "spanish": "regalara"
+            },
+            "noi": {
+              "italian": "regalassimo",
+              "english": "gave as a gift",
+              "german": "schenkten",
+              "spanish": "regaláramos"
+            },
+            "voi": {
+              "italian": "regalaste",
+              "english": "gave as a gift",
+              "german": "schenktet",
+              "spanish": "regarais"
+            },
+            "loro": {
+              "italian": "regalassero",
+              "english": "gave as a gift",
+              "german": "schenkten",
+              "spanish": "regalaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "regalerei",
+              "english": "would give as a gift",
+              "german": "würde schenken",
+              "spanish": "regalaría"
+            },
+            "tu": {
+              "italian": "regaleresti",
+              "english": "would give as a gift",
+              "german": "würdest schenken",
+              "spanish": "regalarías"
+            },
+            "lui/lei": {
+              "italian": "regalerebbe",
+              "english": "would give as a gift",
+              "german": "würde schenken",
+              "spanish": "regalaría"
+            },
+            "noi": {
+              "italian": "regaleremmo",
+              "english": "would give as a gift",
+              "german": "würden schenken",
+              "spanish": "regalaríamos"
+            },
+            "voi": {
+              "italian": "regalereste",
+              "english": "would give as a gift",
+              "german": "würdet schenken",
+              "spanish": "regalaríais"
+            },
+            "loro": {
+              "italian": "regalerebbero",
+              "english": "would give as a gift",
+              "german": "würden schenken",
+              "spanish": "regalarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "regala",
+              "english": "give as a gift!",
+              "german": "schenke!",
+              "spanish": "¡regala!"
+            },
+            "lui/lei": {
+              "italian": "regali",
+              "english": "give as a gift!",
+              "german": "schenke!",
+              "spanish": "¡regale!"
+            },
+            "noi": {
+              "italian": "regaliamo",
+              "english": "let's give as a gift!",
+              "german": "schenken wir!",
+              "spanish": "¡regalemos!"
+            },
+            "voi": {
+              "italian": "regalate",
+              "english": "give as a gift!",
+              "german": "schenkt!",
+              "spanish": "¡regalad!"
+            },
+            "loro": {
+              "italian": "regalino",
+              "english": "give as a gift!",
+              "german": "schenken Sie!",
+              "spanish": "¡regalen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "regalato",
+        "english": "given as a gift",
+        "german": "geschenkt",
+        "spanish": "regalado"
+      },
+      "gerundio_presente": {
+        "italian": "regalando",
+        "english": "giving as a gift",
+        "german": "schenkend",
+        "spanish": "regalando"
+      }
+    },
+    {
+      "id": "spendere",
+      "infinitive": {
+        "italian": "spendere",
+        "english": "to spend",
+        "german": "ausgeben",
+        "spanish": "gastar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "spendo",
+              "english": "spend",
+              "german": "gebe aus",
+              "spanish": "gasto"
+            },
+            "tu": {
+              "italian": "spendi",
+              "english": "spend",
+              "german": "gibst aus",
+              "spanish": "gastas"
+            },
+            "lui/lei": {
+              "italian": "spende",
+              "english": "spends",
+              "german": "gibt aus",
+              "spanish": "gasta"
+            },
+            "noi": {
+              "italian": "spendiamo",
+              "english": "spend",
+              "german": "geben aus",
+              "spanish": "gastamos"
+            },
+            "voi": {
+              "italian": "spendete",
+              "english": "spend",
+              "german": "gebt aus",
+              "spanish": "gastáis"
+            },
+            "loro": {
+              "italian": "spendono",
+              "english": "spend",
+              "german": "geben aus",
+              "spanish": "gastan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "spendevo",
+              "english": "used to spend",
+              "german": "gab aus",
+              "spanish": "gastaba"
+            },
+            "tu": {
+              "italian": "spendevi",
+              "english": "used to spend",
+              "german": "gabst aus",
+              "spanish": "gastabas"
+            },
+            "lui/lei": {
+              "italian": "spendeva",
+              "english": "used to spend",
+              "german": "gab aus",
+              "spanish": "gastaba"
+            },
+            "noi": {
+              "italian": "spendevamo",
+              "english": "used to spend",
+              "german": "gaben aus",
+              "spanish": "gastábamos"
+            },
+            "voi": {
+              "italian": "spendevate",
+              "english": "used to spend",
+              "german": "gabt aus",
+              "spanish": "gastabais"
+            },
+            "loro": {
+              "italian": "spendevano",
+              "english": "used to spend",
+              "german": "gaben aus",
+              "spanish": "gastaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "spesi",
+              "english": "spent",
+              "german": "gab aus",
+              "spanish": "gasté"
+            },
+            "tu": {
+              "italian": "spendesti",
+              "english": "spent",
+              "german": "gabst aus",
+              "spanish": "gastaste"
+            },
+            "lui/lei": {
+              "italian": "spese",
+              "english": "spent",
+              "german": "gab aus",
+              "spanish": "gastó"
+            },
+            "noi": {
+              "italian": "spendemmo",
+              "english": "spent",
+              "german": "gaben aus",
+              "spanish": "gastamos"
+            },
+            "voi": {
+              "italian": "spendeste",
+              "english": "spent",
+              "german": "gabt aus",
+              "spanish": "gastasteis"
+            },
+            "loro": {
+              "italian": "spesero",
+              "english": "spent",
+              "german": "gaben aus",
+              "spanish": "gastaron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "spenderò",
+              "english": "will spend",
+              "german": "werde ausgeben",
+              "spanish": "gastaré"
+            },
+            "tu": {
+              "italian": "spenderai",
+              "english": "will spend",
+              "german": "wirst ausgeben",
+              "spanish": "gastarás"
+            },
+            "lui/lei": {
+              "italian": "spenderà",
+              "english": "will spend",
+              "german": "wird ausgeben",
+              "spanish": "gastará"
+            },
+            "noi": {
+              "italian": "spenderemo",
+              "english": "will spend",
+              "german": "werden ausgeben",
+              "spanish": "gastaremos"
+            },
+            "voi": {
+              "italian": "spenderete",
+              "english": "will spend",
+              "german": "werdet ausgeben",
+              "spanish": "gastaréis"
+            },
+            "loro": {
+              "italian": "spenderanno",
+              "english": "will spend",
+              "german": "werden ausgeben",
+              "spanish": "gastarán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "spenda",
+              "english": "spend",
+              "german": "gebe aus",
+              "spanish": "gaste"
+            },
+            "tu": {
+              "italian": "spenda",
+              "english": "spend",
+              "german": "gebest aus",
+              "spanish": "gastes"
+            },
+            "lui/lei": {
+              "italian": "spenda",
+              "english": "spend",
+              "german": "gebe aus",
+              "spanish": "gaste"
+            },
+            "noi": {
+              "italian": "spendiamo",
+              "english": "spend",
+              "german": "geben aus",
+              "spanish": "gastemos"
+            },
+            "voi": {
+              "italian": "spendiate",
+              "english": "spend",
+              "german": "gebt aus",
+              "spanish": "gastéis"
+            },
+            "loro": {
+              "italian": "spendano",
+              "english": "spend",
+              "german": "geben aus",
+              "spanish": "gasten"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "spendessi",
+              "english": "spent",
+              "german": "gäbe aus",
+              "spanish": "gastara"
+            },
+            "tu": {
+              "italian": "spendessi",
+              "english": "spent",
+              "german": "gäbest aus",
+              "spanish": "gastaras"
+            },
+            "lui/lei": {
+              "italian": "spendesse",
+              "english": "spent",
+              "german": "gäbe aus",
+              "spanish": "gastara"
+            },
+            "noi": {
+              "italian": "spendessimo",
+              "english": "spent",
+              "german": "gäben aus",
+              "spanish": "gastáramos"
+            },
+            "voi": {
+              "italian": "spendeste",
+              "english": "spent",
+              "german": "gäbt aus",
+              "spanish": "gastarais"
+            },
+            "loro": {
+              "italian": "spendessero",
+              "english": "spent",
+              "german": "gäben aus",
+              "spanish": "gastaran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "spenderei",
+              "english": "would spend",
+              "german": "würde ausgeben",
+              "spanish": "gastaría"
+            },
+            "tu": {
+              "italian": "spenderesti",
+              "english": "would spend",
+              "german": "würdest ausgeben",
+              "spanish": "gastarías"
+            },
+            "lui/lei": {
+              "italian": "spenderebbe",
+              "english": "would spend",
+              "german": "würde ausgeben",
+              "spanish": "gastaría"
+            },
+            "noi": {
+              "italian": "spenderemmo",
+              "english": "would spend",
+              "german": "würden ausgeben",
+              "spanish": "gastaríamos"
+            },
+            "voi": {
+              "italian": "spendereste",
+              "english": "would spend",
+              "german": "würdet ausgeben",
+              "spanish": "gastaríais"
+            },
+            "loro": {
+              "italian": "spenderebbero",
+              "english": "would spend",
+              "german": "würden ausgeben",
+              "spanish": "gastarían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "spendi",
+              "english": "spend!",
+              "german": "gib aus!",
+              "spanish": "¡gasta!"
+            },
+            "lui/lei": {
+              "italian": "spenda",
+              "english": "spend!",
+              "german": "gebe aus!",
+              "spanish": "¡gaste!"
+            },
+            "noi": {
+              "italian": "spendiamo",
+              "english": "let's spend!",
+              "german": "geben wir aus!",
+              "spanish": "¡gastemos!"
+            },
+            "voi": {
+              "italian": "spendete",
+              "english": "spend!",
+              "german": "gebt aus!",
+              "spanish": "¡gastad!"
+            },
+            "loro": {
+              "italian": "spendano",
+              "english": "spend!",
+              "german": "geben Sie aus!",
+              "spanish": "¡gasten!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "speso",
+        "english": "spent",
+        "german": "ausgegeben",
+        "spanish": "gastado"
+      },
+      "gerundio_presente": {
+        "italian": "spendendo",
+        "english": "spending",
+        "german": "ausgebend",
+        "spanish": "gastando"
+      }
+    },
+    {
+      "id": "partire",
+      "infinitive": {
+        "italian": "partire",
+        "english": "to leave",
+        "german": "abfahren",
+        "spanish": "partir"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "essere"
+      ],
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "parto",
+              "english": "leave",
+              "german": "fahre ab",
+              "spanish": "parto"
+            },
+            "tu": {
+              "italian": "parti",
+              "english": "leave",
+              "german": "fährst ab",
+              "spanish": "partes"
+            },
+            "lui/lei": {
+              "italian": "parte",
+              "english": "leaves",
+              "german": "fährt ab",
+              "spanish": "parte"
+            },
+            "noi": {
+              "italian": "partiamo",
+              "english": "leave",
+              "german": "fahren ab",
+              "spanish": "partimos"
+            },
+            "voi": {
+              "italian": "partite",
+              "english": "leave",
+              "german": "fahrt ab",
+              "spanish": "partís"
+            },
+            "loro": {
+              "italian": "partono",
+              "english": "leave",
+              "german": "fahren ab",
+              "spanish": "parten"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "partivo",
+              "english": "used to leave",
+              "german": "fuhr ab",
+              "spanish": "partía"
+            },
+            "tu": {
+              "italian": "partivi",
+              "english": "used to leave",
+              "german": "fuhrst ab",
+              "spanish": "partías"
+            },
+            "lui/lei": {
+              "italian": "partiva",
+              "english": "used to leave",
+              "german": "fuhr ab",
+              "spanish": "partía"
+            },
+            "noi": {
+              "italian": "partivamo",
+              "english": "used to leave",
+              "german": "fuhren ab",
+              "spanish": "partíamos"
+            },
+            "voi": {
+              "italian": "partivate",
+              "english": "used to leave",
+              "german": "fuhrt ab",
+              "spanish": "partíais"
+            },
+            "loro": {
+              "italian": "partivano",
+              "english": "used to leave",
+              "german": "fuhren ab",
+              "spanish": "partían"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "partii",
+              "english": "left",
+              "german": "fuhr ab",
+              "spanish": "partí"
+            },
+            "tu": {
+              "italian": "partisti",
+              "english": "left",
+              "german": "fuhrst ab",
+              "spanish": "partiste"
+            },
+            "lui/lei": {
+              "italian": "partì",
+              "english": "left",
+              "german": "fuhr ab",
+              "spanish": "partió"
+            },
+            "noi": {
+              "italian": "partimmo",
+              "english": "left",
+              "german": "fuhren ab",
+              "spanish": "partimos"
+            },
+            "voi": {
+              "italian": "partiste",
+              "english": "left",
+              "german": "fuhrt ab",
+              "spanish": "partisteis"
+            },
+            "loro": {
+              "italian": "partirono",
+              "english": "left",
+              "german": "fuhren ab",
+              "spanish": "partieron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "partirò",
+              "english": "will leave",
+              "german": "werde abfahren",
+              "spanish": "partiré"
+            },
+            "tu": {
+              "italian": "partirai",
+              "english": "will leave",
+              "german": "wirst abfahren",
+              "spanish": "partirás"
+            },
+            "lui/lei": {
+              "italian": "partirà",
+              "english": "will leave",
+              "german": "wird abfahren",
+              "spanish": "partirá"
+            },
+            "noi": {
+              "italian": "partiremo",
+              "english": "will leave",
+              "german": "werden abfahren",
+              "spanish": "partiremos"
+            },
+            "voi": {
+              "italian": "partirete",
+              "english": "will leave",
+              "german": "werdet abfahren",
+              "spanish": "partiréis"
+            },
+            "loro": {
+              "italian": "partiranno",
+              "english": "will leave",
+              "german": "werden abfahren",
+              "spanish": "partirán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "parta",
+              "english": "leave",
+              "german": "fahre ab",
+              "spanish": "parta"
+            },
+            "tu": {
+              "italian": "parta",
+              "english": "leave",
+              "german": "fahrest ab",
+              "spanish": "partas"
+            },
+            "lui/lei": {
+              "italian": "parta",
+              "english": "leave",
+              "german": "fahre ab",
+              "spanish": "parta"
+            },
+            "noi": {
+              "italian": "partiamo",
+              "english": "leave",
+              "german": "fahren ab",
+              "spanish": "partamos"
+            },
+            "voi": {
+              "italian": "partiate",
+              "english": "leave",
+              "german": "fahret ab",
+              "spanish": "partáis"
+            },
+            "loro": {
+              "italian": "partano",
+              "english": "leave",
+              "german": "fahren ab",
+              "spanish": "partan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "partissi",
+              "english": "left",
+              "german": "führe ab",
+              "spanish": "partiera"
+            },
+            "tu": {
+              "italian": "partissi",
+              "english": "left",
+              "german": "führest ab",
+              "spanish": "partieras"
+            },
+            "lui/lei": {
+              "italian": "partisse",
+              "english": "left",
+              "german": "führe ab",
+              "spanish": "partiera"
+            },
+            "noi": {
+              "italian": "partissimo",
+              "english": "left",
+              "german": "führen ab",
+              "spanish": "partiéramos"
+            },
+            "voi": {
+              "italian": "partiste",
+              "english": "left",
+              "german": "führt ab",
+              "spanish": "partierais"
+            },
+            "loro": {
+              "italian": "partissero",
+              "english": "left",
+              "german": "führen ab",
+              "spanish": "partieran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "partirei",
+              "english": "would leave",
+              "german": "würde abfahren",
+              "spanish": "partiría"
+            },
+            "tu": {
+              "italian": "partiresti",
+              "english": "would leave",
+              "german": "würdest abfahren",
+              "spanish": "partirías"
+            },
+            "lui/lei": {
+              "italian": "partirebbe",
+              "english": "would leave",
+              "german": "würde abfahren",
+              "spanish": "partiría"
+            },
+            "noi": {
+              "italian": "partiremmo",
+              "english": "would leave",
+              "german": "würden abfahren",
+              "spanish": "partiríamos"
+            },
+            "voi": {
+              "italian": "partireste",
+              "english": "would leave",
+              "german": "würdet abfahren",
+              "spanish": "partiríais"
+            },
+            "loro": {
+              "italian": "partirebbero",
+              "english": "would leave",
+              "german": "würden abfahren",
+              "spanish": "partirían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "parti",
+              "english": "leave!",
+              "german": "fahr ab!",
+              "spanish": "¡parte!"
+            },
+            "lui/lei": {
+              "italian": "parta",
+              "english": "leave!",
+              "german": "fahre ab!",
+              "spanish": "¡parta!"
+            },
+            "noi": {
+              "italian": "partiamo",
+              "english": "let's leave!",
+              "german": "fahren wir ab!",
+              "spanish": "¡partamos!"
+            },
+            "voi": {
+              "italian": "partite",
+              "english": "leave!",
+              "german": "fahrt ab!",
+              "spanish": "¡partid!"
+            },
+            "loro": {
+              "italian": "partano",
+              "english": "leave!",
+              "german": "fahren Sie ab!",
+              "spanish": "¡partan!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "partito",
+        "english": "left",
+        "german": "abgefahren",
+        "spanish": "partido"
+      },
+      "gerundio_presente": {
+        "italian": "partendo",
+        "english": "leaving",
+        "german": "abfahrend",
+        "spanish": "partiendo"
       }
     }
   ]
