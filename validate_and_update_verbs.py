@@ -14,10 +14,15 @@ def is_valid_verb_structure(verb):
         assert all(lang in verb["infinitive"] for lang in supported_languages), "infinitive"
         # Regularity
         assert isinstance(verb["regularity"], str), "regularity"
+        allowed_regularities = ["regular", "irregular", "highly irregular"]
+        assert verb["regularity"] in allowed_regularities, "regularity"
         # Irregularities
         assert isinstance(verb["irregularities"], list), "irregularities"
         allowed_irregularities = ["spelling change", "stem change", "past participle", "present gerund", "using -isc-"]
         assert all(item in allowed_irregularities for item in verb["irregularities"]), "irregularities"
+        # Regular verbs must not have irregularities
+        if verb["regularity"] == "regular":
+            assert len(verb["irregularities"]) == 0, "regular verbs must not have irregularities"
         # Auxiliaries
         assert isinstance(verb["auxiliaries"], list), "auxiliaries"
         assert all(item in ["avere", "essere"] for item in verb["auxiliaries"]), "auxiliaries"
@@ -107,7 +112,13 @@ def validate_and_update(file_path: str):
 
     verbs = data["verbs"]
     invalid_verbs = [v for v in verbs if not is_valid_verb_structure(v)]
-
+    
+    ids = [v["id"] for v in verbs]
+    if len(ids) != len(set(ids)):
+        print("❌ Duplicate verb ids found.")
+        print("Duplicate ids:", [id for id in ids if ids.count(id) > 1])
+        return
+    
     if invalid_verbs:
         print(f"❌ Found {len(invalid_verbs)} invalid verb(s).")
         return
