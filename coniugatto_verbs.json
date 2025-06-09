@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 1.7,
-    "last_updated": "2025-06-07 16:35:52",
+    "version": 1.8,
+    "last_updated": "2025-06-09 11:58:05",
     "min_app_version": "0.3.1",
     "languages": [
       "italian",
@@ -13286,7 +13286,7 @@
               "german": "fehlt"
             },
             "noi": {
-              "italian": "mancamo",
+              "italian": "manchiamo",
               "english": "miss",
               "german": "fehlen"
             },
@@ -13416,12 +13416,12 @@
               "german": "fehle"
             },
             "noi": {
-              "italian": "mancìamo",
+              "italian": "manchiamo",
               "english": "miss",
               "german": "fehlen"
             },
             "voi": {
-              "italian": "manciàte",
+              "italian": "manchiate",
               "english": "miss",
               "german": "fehlet"
             },
@@ -13512,7 +13512,7 @@
               "german": "fehle!"
             },
             "noi": {
-              "italian": "manciamo",
+              "italian": "manchiamo",
               "english": "let's miss!",
               "german": "fehlen wir!"
             },
@@ -23630,7 +23630,7 @@
               "german": "kochen"
             },
             "voi": {
-              "italian": "cocete",
+              "italian": "coucete",
               "english": "cook",
               "german": "kocht"
             },
@@ -39556,7 +39556,7 @@
               "spanish": "cansamos"
             },
             "voi": {
-              "italian": "stanchiate",
+              "italian": "stancate",
               "english": "tire",
               "german": "ermüdet",
               "spanish": "cansáis"
@@ -43882,10 +43882,8 @@
         "german": "verbieten",
         "spanish": "prohibir"
       },
-      "regularity": "irregular",
-      "irregularities": [
-        "spelling change"
-      ],
+      "regularity": "regular",
+      "irregularities": [],
       "auxiliaries": [
         "avere"
       ],
@@ -44137,7 +44135,7 @@
               "spanish": "prohibirías"
             },
             "lui/lei": {
-              "italian": "vieterrebbe",
+              "italian": "vieterebbe",
               "english": "would forbid",
               "german": "würde verbieten",
               "spanish": "prohibiría"
@@ -44155,7 +44153,7 @@
               "spanish": "prohibiríais"
             },
             "loro": {
-              "italian": "vieterrebbero",
+              "italian": "vieterebbero",
               "english": "would forbid",
               "german": "würden verbieten",
               "spanish": "prohibirían"
@@ -44166,7 +44164,7 @@
           "positivo": {
             "io": null,
             "tu": {
-              "italian": "vieti",
+              "italian": "vieta",
               "english": "forbid!",
               "german": "verbiete!",
               "spanish": "¡prohíbe!"
