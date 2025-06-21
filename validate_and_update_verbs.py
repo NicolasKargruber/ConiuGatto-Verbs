@@ -135,6 +135,9 @@ def validate_and_update(file_path: str):
     major = int(version)
     minor = int(round((version - major) * 10))
     minor += 1
+    if minor > 9:
+        major += 1
+        minor = 0
     new_version = float(f"{major}.{minor}")
     data["meta"]["version"] = new_version
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
