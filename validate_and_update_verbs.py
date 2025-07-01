@@ -26,6 +26,8 @@ def is_valid_verb_structure(verb):
         # Auxiliaries
         assert isinstance(verb["auxiliaries"], list), "auxiliaries"
         assert all(item in ["avere", "essere"] for item in verb["auxiliaries"]), "auxiliaries"
+        assert isinstance(verb["german_auxiliary"], str), "german_auxiliary"
+        assert verb["german_auxiliary"] in ["sein", "haben"], "german_auxiliary"
         # Conjugations
         assert isinstance(verb["conjugations"], dict), "conjugations"
         validate_conjugations_structure(verb["conjugations"])
