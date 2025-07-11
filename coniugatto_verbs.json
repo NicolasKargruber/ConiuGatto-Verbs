@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 2.2,
-    "last_updated": "2025-07-11 10:42:25",
+    "version": 2.3,
+    "last_updated": "2025-07-11 22:57:46",
     "min_app_version": "0.3.1",
     "languages": [
       "italian",
@@ -21620,7 +21620,8 @@
         "past participle"
       ],
       "auxiliaries": [
-        "avere"
+        "avere",
+        "essere"
       ],
       "german_auxiliary": "haben",
       "conjugations": {
@@ -27191,7 +27192,8 @@
       "regularity": "irregular",
       "irregularities": [],
       "auxiliaries": [
-        "avere"
+        "avere",
+        "essere"
       ],
       "german_auxiliary": "haben",
       "conjugations": {
@@ -32234,7 +32236,8 @@
       "regularity": "regular",
       "irregularities": [],
       "auxiliaries": [
-        "avere"
+        "avere",
+        "essere"
       ],
       "german_auxiliary": "haben",
       "conjugations": {
@@ -36273,7 +36276,8 @@
       "regularity": "regular",
       "irregularities": [],
       "auxiliaries": [
-        "avere"
+        "avere",
+        "essere"
       ],
       "german_auxiliary": "haben",
       "conjugations": {
@@ -38300,8 +38304,7 @@
         "spelling change"
       ],
       "auxiliaries": [
-        "avere",
-        "essere"
+        "avere"
       ],
       "german_auxiliary": "haben",
       "conjugations": {
@@ -41671,7 +41674,8 @@
       "regularity": "regular",
       "irregularities": [],
       "auxiliaries": [
-        "avere"
+        "avere",
+        "essere"
       ],
       "german_auxiliary": "haben",
       "conjugations": {
