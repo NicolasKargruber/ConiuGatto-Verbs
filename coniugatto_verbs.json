@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 2.1,
-    "last_updated": "2025-07-01 10:44:03",
+    "version": 2.2,
+    "last_updated": "2025-07-11 10:42:25",
     "min_app_version": "0.3.1",
     "languages": [
       "italian",
@@ -561,37 +561,37 @@
             "io": {
               "italian": "fossi",
               "english": "used to be",
-              "german": "fuhr",
+              "german": "wäre",
               "spanish": "fuera"
             },
             "tu": {
               "italian": "fossi",
               "english": "used to be",
-              "german": "fuhrst",
+              "german": "wärst",
               "spanish": "fueras"
             },
             "lui/lei": {
               "italian": "fosse",
               "english": "used to be",
-              "german": "fuhr",
+              "german": "wärt",
               "spanish": "fuera"
             },
             "noi": {
               "italian": "fossimo",
               "english": "used to be",
-              "german": "fuhrn",
+              "german": "wären",
               "spanish": "fuéramos"
             },
             "voi": {
               "italian": "foste",
               "english": "used to be",
-              "german": "fuhrt",
+              "german": "wärt",
               "spanish": "fuerais"
             },
             "loro": {
               "italian": "fossero",
               "english": "used to be",
-              "german": "fuhrn",
+              "german": "wären",
               "spanish": "fueran"
             }
           }
@@ -601,37 +601,37 @@
             "io": {
               "italian": "sarei",
               "english": "would be",
-              "german": "wäre",
+              "german": "würde sein",
               "spanish": "sería"
             },
             "tu": {
               "italian": "saresti",
               "english": "would be",
-              "german": "wärst",
+              "german": "würdest sein",
               "spanish": "serías"
             },
             "lui/lei": {
               "italian": "sarebbe",
               "english": "would be",
-              "german": "wäre",
+              "german": "würde sein",
               "spanish": "sería"
             },
             "noi": {
               "italian": "saremmo",
               "english": "would be",
-              "german": "wären",
+              "german": "würden sein",
               "spanish": "seríamos"
             },
             "voi": {
               "italian": "sareste",
               "english": "would be",
-              "german": "wärt",
+              "german": "würdet sein",
               "spanish": "seríais"
             },
             "loro": {
               "italian": "sarebbero",
               "english": "would be",
-              "german": "wären",
+              "german": "würden sein",
               "spanish": "serían"
             }
           }
@@ -20703,7 +20703,7 @@
         "stem change"
       ],
       "auxiliaries": [
-        "avere"
+        "essere"
       ],
       "german_auxiliary": "sein",
       "conjugations": {
@@ -28727,7 +28727,7 @@
               "spanish": "dejéis"
             },
             "loro": {
-              "italian": "lasciino",
+              "italian": "lascino",
               "english": "leave",
               "german": "lassen",
               "spanish": "dejen"
@@ -28840,7 +28840,7 @@
               "spanish": "¡dejad!"
             },
             "loro": {
-              "italian": "lasciino",
+              "italian": "lascino",
               "english": "leave!",
               "german": "lassen Sie!",
               "spanish": "¡dejen!"
