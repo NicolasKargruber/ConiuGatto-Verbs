@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 2.3,
-    "last_updated": "2025-07-11 22:57:46",
+    "version": 2.4,
+    "last_updated": "2025-07-12 14:52:22",
     "min_app_version": "0.3.1",
     "languages": [
       "italian",
@@ -310,7 +310,7 @@
             "lui/lei": {
               "italian": "abbia",
               "english": "have!",
-              "german": "habe!",
+              "german": "haben Sie!",
               "spanish": "¡haya!"
             },
             "noi": {
@@ -328,7 +328,7 @@
             "loro": {
               "italian": "abbiano",
               "english": "have!",
-              "german": "haben Sie!",
+              "german": "haben sie!",
               "spanish": "¡hayan!"
             }
           }
@@ -648,7 +648,7 @@
             "lui/lei": {
               "italian": "sia",
               "english": "be!",
-              "german": "sei!",
+              "german": "seien Sie!",
               "spanish": "sea!"
             },
             "noi": {
@@ -666,7 +666,7 @@
             "loro": {
               "italian": "siano",
               "english": "be!",
-              "german": "seien Sie!",
+              "german": "seien sie!",
               "spanish": "sean!"
             }
           }
@@ -984,7 +984,7 @@
             "lui/lei": {
               "italian": "stia",
               "english": "be!",
-              "german": "sei!",
+              "german": "seien Sie!",
               "spanish": "esté!"
             },
             "noi": {
@@ -1002,7 +1002,7 @@
             "loro": {
               "italian": "stiano",
               "english": "be!",
-              "german": "seien Sie!",
+              "german": "seien sie!",
               "spanish": "estén!"
             }
           }
@@ -1322,7 +1322,7 @@
             "lui/lei": {
               "italian": "voglia",
               "english": "want!",
-              "german": "wolle!",
+              "german": "wollen Sie!",
               "spanish": "quiera"
             },
             "noi": {
@@ -1340,7 +1340,7 @@
             "loro": {
               "italian": "vogliano",
               "english": "want!",
-              "german": "wollen Sie!",
+              "german": "wollen sie!",
               "spanish": "quieran"
             }
           }
@@ -1661,7 +1661,7 @@
             "lui/lei": {
               "italian": "faccia",
               "english": "do!",
-              "german": "mache!",
+              "german": "machen Sie!",
               "spanish": "haga"
             },
             "noi": {
@@ -1679,7 +1679,7 @@
             "loro": {
               "italian": "facciano",
               "english": "do!",
-              "german": "machen Sie!",
+              "german": "machen sie!",
               "spanish": "hagan"
             }
           }
@@ -2000,7 +2000,7 @@
             "lui/lei": {
               "italian": "dica",
               "english": "say!",
-              "german": "sage!",
+              "german": "sagen Sie!",
               "spanish": "diga"
             },
             "noi": {
@@ -2018,7 +2018,7 @@
             "loro": {
               "italian": "dicano",
               "english": "say!",
-              "german": "sagen Sie!",
+              "german": "sagen sie!",
               "spanish": "digan"
             }
           }
@@ -2338,7 +2338,7 @@
             "lui/lei": {
               "italian": "capisca",
               "english": "understand!",
-              "german": "verstehe!",
+              "german": "verstehen Sie!",
               "spanish": "entienda"
             },
             "noi": {
@@ -2356,7 +2356,7 @@
             "loro": {
               "italian": "capiscano",
               "english": "understand!",
-              "german": "verstehen Sie!",
+              "german": "verstehen sie!",
               "spanish": "entiendan"
             }
           }
@@ -2674,7 +2674,7 @@
             "lui/lei": {
               "italian": "sappia",
               "english": "know!",
-              "german": "wisse!",
+              "german": "wissen Sie!",
               "spanish": "¡sepa!"
             },
             "noi": {
@@ -2692,7 +2692,7 @@
             "loro": {
               "italian": "sappiano",
               "english": "know!",
-              "german": "wissen Sie!",
+              "german": "wissen sie!",
               "spanish": "¡sepan!"
             }
           }
@@ -3012,7 +3012,7 @@
             "lui/lei": {
               "italian": "spieghi",
               "english": "explain!",
-              "german": "erkläre!",
+              "german": "erklären Sie!",
               "spanish": "explique"
             },
             "noi": {
@@ -3030,7 +3030,7 @@
             "loro": {
               "italian": "spieghino",
               "english": "explain!",
-              "german": "erklären Sie!",
+              "german": "erklären sie!",
               "spanish": "expliquen"
             }
           }
@@ -3350,7 +3350,7 @@
             "lui/lei": {
               "italian": "esca",
               "english": "go out!",
-              "german": "gehe aus!",
+              "german": "gehen Sie aus!",
               "spanish": "salga"
             },
             "noi": {
@@ -3368,7 +3368,7 @@
             "loro": {
               "italian": "escano",
               "english": "go out!",
-              "german": "gehen Sie aus!",
+              "german": "gehen sie aus!",
               "spanish": "salgan"
             }
           }
@@ -3686,7 +3686,7 @@
             "lui/lei": {
               "italian": "vada",
               "english": "go!",
-              "german": "gehe!",
+              "german": "gehen Sie!",
               "spanish": "vaya"
             },
             "noi": {
@@ -3704,7 +3704,7 @@
             "loro": {
               "italian": "vadano",
               "english": "go!",
-              "german": "gehen Sie!",
+              "german": "gehen sie!",
               "spanish": "vayan"
             }
           }
@@ -4025,7 +4025,7 @@
             "lui/lei": {
               "italian": "venga",
               "english": "come!",
-              "german": "komme!",
+              "german": "kommen Sie!",
               "spanish": "venga"
             },
             "noi": {
@@ -4043,7 +4043,7 @@
             "loro": {
               "italian": "vengano",
               "english": "come!",
-              "german": "kommen Sie!",
+              "german": "kommen sie!",
               "spanish": "vengan"
             }
           }
@@ -4985,7 +4985,7 @@
             "lui/lei": {
               "italian": "preferisca",
               "english": "prefer!",
-              "german": "bevorzuge!",
+              "german": "bevorzugen Sie!",
               "spanish": "prefiera"
             },
             "noi": {
@@ -5003,7 +5003,7 @@
             "loro": {
               "italian": "preferiscano",
               "english": "prefer!",
-              "german": "bevorzugen Sie!",
+              "german": "bevorzugen sie!",
               "spanish": "prefieran"
             }
           }
@@ -5323,7 +5323,7 @@
             "lui/lei": {
               "italian": "beva",
               "english": "drink!",
-              "german": "trinke!",
+              "german": "trinken Sie!",
               "spanish": "beba"
             },
             "noi": {
@@ -5341,7 +5341,7 @@
             "loro": {
               "italian": "bevanno",
               "english": "drink!",
-              "german": "trinken Sie!",
+              "german": "trinken sie!",
               "spanish": "beban"
             }
           }
@@ -5662,7 +5662,7 @@
             "lui/lei": {
               "italian": "salga",
               "english": "go up!",
-              "german": "steige!",
+              "german": "steigen Sie!",
               "spanish": "suba"
             },
             "noi": {
@@ -5680,7 +5680,7 @@
             "loro": {
               "italian": "salgano",
               "english": "go up!",
-              "german": "steigen Sie!",
+              "german": "steigen sie!",
               "spanish": "suban"
             }
           }
@@ -5957,7 +5957,7 @@
             "lui/lei": {
               "italian": "rimanga",
               "english": "stay!",
-              "german": "bleibe!"
+              "german": "bleiben Sie!"
             },
             "noi": {
               "italian": "rimaniamo",
@@ -5972,7 +5972,7 @@
             "loro": {
               "italian": "rimangano",
               "english": "stay!",
-              "german": "bleiben Sie!"
+              "german": "bleiben sie!"
             }
           }
         }
@@ -6246,7 +6246,7 @@
             "lui/lei": {
               "italian": "muoia",
               "english": "die!",
-              "german": "sterbe!"
+              "german": "sterben Sie!"
             },
             "noi": {
               "italian": "moriamo",
@@ -6261,7 +6261,7 @@
             "loro": {
               "italian": "muoiano",
               "english": "die!",
-              "german": "sterben Sie!"
+              "german": "sterben sie!"
             }
           }
         }
@@ -6535,7 +6535,7 @@
             "lui/lei": {
               "italian": "finisca",
               "english": "finish!",
-              "german": "beende!"
+              "german": "beenden Sie!"
             },
             "noi": {
               "italian": "finiamo",
@@ -6550,7 +6550,7 @@
             "loro": {
               "italian": "finiscano",
               "english": "finish!",
-              "german": "beenden Sie!"
+              "german": "beenden sie!"
             }
           }
         }
@@ -6824,7 +6824,7 @@
             "lui/lei": {
               "italian": "veda",
               "english": "see!",
-              "german": "sehe!"
+              "german": "sehen Sie!"
             },
             "noi": {
               "italian": "vediamo",
@@ -6839,7 +6839,7 @@
             "loro": {
               "italian": "vedano",
               "english": "see!",
-              "german": "sehen Sie!"
+              "german": "sehen sie!"
             }
           }
         }
@@ -7112,7 +7112,7 @@
             "lui/lei": {
               "italian": "legga",
               "english": "read!",
-              "german": "lese!"
+              "german": "lesen Sie!"
             },
             "noi": {
               "italian": "leggiamo",
@@ -7127,7 +7127,7 @@
             "loro": {
               "italian": "leggano",
               "english": "read!",
-              "german": "lesen Sie!"
+              "german": "lesen sie!"
             }
           }
         }
@@ -7400,7 +7400,7 @@
             "lui/lei": {
               "italian": "nasca",
               "english": "be born!",
-              "german": "werde geboren!"
+              "german": "werden Sie geboren!"
             },
             "noi": {
               "italian": "nasciamo",
@@ -7415,7 +7415,7 @@
             "loro": {
               "italian": "nascano",
               "english": "be born!",
-              "german": "werden Sie geboren!"
+              "german": "werden sie geboren!"
             }
           }
         }
@@ -7688,7 +7688,7 @@
             "lui/lei": {
               "italian": "chieda",
               "english": "ask!",
-              "german": "frag!"
+              "german": "fragen Sie!"
             },
             "noi": {
               "italian": "chiediamo",
@@ -7703,7 +7703,7 @@
             "loro": {
               "italian": "chiedano",
               "english": "ask!",
-              "german": "fragen Sie!"
+              "german": "fragen sie!"
             }
           }
         }
@@ -7976,7 +7976,7 @@
             "lui/lei": {
               "italian": "risponda",
               "english": "reply!",
-              "german": "antworte!"
+              "german": "antworten Sie!"
             },
             "noi": {
               "italian": "rispondiamo",
@@ -7991,7 +7991,7 @@
             "loro": {
               "italian": "rispondano",
               "english": "reply!",
-              "german": "antworten Sie!"
+              "german": "antworten sie!"
             }
           }
         }
@@ -8264,7 +8264,7 @@
             "lui/lei": {
               "italian": "conosca",
               "english": "know!",
-              "german": "kenne!"
+              "german": "kennen Sie!"
             },
             "noi": {
               "italian": "conosciamo",
@@ -8279,7 +8279,7 @@
             "loro": {
               "italian": "conoscano",
               "english": "know!",
-              "german": "kennen Sie!"
+              "german": "kennen sie!"
             }
           }
         }
@@ -8552,7 +8552,7 @@
             "lui/lei": {
               "italian": "metta",
               "english": "put!",
-              "german": "lege!"
+              "german": "legen Sie!"
             },
             "noi": {
               "italian": "mettiamo",
@@ -8567,7 +8567,7 @@
             "loro": {
               "italian": "mettano",
               "english": "put!",
-              "german": "legen Sie!"
+              "german": "legen sie!"
             }
           }
         }
@@ -8840,7 +8840,7 @@
             "lui/lei": {
               "italian": "apra",
               "english": "open!",
-              "german": "öffne!"
+              "german": "öffnen Sie!"
             },
             "noi": {
               "italian": "apriamo",
@@ -8855,7 +8855,7 @@
             "loro": {
               "italian": "aprano",
               "english": "open!",
-              "german": "öffnen Sie!"
+              "german": "öffnen sie!"
             }
           }
         }
@@ -9128,7 +9128,7 @@
             "lui/lei": {
               "italian": "perda",
               "english": "lose!",
-              "german": "verliere!"
+              "german": "verlieren Sie!"
             },
             "noi": {
               "italian": "perdiamo",
@@ -9143,7 +9143,7 @@
             "loro": {
               "italian": "perdano",
               "english": "lose!",
-              "german": "verlieren Sie!"
+              "german": "verlieren sie!"
             }
           }
         }
@@ -9418,7 +9418,7 @@
             "lui/lei": {
               "italian": "viva",
               "english": "live!",
-              "german": "lebe!"
+              "german": "leben Sie!"
             },
             "noi": {
               "italian": "viviamo",
@@ -9433,7 +9433,7 @@
             "loro": {
               "italian": "vivano",
               "english": "live!",
-              "german": "leben Sie!"
+              "german": "leben sie!"
             }
           }
         }
@@ -9707,7 +9707,7 @@
             "lui/lei": {
               "italian": "scenda",
               "english": "go down!",
-              "german": "gehe hinunter!"
+              "german": "gehen Sie hinunter!"
             },
             "noi": {
               "italian": "scendiamo",
@@ -9722,7 +9722,7 @@
             "loro": {
               "italian": "scendano",
               "english": "go down!",
-              "german": "gehen Sie hinunter!"
+              "german": "gehen sie hinunter!"
             }
           }
         }
@@ -9995,7 +9995,7 @@
             "lui/lei": {
               "italian": "scriva",
               "english": "write!",
-              "german": "schreibe!"
+              "german": "schreiben Sie!"
             },
             "noi": {
               "italian": "scriviamo",
@@ -10010,7 +10010,7 @@
             "loro": {
               "italian": "scrivano",
               "english": "write!",
-              "german": "schreiben Sie!"
+              "german": "schreiben sie!"
             }
           }
         }
@@ -10283,7 +10283,7 @@
             "lui/lei": {
               "italian": "prenda",
               "english": "take!",
-              "german": "nehme!"
+              "german": "nehmen Sie!"
             },
             "noi": {
               "italian": "prendiamo",
@@ -10298,7 +10298,7 @@
             "loro": {
               "italian": "prendano",
               "english": "take!",
-              "german": "nehmen Sie!"
+              "german": "nehmen sie!"
             }
           }
         }
@@ -10571,7 +10571,7 @@
             "lui/lei": {
               "italian": "rompa",
               "english": "break!",
-              "german": "breche!"
+              "german": "brechen Sie!"
             },
             "noi": {
               "italian": "rompiamo",
@@ -10586,7 +10586,7 @@
             "loro": {
               "italian": "rompano",
               "english": "break!",
-              "german": "brechen Sie!"
+              "german": "brechen sie!"
             }
           }
         }
@@ -10860,7 +10860,7 @@
             "lui/lei": {
               "italian": "corra",
               "english": "run!",
-              "german": "renne!"
+              "german": "rennen Sie!"
             },
             "noi": {
               "italian": "corriamo",
@@ -10875,7 +10875,7 @@
             "loro": {
               "italian": "corrano",
               "english": "run!",
-              "german": "rennen Sie!"
+              "german": "rennen sie!"
             }
           }
         }
@@ -11148,7 +11148,7 @@
             "lui/lei": {
               "italian": "vinca",
               "english": "win!",
-              "german": "gewinne!"
+              "german": "gewinnen Sie!"
             },
             "noi": {
               "italian": "vinciamo",
@@ -11163,7 +11163,7 @@
             "loro": {
               "italian": "vincano",
               "english": "win!",
-              "german": "gewinnen Sie!"
+              "german": "gewinnen sie!"
             }
           }
         }
@@ -11437,7 +11437,7 @@
             "lui/lei": {
               "italian": "traduca",
               "english": "translate!",
-              "german": "übersetze!"
+              "german": "übersetzen Sie!"
             },
             "noi": {
               "italian": "traduciamo",
@@ -11452,7 +11452,7 @@
             "loro": {
               "italian": "tradurcano",
               "english": "translate!",
-              "german": "übersetzen Sie!"
+              "german": "übersetzen sie!"
             }
           }
         }
@@ -11725,7 +11725,7 @@
             "lui/lei": {
               "italian": "chiuda",
               "english": "close!",
-              "german": "schließe!"
+              "german": "schließen Sie!"
             },
             "noi": {
               "italian": "chiudiamo",
@@ -11740,7 +11740,7 @@
             "loro": {
               "italian": "chiudano",
               "english": "close!",
-              "german": "schließen Sie!"
+              "german": "schließen sie!"
             }
           }
         }
@@ -12013,7 +12013,7 @@
             "lui/lei": {
               "italian": "accenda",
               "english": "switch on!",
-              "german": "schalte ein!"
+              "german": "schalten Sie ein!"
             },
             "noi": {
               "italian": "accendiamo",
@@ -12028,7 +12028,7 @@
             "loro": {
               "italian": "accendano",
               "english": "switch on!",
-              "german": "schalten Sie ein!"
+              "german": "schalten sie ein!"
             }
           }
         }
@@ -12302,7 +12302,7 @@
             "lui/lei": {
               "italian": "cresca",
               "english": "grow up!",
-              "german": "wachse auf!"
+              "german": "wachsen Sie auf!"
             },
             "noi": {
               "italian": "cresciamo",
@@ -12317,7 +12317,7 @@
             "loro": {
               "italian": "crescano",
               "english": "grow up!",
-              "german": "wachsen Sie auf!"
+              "german": "wachsen sie auf!"
             }
           }
         }
@@ -12590,7 +12590,7 @@
             "lui/lei": {
               "italian": "spinga",
               "english": "push!",
-              "german": "schiebe!"
+              "german": "schieben Sie!"
             },
             "noi": {
               "italian": "spingiamo",
@@ -12605,7 +12605,7 @@
             "loro": {
               "italian": "spingano",
               "english": "push!",
-              "german": "schieben Sie!"
+              "german": "schieben sie!"
             }
           }
         }
@@ -12923,7 +12923,7 @@
             "lui/lei": {
               "italian": "piaccia",
               "english": "like!",
-              "german": "gefalle!",
+              "german": "gefallen Sie!",
               "spanish": "gustes"
             },
             "noi": {
@@ -12941,7 +12941,7 @@
             "loro": {
               "italian": "piacciano",
               "english": "like!",
-              "german": "gefallen Sie!",
+              "german": "gefallen sie!",
               "spanish": "gustemos"
             }
           }
@@ -13216,7 +13216,7 @@
             "lui/lei": {
               "italian": "manchi",
               "english": "miss!",
-              "german": "fehle!"
+              "german": "fehlen Sie!"
             },
             "noi": {
               "italian": "manchiamo",
@@ -13231,7 +13231,7 @@
             "loro": {
               "italian": "manchino",
               "english": "miss!",
-              "german": "fehlen Sie!"
+              "german": "fehlen sie!"
             }
           }
         }
@@ -13502,7 +13502,7 @@
             "lui/lei": {
               "italian": "interessi",
               "english": "interest!",
-              "german": "interessiere!"
+              "german": "interessieren Sie!"
             },
             "noi": {
               "italian": "interessiamo",
@@ -13517,7 +13517,7 @@
             "loro": {
               "italian": "interessino",
               "english": "interest!",
-              "german": "interessieren Sie!"
+              "german": "interessieren sie!"
             }
           }
         }
@@ -13788,7 +13788,7 @@
             "lui/lei": {
               "italian": "sembri",
               "english": "seem!",
-              "german": "scheine!"
+              "german": "scheinen Sie!"
             },
             "noi": {
               "italian": "sembriamo",
@@ -13803,7 +13803,7 @@
             "loro": {
               "italian": "sembrino",
               "english": "seem!",
-              "german": "scheinen Sie!"
+              "german": "scheinen sie!"
             }
           }
         }
@@ -14074,7 +14074,7 @@
             "lui/lei": {
               "italian": "ami",
               "english": "love!",
-              "german": "liebe!"
+              "german": "lieben Sie!"
             },
             "noi": {
               "italian": "amiamo",
@@ -14089,7 +14089,7 @@
             "loro": {
               "italian": "amino",
               "english": "love!",
-              "german": "lieben Sie!"
+              "german": "lieben sie!"
             }
           }
         }
@@ -14362,7 +14362,7 @@
             "lui/lei": {
               "italian": "mangi",
               "english": "eat!",
-              "german": "esse!"
+              "german": "essen Sie!"
             },
             "noi": {
               "italian": "mangiamo",
@@ -14377,7 +14377,7 @@
             "loro": {
               "italian": "mangino",
               "english": "eat!",
-              "german": "essen Sie!"
+              "german": "essen sie!"
             }
           }
         }
@@ -14648,7 +14648,7 @@
             "lui/lei": {
               "italian": "ascolti",
               "english": "listen!",
-              "german": "höre zu!"
+              "german": "hören Sie zu!"
             },
             "noi": {
               "italian": "ascoltiamo",
@@ -14663,7 +14663,7 @@
             "loro": {
               "italian": "ascoltino",
               "english": "listen!",
-              "german": "hören Sie zu!"
+              "german": "hören sie zu!"
             }
           }
         }
@@ -14934,7 +14934,7 @@
             "lui/lei": {
               "italian": "parli",
               "english": "speak!",
-              "german": "spreche!"
+              "german": "sprechen Sie!"
             },
             "noi": {
               "italian": "parliamo",
@@ -14949,7 +14949,7 @@
             "loro": {
               "italian": "parlino",
               "english": "speak!",
-              "german": "sprechen Sie!"
+              "german": "sprechen sie!"
             }
           }
         }
@@ -15220,7 +15220,7 @@
             "lui/lei": {
               "italian": "ordini",
               "english": "order!",
-              "german": "bestelle!"
+              "german": "bestellen Sie!"
             },
             "noi": {
               "italian": "ordiniamo",
@@ -15235,7 +15235,7 @@
             "loro": {
               "italian": "ordinino",
               "english": "order!",
-              "german": "bestellen Sie!"
+              "german": "bestellen sie!"
             }
           }
         }
@@ -15508,7 +15508,7 @@
             "lui/lei": {
               "italian": "cerchi",
               "english": "look for!",
-              "german": "suche!"
+              "german": "suchen Sie!"
             },
             "noi": {
               "italian": "cerchiamo",
@@ -15523,7 +15523,7 @@
             "loro": {
               "italian": "cerchino",
               "english": "look for!",
-              "german": "suchen Sie!"
+              "german": "suchen sie!"
             }
           }
         }
@@ -15794,7 +15794,7 @@
             "lui/lei": {
               "italian": "pensi",
               "english": "think!",
-              "german": "denke!"
+              "german": "denken Sie!"
             },
             "noi": {
               "italian": "pensiamo",
@@ -15809,7 +15809,7 @@
             "loro": {
               "italian": "pensino",
               "english": "think!",
-              "german": "denken Sie!"
+              "german": "denken sie!"
             }
           }
         }
@@ -16080,7 +16080,7 @@
             "lui/lei": {
               "italian": "incontri",
               "english": "meet!",
-              "german": "treffe!"
+              "german": "treffen Sie!"
             },
             "noi": {
               "italian": "incontriamo",
@@ -16095,7 +16095,7 @@
             "loro": {
               "italian": "incontrino",
               "english": "meet!",
-              "german": "treffen Sie!"
+              "german": "treffen sie!"
             }
           }
         }
@@ -16366,7 +16366,7 @@
             "lui/lei": {
               "italian": "porti",
               "english": "bring!",
-              "german": "bringe!"
+              "german": "bringen Sie!"
             },
             "noi": {
               "italian": "portiamo",
@@ -16381,7 +16381,7 @@
             "loro": {
               "italian": "portino",
               "english": "bring!",
-              "german": "bringen Sie!"
+              "german": "bringen sie!"
             }
           }
         }
@@ -16654,7 +16654,7 @@
             "lui/lei": {
               "italian": "tocchi",
               "english": "touch!",
-              "german": "berühre!"
+              "german": "berühren Sie!"
             },
             "noi": {
               "italian": "tocchiamo",
@@ -16669,7 +16669,7 @@
             "loro": {
               "italian": "tocchino",
               "english": "touch!",
-              "german": "berühren Sie!"
+              "german": "berühren sie!"
             }
           }
         }
@@ -16940,7 +16940,7 @@
             "lui/lei": {
               "italian": "guardi",
               "english": "watch!",
-              "german": "beobachte!"
+              "german": "beobachten Sie!"
             },
             "noi": {
               "italian": "guardiamo",
@@ -16955,7 +16955,7 @@
             "loro": {
               "italian": "guardino",
               "english": "watch!",
-              "german": "beobachten Sie!"
+              "german": "beobachten sie!"
             }
           }
         }
@@ -17226,7 +17226,7 @@
             "lui/lei": {
               "italian": "torni",
               "english": "return!",
-              "german": "kehre zurück!"
+              "german": "kehren Sie zurück!"
             },
             "noi": {
               "italian": "torniamo",
@@ -17241,7 +17241,7 @@
             "loro": {
               "italian": "tornino",
               "english": "return!",
-              "german": "kehren Sie zurück!"
+              "german": "kehren sie zurück!"
             }
           }
         }
@@ -17512,7 +17512,7 @@
             "lui/lei": {
               "italian": "trovi",
               "english": "find!",
-              "german": "finde!"
+              "german": "finden Sie!"
             },
             "noi": {
               "italian": "troviamo",
@@ -17527,7 +17527,7 @@
             "loro": {
               "italian": "trovino",
               "english": "find!",
-              "german": "finden Sie!"
+              "german": "finden sie!"
             }
           }
         }
@@ -17798,7 +17798,7 @@
             "lui/lei": {
               "italian": "dia",
               "english": "give!",
-              "german": "gebe!"
+              "german": "geben Sie!"
             },
             "noi": {
               "italian": "diamo",
@@ -17813,7 +17813,7 @@
             "loro": {
               "italian": "diano",
               "english": "give!",
-              "german": "geben Sie!"
+              "german": "geben sie!"
             }
           }
         }
@@ -18084,7 +18084,7 @@
             "lui/lei": {
               "italian": "abiti",
               "english": "live in!",
-              "german": "wohne!"
+              "german": "wohnen Sie!"
             },
             "noi": {
               "italian": "abitiamo",
@@ -18099,7 +18099,7 @@
             "loro": {
               "italian": "abitino",
               "english": "live in!",
-              "german": "wohnen Sie!"
+              "german": "wohnen sie!"
             }
           }
         }
@@ -18370,7 +18370,7 @@
             "lui/lei": {
               "italian": "speri",
               "english": "hope!",
-              "german": "hoffe!"
+              "german": "hoffen Sie!"
             },
             "noi": {
               "italian": "speriamo",
@@ -18385,7 +18385,7 @@
             "loro": {
               "italian": "sperino",
               "english": "hope!",
-              "german": "hoffen Sie!"
+              "german": "hoffen sie!"
             }
           }
         }
@@ -18656,7 +18656,7 @@
             "lui/lei": {
               "italian": "aspetti",
               "english": "wait!",
-              "german": "warte!"
+              "german": "warten Sie!"
             },
             "noi": {
               "italian": "aspettiamo",
@@ -18671,7 +18671,7 @@
             "loro": {
               "italian": "aspettino",
               "english": "wait!",
-              "german": "warten Sie!"
+              "german": "warten sie!"
             }
           }
         }
@@ -18942,7 +18942,7 @@
             "lui/lei": {
               "italian": "pranzi",
               "english": "have lunch!",
-              "german": "esse zu Mittag!"
+              "german": "essen Sie zu Mittag!"
             },
             "noi": {
               "italian": "pranziamo",
@@ -18957,7 +18957,7 @@
             "loro": {
               "italian": "pranzino",
               "english": "have lunch!",
-              "german": "essen Sie zu Mittag!"
+              "german": "essen sie zu mittag!"
             }
           }
         }
@@ -19228,7 +19228,7 @@
             "lui/lei": {
               "italian": "ceni",
               "english": "have dinner!",
-              "german": "esse zu Abend!"
+              "german": "essen Sie zu Abend!"
             },
             "noi": {
               "italian": "ceniamo",
@@ -19243,7 +19243,7 @@
             "loro": {
               "italian": "cenino",
               "english": "have dinner!",
-              "german": "essen Sie zu Abend!"
+              "german": "essen sie zu abend!"
             }
           }
         }
@@ -19514,7 +19514,7 @@
             "lui/lei": {
               "italian": "telefoni",
               "english": "phone!",
-              "german": "rufe an!"
+              "german": "rufen Sie an!"
             },
             "noi": {
               "italian": "telefoniamo",
@@ -19529,7 +19529,7 @@
             "loro": {
               "italian": "telefonino",
               "english": "phone!",
-              "german": "rufen Sie an!"
+              "german": "rufen sie an!"
             }
           }
         }
@@ -19800,7 +19800,7 @@
             "lui/lei": {
               "italian": "compri",
               "english": "buy!",
-              "german": "kaufe!"
+              "german": "kaufen Sie!"
             },
             "noi": {
               "italian": "compriamo",
@@ -19815,7 +19815,7 @@
             "loro": {
               "italian": "comprino",
               "english": "buy!",
-              "german": "kaufen Sie!"
+              "german": "kaufen sie!"
             }
           }
         }
@@ -20088,7 +20088,7 @@
             "lui/lei": {
               "italian": "paghi",
               "english": "pay!",
-              "german": "bezahle!"
+              "german": "bezahlen Sie!"
             },
             "noi": {
               "italian": "paghiamo",
@@ -20103,7 +20103,7 @@
             "loro": {
               "italian": "paghino",
               "english": "pay!",
-              "german": "bezahlen Sie!"
+              "german": "bezahlen sie!"
             }
           }
         }
@@ -20374,7 +20374,7 @@
             "lui/lei": {
               "italian": "entri",
               "english": "enter!",
-              "german": "trete ein!"
+              "german": "treten Sie ein!"
             },
             "noi": {
               "italian": "entriamo",
@@ -20389,7 +20389,7 @@
             "loro": {
               "italian": "entrino",
               "english": "enter!",
-              "german": "treten Sie ein!"
+              "german": "treten sie ein!"
             }
           }
         }
@@ -20660,7 +20660,7 @@
             "lui/lei": {
               "italian": "lavori",
               "english": "work!",
-              "german": "arbeite!"
+              "german": "arbeiten Sie!"
             },
             "noi": {
               "italian": "lavoriamo",
@@ -20675,7 +20675,7 @@
             "loro": {
               "italian": "lavorino",
               "english": "work!",
-              "german": "arbeiten Sie!"
+              "german": "arbeiten sie!"
             }
           }
         }
@@ -20948,7 +20948,7 @@
             "lui/lei": {
               "italian": "sieda",
               "english": "sit!",
-              "german": "sitze!"
+              "german": "sitzen Sie!"
             },
             "noi": {
               "italian": "sediamo",
@@ -20963,7 +20963,7 @@
             "loro": {
               "italian": "siedano",
               "english": "sit!",
-              "german": "sitzen Sie!"
+              "german": "sitzen sie!"
             }
           }
         }
@@ -21281,7 +21281,7 @@
             "lui/lei": {
               "italian": "tenga",
               "english": "hold!",
-              "german": "halte!",
+              "german": "halten Sie!",
               "spanish": "tenga"
             },
             "noi": {
@@ -21299,7 +21299,7 @@
             "loro": {
               "italian": "tengano",
               "english": "hold!",
-              "german": "halten Sie!",
+              "german": "halten sie!",
               "spanish": "tengan"
             }
           }
@@ -21576,7 +21576,7 @@
             "lui/lei": {
               "italian": "scelga",
               "english": "choose!",
-              "german": "wähle!"
+              "german": "wählen Sie!"
             },
             "noi": {
               "italian": "scegliamo",
@@ -21591,7 +21591,7 @@
             "loro": {
               "italian": "scelgano",
               "english": "choose!",
-              "german": "wählen Sie!"
+              "german": "wählen sie!"
             }
           }
         }
@@ -21866,7 +21866,7 @@
             "lui/lei": {
               "italian": "muova",
               "english": "move!",
-              "german": "bewege!"
+              "german": "bewegen Sie!"
             },
             "noi": {
               "italian": "muoviamo",
@@ -21881,7 +21881,7 @@
             "loro": {
               "italian": "muovano",
               "english": "move!",
-              "german": "bewegen Sie!"
+              "german": "bewegen sie!"
             }
           }
         }
@@ -22154,7 +22154,7 @@
             "lui/lei": {
               "italian": "costruisca",
               "english": "build!",
-              "german": "baue!"
+              "german": "bauen Sie!"
             },
             "noi": {
               "italian": "costruiamo",
@@ -22169,7 +22169,7 @@
             "loro": {
               "italian": "costruiscano",
               "english": "build!",
-              "german": "bauen Sie!"
+              "german": "bauen sie!"
             }
           }
         }
@@ -22440,7 +22440,7 @@
             "lui/lei": {
               "italian": "rida",
               "english": "laugh!",
-              "german": "lache!"
+              "german": "lachen Sie!"
             },
             "noi": {
               "italian": "ridiamo",
@@ -22455,7 +22455,7 @@
             "loro": {
               "italian": "ridano",
               "english": "laugh!",
-              "german": "lachen Sie!"
+              "german": "lachen sie!"
             }
           }
         }
@@ -22728,7 +22728,7 @@
             "lui/lei": {
               "italian": "spedisca",
               "english": "send!",
-              "german": "sende!"
+              "german": "senden Sie!"
             },
             "noi": {
               "italian": "spediamo",
@@ -22743,7 +22743,7 @@
             "loro": {
               "italian": "spediscano",
               "english": "send!",
-              "german": "senden Sie!"
+              "german": "senden sie!"
             }
           }
         }
@@ -23015,7 +23015,7 @@
             "lui/lei": {
               "italian": "suoni",
               "english": "play!",
-              "german": "spiele!"
+              "german": "spielen Sie!"
             },
             "noi": {
               "italian": "suoniamo",
@@ -23030,7 +23030,7 @@
             "loro": {
               "italian": "suonino",
               "english": "play!",
-              "german": "spielen Sie!"
+              "german": "spielen sie!"
             }
           }
         }
@@ -23302,7 +23302,7 @@
             "lui/lei": {
               "italian": "giri",
               "english": "turn!",
-              "german": "drehe!"
+              "german": "drehen Sie!"
             },
             "noi": {
               "italian": "giriamo",
@@ -23317,7 +23317,7 @@
             "loro": {
               "italian": "girino",
               "english": "turn!",
-              "german": "drehen Sie!"
+              "german": "drehen sie!"
             }
           }
         }
@@ -23592,7 +23592,7 @@
             "lui/lei": {
               "italian": "cuocia",
               "english": "cook!",
-              "german": "koche!"
+              "german": "kochen Sie!"
             },
             "noi": {
               "italian": "cuociamo",
@@ -23607,7 +23607,7 @@
             "loro": {
               "italian": "cuociano",
               "english": "cook!",
-              "german": "kochen Sie!"
+              "german": "kochen sie!"
             }
           }
         }
@@ -23881,7 +23881,7 @@
             "lui/lei": {
               "italian": "segua",
               "english": "follow!",
-              "german": "folge!"
+              "german": "folgen Sie!"
             },
             "noi": {
               "italian": "seguiamo",
@@ -23896,7 +23896,7 @@
             "loro": {
               "italian": "seguano",
               "english": "follow!",
-              "german": "folgen Sie!"
+              "german": "folgen sie!"
             }
           }
         }
@@ -24168,7 +24168,7 @@
             "lui/lei": {
               "italian": "voli",
               "english": "fly!",
-              "german": "fliege!"
+              "german": "fliegen Sie!"
             },
             "noi": {
               "italian": "voliamo",
@@ -24183,7 +24183,7 @@
             "loro": {
               "italian": "volino",
               "english": "fly!",
-              "german": "fliegen Sie!"
+              "german": "fliegen sie!"
             }
           }
         }
@@ -24455,7 +24455,7 @@
             "lui/lei": {
               "italian": "ritorni",
               "english": "return!",
-              "german": "kehre zurück!"
+              "german": "kehren Sie zurück!"
             },
             "noi": {
               "italian": "ritorniamo",
@@ -24470,7 +24470,7 @@
             "loro": {
               "italian": "ritornino",
               "english": "return!",
-              "german": "kehren Sie zurück!"
+              "german": "kehren sie zurück!"
             }
           }
         }
@@ -24742,7 +24742,7 @@
             "lui/lei": {
               "italian": "migliori",
               "english": "improve!",
-              "german": "verbessere!"
+              "german": "verbessern Sie!"
             },
             "noi": {
               "italian": "miglioriamo",
@@ -24757,7 +24757,7 @@
             "loro": {
               "italian": "migliorino",
               "english": "improve!",
-              "german": "verbessern Sie!"
+              "german": "verbessern sie!"
             }
           }
         }
@@ -25029,7 +25029,7 @@
             "lui/lei": {
               "italian": "duri",
               "english": "last!",
-              "german": "dauere!"
+              "german": "dauern Sie!"
             },
             "noi": {
               "italian": "duriamo",
@@ -25044,7 +25044,7 @@
             "loro": {
               "italian": "durino",
               "english": "last!",
-              "german": "dauern Sie!"
+              "german": "dauern sie!"
             }
           }
         }
@@ -25318,7 +25318,7 @@
             "lui/lei": {
               "italian": "cominci",
               "english": "begin!",
-              "german": "beginne!"
+              "german": "beginnen Sie!"
             },
             "noi": {
               "italian": "cominciamo",
@@ -25333,7 +25333,7 @@
             "loro": {
               "italian": "comincino",
               "english": "begin!",
-              "german": "beginnen Sie!"
+              "german": "beginnen sie!"
             }
           }
         }
@@ -25653,7 +25653,7 @@
             "lui/lei": {
               "italian": "pulisca",
               "english": "clean!",
-              "german": "putze!",
+              "german": "putzen Sie!",
               "irregular": "isca",
               "spanish": "limpie"
             },
@@ -25672,7 +25672,7 @@
             "loro": {
               "italian": "puliscano",
               "english": "clean!",
-              "german": "putzen Sie!",
+              "german": "putzen sie!",
               "spanish": "limpien"
             }
           }
@@ -25992,7 +25992,7 @@
             "lui/lei": {
               "italian": "cambi",
               "english": "change!",
-              "german": "ändere!",
+              "german": "ändern Sie!",
               "pattern": "loses_final_i"
             },
             "noi": {
@@ -26010,7 +26010,7 @@
             "loro": {
               "italian": "cambino",
               "english": "change!",
-              "german": "ändern Sie!",
+              "german": "ändern sie!",
               "pattern": "loses_final_i"
             }
           }
@@ -26285,7 +26285,7 @@
             "lui/lei": {
               "italian": "aggiunga",
               "english": "add!",
-              "german": "füge hinzu!"
+              "german": "fügen Sie hinzu!"
             },
             "noi": {
               "italian": "aggiungiamo",
@@ -26300,7 +26300,7 @@
             "loro": {
               "italian": "aggiungano",
               "english": "add!",
-              "german": "fügen Sie hinzu!"
+              "german": "fügen sie hinzu!"
             }
           }
         }
@@ -26574,7 +26574,7 @@
             "lui/lei": {
               "italian": "pianga",
               "english": "cry!",
-              "german": "weine!"
+              "german": "weinen Sie!"
             },
             "noi": {
               "italian": "piangiamo",
@@ -26589,7 +26589,7 @@
             "loro": {
               "italian": "piangano",
               "english": "cry!",
-              "german": "weinen Sie!"
+              "german": "weinen sie!"
             }
           }
         }
@@ -26863,7 +26863,7 @@
             "lui/lei": {
               "italian": "valga",
               "english": "be worth!",
-              "german": "sei wert!"
+              "german": "seien Sie wert!"
             },
             "noi": {
               "italian": "valiamo",
@@ -26878,7 +26878,7 @@
             "loro": {
               "italian": "valgano",
               "english": "be worth!",
-              "german": "seien Sie wert!"
+              "german": "seien sie wert!"
             }
           }
         }
@@ -27150,7 +27150,7 @@
             "lui/lei": {
               "italian": "passi",
               "english": "pass!",
-              "german": "gehe vorbei!"
+              "german": "gehen Sie vorbei!"
             },
             "noi": {
               "italian": "passiamo",
@@ -27165,7 +27165,7 @@
             "loro": {
               "italian": "passino",
               "english": "pass!",
-              "german": "gehen Sie vorbei!"
+              "german": "gehen sie vorbei!"
             }
           }
         }
@@ -27481,7 +27481,7 @@
             "lui/lei": {
               "italian": "serva",
               "english": "serve!",
-              "german": "diene!",
+              "german": "dienen Sie!",
               "spanish": "sirva"
             },
             "noi": {
@@ -27499,7 +27499,7 @@
             "loro": {
               "italian": "servano",
               "english": "serve!",
-              "german": "dienen Sie!",
+              "german": "dienen sie!",
               "spanish": "sirvan"
             }
           }
@@ -27818,7 +27818,7 @@
             "lui/lei": {
               "italian": "salti",
               "english": "jump!",
-              "german": "springe!",
+              "german": "springen Sie!",
               "spanish": "salte"
             },
             "noi": {
@@ -27836,7 +27836,7 @@
             "loro": {
               "italian": "saltino",
               "english": "jump!",
-              "german": "springen Sie!",
+              "german": "springen sie!",
               "spanish": "salten"
             }
           }
@@ -28154,7 +28154,7 @@
             "lui/lei": {
               "italian": "arrivi",
               "english": "arrive!",
-              "german": "komme an!",
+              "german": "kommen Sie an!",
               "spanish": "¡llegue!"
             },
             "noi": {
@@ -28172,7 +28172,7 @@
             "loro": {
               "italian": "arrivino",
               "english": "arrive!",
-              "german": "kommen Sie an!",
+              "german": "kommen sie an!",
               "spanish": "¡lleguen!"
             }
           }
@@ -28490,7 +28490,7 @@
             "lui/lei": {
               "italian": "creda",
               "english": "believe!",
-              "german": "glaube!",
+              "german": "glauben Sie!",
               "spanish": "¡crea!"
             },
             "noi": {
@@ -28508,7 +28508,7 @@
             "loro": {
               "italian": "credano",
               "english": "believe!",
-              "german": "glauben Sie!",
+              "german": "glauben sie!",
               "spanish": "¡crean!"
             }
           }
@@ -28826,7 +28826,7 @@
             "lui/lei": {
               "italian": "lasci",
               "english": "leave!",
-              "german": "lasse!",
+              "german": "lassen Sie!",
               "spanish": "¡deje!"
             },
             "noi": {
@@ -28844,7 +28844,7 @@
             "loro": {
               "italian": "lascino",
               "english": "leave!",
-              "german": "lassen Sie!",
+              "german": "lassen sie!",
               "spanish": "¡dejen!"
             }
           }
@@ -29162,7 +29162,7 @@
             "lui/lei": {
               "italian": "diventi",
               "english": "become!",
-              "german": "werde!",
+              "german": "werden Sie!",
               "spanish": "¡llegue a ser!"
             },
             "noi": {
@@ -29180,7 +29180,7 @@
             "loro": {
               "italian": "diventino",
               "english": "become!",
-              "german": "werden Sie!",
+              "german": "werden sie!",
               "spanish": "¡lleguen a ser!"
             }
           }
@@ -29498,7 +29498,7 @@
             "lui/lei": {
               "italian": "ricordi",
               "english": "remember!",
-              "german": "erinnere!",
+              "german": "erinnern Sie!",
               "spanish": "¡recuerde!"
             },
             "noi": {
@@ -29516,7 +29516,7 @@
             "loro": {
               "italian": "ricordino",
               "english": "remember!",
-              "german": "erinnern Sie!",
+              "german": "erinnern sie!",
               "spanish": "¡recuerden!"
             }
           }
@@ -29834,7 +29834,7 @@
             "lui/lei": {
               "italian": "chiami",
               "english": "call!",
-              "german": "rufe!",
+              "german": "rufen Sie!",
               "spanish": "¡llame!"
             },
             "noi": {
@@ -29852,7 +29852,7 @@
             "loro": {
               "italian": "chiamino",
               "english": "call!",
-              "german": "rufen Sie!",
+              "german": "rufen sie!",
               "spanish": "¡llamen!"
             }
           }
@@ -30170,7 +30170,7 @@
             "lui/lei": {
               "italian": "giochi",
               "english": "play!",
-              "german": "spiele!",
+              "german": "spielen Sie!",
               "spanish": "¡juegue!"
             },
             "noi": {
@@ -30188,7 +30188,7 @@
             "loro": {
               "italian": "giocano",
               "english": "play!",
-              "german": "spielen Sie!",
+              "german": "spielen sie!",
               "spanish": "¡jueguen!"
             }
           }
@@ -30506,7 +30506,7 @@
             "lui/lei": {
               "italian": "studi",
               "english": "study!",
-              "german": "studier!",
+              "german": "studieren Sie!",
               "spanish": "¡estudie!"
             },
             "noi": {
@@ -30524,7 +30524,7 @@
             "loro": {
               "italian": "studino",
               "english": "study!",
-              "german": "studieren Sie!",
+              "german": "studieren sie!",
               "spanish": "¡estudien!"
             }
           }
@@ -30842,7 +30842,7 @@
             "lui/lei": {
               "italian": "impari",
               "english": "learn!",
-              "german": "lerne!",
+              "german": "lernen Sie!",
               "spanish": "¡aprenda!"
             },
             "noi": {
@@ -30860,7 +30860,7 @@
             "loro": {
               "italian": "imparino",
               "english": "learn!",
-              "german": "lernen Sie!",
+              "german": "lernen sie!",
               "spanish": "¡aprendan!"
             }
           }
@@ -31178,7 +31178,7 @@
             "lui/lei": {
               "italian": "senta",
               "english": "feel!",
-              "german": "fühle!",
+              "german": "fühlen Sie!",
               "spanish": "¡sienta!"
             },
             "noi": {
@@ -31196,7 +31196,7 @@
             "loro": {
               "italian": "sentano",
               "english": "feel!",
-              "german": "fühlen Sie!",
+              "german": "fühlen sie!",
               "spanish": "¡sientan!"
             }
           }
@@ -31516,7 +31516,7 @@
             "lui/lei": {
               "italian": "decida",
               "english": "decide!",
-              "german": "entscheide!",
+              "german": "entscheiden Sie!",
               "spanish": "¡decida!"
             },
             "noi": {
@@ -31534,7 +31534,7 @@
             "loro": {
               "italian": "decidano",
               "english": "decide!",
-              "german": "entscheiden Sie!",
+              "german": "entscheiden sie!",
               "spanish": "¡decidan!"
             }
           }
@@ -31852,7 +31852,7 @@
             "lui/lei": {
               "italian": "odia",
               "english": "hate!",
-              "german": "hasse!",
+              "german": "hassen Sie!",
               "spanish": "¡odie!"
             },
             "noi": {
@@ -31870,7 +31870,7 @@
             "loro": {
               "italian": "odino",
               "english": "hate!",
-              "german": "hassen Sie!",
+              "german": "hassen sie!",
               "spanish": "¡odien!"
             }
           }
@@ -32188,7 +32188,7 @@
             "lui/lei": {
               "italian": "lavi",
               "english": "wash!",
-              "german": "wasche!",
+              "german": "waschen Sie!",
               "spanish": "¡lave!"
             },
             "noi": {
@@ -32206,7 +32206,7 @@
             "loro": {
               "italian": "lavino",
               "english": "wash!",
-              "german": "waschen Sie!",
+              "german": "waschen sie!",
               "spanish": "¡laven!"
             }
           }
@@ -32525,7 +32525,7 @@
             "lui/lei": {
               "italian": "ripari",
               "english": "repair!",
-              "german": "repariere!",
+              "german": "reparieren Sie!",
               "spanish": "¡repare!"
             },
             "noi": {
@@ -32543,7 +32543,7 @@
             "loro": {
               "italian": "riparino",
               "english": "repair!",
-              "german": "reparieren Sie!",
+              "german": "reparieren sie!",
               "spanish": "¡reparen!"
             }
           }
@@ -32861,7 +32861,7 @@
             "lui/lei": {
               "italian": "provi",
               "english": "try!",
-              "german": "versuche!",
+              "german": "versuchen Sie!",
               "spanish": "¡pruebe!"
             },
             "noi": {
@@ -32879,7 +32879,7 @@
             "loro": {
               "italian": "provino",
               "english": "try!",
-              "german": "versuchen Sie!",
+              "german": "versuchen sie!",
               "spanish": "¡prueben!"
             }
           }
@@ -33197,7 +33197,7 @@
             "lui/lei": {
               "italian": "usi",
               "english": "use!",
-              "german": "benutze!",
+              "german": "benutzen Sie!",
               "spanish": "¡use!"
             },
             "noi": {
@@ -33215,7 +33215,7 @@
             "loro": {
               "italian": "usino",
               "english": "use!",
-              "german": "benutzen Sie!",
+              "german": "benutzen sie!",
               "spanish": "¡usen!"
             }
           }
@@ -33533,7 +33533,7 @@
             "lui/lei": {
               "italian": "unisca",
               "english": "unite!",
-              "german": "vereinige!",
+              "german": "vereinigen Sie!",
               "spanish": "¡una!"
             },
             "noi": {
@@ -33551,7 +33551,7 @@
             "loro": {
               "italian": "uniscano",
               "english": "unite!",
-              "german": "vereinigen Sie!",
+              "german": "vereinigen sie!",
               "spanish": "¡unan!"
             }
           }
@@ -33872,7 +33872,7 @@
             "lui/lei": {
               "italian": "succeda",
               "english": "happen!",
-              "german": "geschehe!",
+              "german": "geschehen Sie!",
               "spanish": "¡suceda!"
             },
             "noi": {
@@ -33890,7 +33890,7 @@
             "loro": {
               "italian": "succedano",
               "english": "happen!",
-              "german": "geschehen Sie!",
+              "german": "geschehen sie!",
               "spanish": "¡sucedan!"
             }
           }
@@ -34208,7 +34208,7 @@
             "lui/lei": {
               "italian": "aiuti",
               "english": "help!",
-              "german": "helfe!",
+              "german": "helfen Sie!",
               "spanish": "¡ayude!"
             },
             "noi": {
@@ -34226,7 +34226,7 @@
             "loro": {
               "italian": "aiutino",
               "english": "help!",
-              "german": "helfen Sie!",
+              "german": "helfen sie!",
               "spanish": "¡ayuden!"
             }
           }
@@ -34544,7 +34544,7 @@
             "lui/lei": {
               "italian": "riceva",
               "english": "receive!",
-              "german": "erhalte!",
+              "german": "erhalten Sie!",
               "spanish": "¡reciba!"
             },
             "noi": {
@@ -34562,7 +34562,7 @@
             "loro": {
               "italian": "ricevano",
               "english": "receive!",
-              "german": "erhalten Sie!",
+              "german": "erhalten sie!",
               "spanish": "¡reciban!"
             }
           }
@@ -34882,7 +34882,7 @@
             "lui/lei": {
               "italian": "indichi",
               "english": "indicate!",
-              "german": "zeige an!",
+              "german": "zeigen Sie an!",
               "spanish": "¡indique!"
             },
             "noi": {
@@ -34900,7 +34900,7 @@
             "loro": {
               "italian": "indichino",
               "english": "indicate!",
-              "german": "zeigen Sie an!",
+              "german": "zeigen sie an!",
               "spanish": "¡indiquen!"
             }
           }
@@ -35220,7 +35220,7 @@
             "lui/lei": {
               "italian": "colpisca",
               "english": "hit!",
-              "german": "treffe!",
+              "german": "treffen Sie!",
               "spanish": "¡golpee!"
             },
             "noi": {
@@ -35238,7 +35238,7 @@
             "loro": {
               "italian": "colpiscano",
               "english": "hit!",
-              "german": "treffen Sie!",
+              "german": "treffen sie!",
               "spanish": "¡golpeen!"
             }
           }
@@ -35556,7 +35556,7 @@
             "lui/lei": {
               "italian": "fermi",
               "english": "stop!",
-              "german": "halte an!",
+              "german": "halten Sie an!",
               "spanish": "¡pare!"
             },
             "noi": {
@@ -35574,7 +35574,7 @@
             "loro": {
               "italian": "fermino",
               "english": "stop!",
-              "german": "halten Sie an!",
+              "german": "halten sie an!",
               "spanish": "¡paren!"
             }
           }
@@ -35892,7 +35892,7 @@
             "lui/lei": {
               "italian": "guidi",
               "english": "drive!",
-              "german": "fahre!",
+              "german": "fahren Sie!",
               "spanish": "¡conduzca!"
             },
             "noi": {
@@ -35910,7 +35910,7 @@
             "loro": {
               "italian": "guidino",
               "english": "drive!",
-              "german": "fahren Sie!",
+              "german": "fahren sie!",
               "spanish": "¡conduzcan!"
             }
           }
@@ -36228,7 +36228,7 @@
             "lui/lei": {
               "italian": "voti",
               "english": "vote!",
-              "german": "wähle!",
+              "german": "wählen Sie!",
               "spanish": "¡vote!"
             },
             "noi": {
@@ -36246,7 +36246,7 @@
             "loro": {
               "italian": "votino",
               "english": "vote!",
-              "german": "wählen Sie!",
+              "german": "wählen sie!",
               "spanish": "¡voten!"
             }
           }
@@ -36565,7 +36565,7 @@
             "lui/lei": {
               "italian": "nevichi",
               "english": "snow!",
-              "german": "schneie!",
+              "german": "schneien Sie!",
               "spanish": "¡nieve!"
             },
             "noi": {
@@ -36583,7 +36583,7 @@
             "loro": {
               "italian": "nevichino",
               "english": "snow!",
-              "german": "schneien Sie!",
+              "german": "schneien sie!",
               "spanish": "¡nieven!"
             }
           }
@@ -36902,7 +36902,7 @@
             "lui/lei": {
               "italian": "piova",
               "english": "rain!",
-              "german": "regne!",
+              "german": "regnen Sie!",
               "spanish": "¡llueva!"
             },
             "noi": {
@@ -36920,7 +36920,7 @@
             "loro": {
               "italian": "piovano",
               "english": "rain!",
-              "german": "regnen Sie!",
+              "german": "regnen sie!",
               "spanish": "¡lluevan!"
             }
           }
@@ -37241,7 +37241,7 @@
             "lui/lei": {
               "italian": "arda",
               "english": "burn!",
-              "german": "brenne!",
+              "german": "brennen Sie!",
               "spanish": "¡arda!"
             },
             "noi": {
@@ -37259,7 +37259,7 @@
             "loro": {
               "italian": "ardino",
               "english": "burn!",
-              "german": "brennen Sie!",
+              "german": "brennen sie!",
               "spanish": "¡ardan!"
             }
           }
@@ -37580,7 +37580,7 @@
             "lui/lei": {
               "italian": "dolga",
               "english": "hurt!",
-              "german": "schmerze!",
+              "german": "schmerzen Sie!",
               "spanish": "¡duela!"
             },
             "noi": {
@@ -37598,7 +37598,7 @@
             "loro": {
               "italian": "dolgano",
               "english": "hurt!",
-              "german": "schmerzen Sie!",
+              "german": "schmerzen sie!",
               "spanish": "¡duelan!"
             }
           }
@@ -37917,7 +37917,7 @@
             "lui/lei": {
               "italian": "inizia",
               "english": "begin!",
-              "german": "beginne!",
+              "german": "beginnen Sie!",
               "spanish": "¡empiece!"
             },
             "noi": {
@@ -37935,7 +37935,7 @@
             "loro": {
               "italian": "inizino",
               "english": "begin!",
-              "german": "beginnen Sie!",
+              "german": "beginnen sie!",
               "spanish": "¡empiecen!"
             }
           }
@@ -38254,7 +38254,7 @@
             "lui/lei": {
               "italian": "termini",
               "english": "finish!",
-              "german": "beende!",
+              "german": "beenden Sie!",
               "spanish": "¡termine!"
             },
             "noi": {
@@ -38272,7 +38272,7 @@
             "loro": {
               "italian": "terminino",
               "english": "finish!",
-              "german": "beenden Sie!",
+              "german": "beenden sie!",
               "spanish": "¡terminen!"
             }
           }
@@ -38592,7 +38592,7 @@
             "lui/lei": {
               "italian": "coniuga",
               "english": "conjugate!",
-              "german": "konjugiere!",
+              "german": "konjugieren Sie!",
               "spanish": "¡conjugue!"
             },
             "noi": {
@@ -38610,7 +38610,7 @@
             "loro": {
               "italian": "coniughino",
               "english": "conjugate!",
-              "german": "konjugieren Sie!",
+              "german": "konjugieren sie!",
               "spanish": "¡conjuguen!"
             }
           }
@@ -38930,7 +38930,7 @@
             "lui/lei": {
               "italian": "naviga",
               "english": "navigate!",
-              "german": "navigiere!",
+              "german": "navigieren Sie!",
               "spanish": "¡navegue!"
             },
             "noi": {
@@ -38948,7 +38948,7 @@
             "loro": {
               "italian": "navighino",
               "english": "navigate!",
-              "german": "navigieren Sie!",
+              "german": "navigieren sie!",
               "spanish": "¡naveguen!"
             }
           }
@@ -39269,7 +39269,7 @@
             "lui/lei": {
               "italian": "secca",
               "english": "dry!",
-              "german": "trockne!",
+              "german": "trocknen Sie!",
               "spanish": "¡seque!"
             },
             "noi": {
@@ -39287,7 +39287,7 @@
             "loro": {
               "italian": "secchino",
               "english": "dry!",
-              "german": "trocknen Sie!",
+              "german": "trocknen sie!",
               "spanish": "¡sequen!"
             }
           }
@@ -39608,7 +39608,7 @@
             "lui/lei": {
               "italian": "stanca",
               "english": "tire!",
-              "german": "ermüde!",
+              "german": "ermüden Sie!",
               "spanish": "¡canse!"
             },
             "noi": {
@@ -39626,7 +39626,7 @@
             "loro": {
               "italian": "stanchino",
               "english": "tire!",
-              "german": "ermüden Sie!",
+              "german": "ermüden sie!",
               "spanish": "¡cansen!"
             }
           }
@@ -39944,7 +39944,7 @@
             "lui/lei": {
               "italian": "canti",
               "english": "sing!",
-              "german": "sing!",
+              "german": "singen Sie!",
               "spanish": "¡cante!"
             },
             "noi": {
@@ -39962,7 +39962,7 @@
             "loro": {
               "italian": "cantino",
               "english": "sing!",
-              "german": "singen Sie!",
+              "german": "singen sie!",
               "spanish": "¡canten!"
             }
           }
@@ -40282,7 +40282,7 @@
             "lui/lei": {
               "italian": "baci",
               "english": "kiss!",
-              "german": "küsse!",
+              "german": "küssen Sie!",
               "spanish": "¡bese!"
             },
             "noi": {
@@ -40300,7 +40300,7 @@
             "loro": {
               "italian": "bacino",
               "english": "kiss!",
-              "german": "küssen Sie!",
+              "german": "küssen sie!",
               "spanish": "¡besen!"
             }
           }
@@ -40618,7 +40618,7 @@
             "lui/lei": {
               "italian": "balli",
               "english": "dance!",
-              "german": "tanze!",
+              "german": "tanzen Sie!",
               "spanish": "¡baile!"
             },
             "noi": {
@@ -40636,7 +40636,7 @@
             "loro": {
               "italian": "ballino",
               "english": "dance!",
-              "german": "tanzen Sie!",
+              "german": "tanzen sie!",
               "spanish": "¡bailen!"
             }
           }
@@ -40954,7 +40954,7 @@
             "lui/lei": {
               "italian": "costi",
               "english": "cost!",
-              "german": "koste!",
+              "german": "kosten Sie!",
               "spanish": "¡cueste!"
             },
             "noi": {
@@ -40972,7 +40972,7 @@
             "loro": {
               "italian": "costino",
               "english": "cost!",
-              "german": "kosten Sie!",
+              "german": "kosten sie!",
               "spanish": "¡cuesten!"
             }
           }
@@ -41290,7 +41290,7 @@
             "lui/lei": {
               "italian": "cucini",
               "english": "cook!",
-              "german": "koche!",
+              "german": "kochen Sie!",
               "spanish": "¡cocine!"
             },
             "noi": {
@@ -41308,7 +41308,7 @@
             "loro": {
               "italian": "cucinino",
               "english": "cook!",
-              "german": "kochen Sie!",
+              "german": "kochen sie!",
               "spanish": "¡cocinen!"
             }
           }
@@ -41626,7 +41626,7 @@
             "lui/lei": {
               "italian": "cammini",
               "english": "walk!",
-              "german": "gehe!",
+              "german": "gehen Sie!",
               "spanish": "¡camine!"
             },
             "noi": {
@@ -41644,7 +41644,7 @@
             "loro": {
               "italian": "camminino",
               "english": "walk!",
-              "german": "gehen Sie!",
+              "german": "gehen sie!",
               "spanish": "¡caminen!"
             }
           }
@@ -41963,7 +41963,7 @@
             "lui/lei": {
               "italian": "continui",
               "english": "continue!",
-              "german": "setze fort!",
+              "german": "setzen Sie fort!",
               "spanish": "¡continúe!"
             },
             "noi": {
@@ -41981,7 +41981,7 @@
             "loro": {
               "italian": "continuino",
               "english": "continue!",
-              "german": "setzen Sie fort!",
+              "german": "setzen sie fort!",
               "spanish": "¡continúen!"
             }
           }
@@ -42301,7 +42301,7 @@
             "lui/lei": {
               "italian": "dimentichi",
               "english": "forget!",
-              "german": "vergesse!",
+              "german": "vergessen Sie!",
               "spanish": "¡olvide!"
             },
             "noi": {
@@ -42319,7 +42319,7 @@
             "loro": {
               "italian": "dimentichino",
               "english": "forget!",
-              "german": "vergessen Sie!",
+              "german": "vergessen sie!",
               "spanish": "¡olviden!"
             }
           }
@@ -42637,7 +42637,7 @@
             "lui/lei": {
               "italian": "domandi",
               "english": "ask!",
-              "german": "frage!",
+              "german": "fragen Sie!",
               "spanish": "¡pregunte!"
             },
             "noi": {
@@ -42655,7 +42655,7 @@
             "loro": {
               "italian": "domandino",
               "english": "ask!",
-              "german": "fragen Sie!",
+              "german": "fragen sie!",
               "spanish": "¡pregunten!"
             }
           }
@@ -42973,7 +42973,7 @@
             "lui/lei": {
               "italian": "dorma",
               "english": "sleep!",
-              "german": "schlafe!",
+              "german": "schlafen Sie!",
               "spanish": "¡duerma!"
             },
             "noi": {
@@ -42991,7 +42991,7 @@
             "loro": {
               "italian": "dormano",
               "english": "sleep!",
-              "german": "schlafen Sie!",
+              "german": "schlafen sie!",
               "spanish": "¡duerman!"
             }
           }
@@ -43309,7 +43309,7 @@
             "lui/lei": {
               "italian": "nuoti",
               "english": "swim!",
-              "german": "schwimme!",
+              "german": "schwimmen Sie!",
               "spanish": "¡nade!"
             },
             "noi": {
@@ -43327,7 +43327,7 @@
             "loro": {
               "italian": "nuotino",
               "english": "swim!",
-              "german": "schwimmen Sie!",
+              "german": "schwimmen sie!",
               "spanish": "¡naden!"
             }
           }
@@ -43645,7 +43645,7 @@
             "lui/lei": {
               "italian": "visiti",
               "english": "visit!",
-              "german": "besuche!",
+              "german": "besuchen Sie!",
               "spanish": "¡visite!"
             },
             "noi": {
@@ -43663,7 +43663,7 @@
             "loro": {
               "italian": "visitino",
               "english": "visit!",
-              "german": "besuchen Sie!",
+              "german": "besuchen sie!",
               "spanish": "¡visiten!"
             }
           }
@@ -43981,7 +43981,7 @@
             "lui/lei": {
               "italian": "vieti",
               "english": "forbid!",
-              "german": "verbiete!",
+              "german": "verbieten Sie!",
               "spanish": "¡prohíba!"
             },
             "noi": {
@@ -43999,7 +43999,7 @@
             "loro": {
               "italian": "vietino",
               "english": "forbid!",
-              "german": "verbieten Sie!",
+              "german": "verbieten sie!",
               "spanish": "¡prohíban!"
             }
           }
@@ -44319,7 +44319,7 @@
             "lui/lei": {
               "italian": "viaggi",
               "english": "travel!",
-              "german": "reise!",
+              "german": "reisen Sie!",
               "spanish": "¡viaje!"
             },
             "noi": {
@@ -44337,7 +44337,7 @@
             "loro": {
               "italian": "viaggino",
               "english": "travel!",
-              "german": "reisen Sie!",
+              "german": "reisen sie!",
               "spanish": "¡viajen!"
             }
           }
@@ -44655,7 +44655,7 @@
             "lui/lei": {
               "italian": "venda",
               "english": "sell!",
-              "german": "verkaufe!",
+              "german": "verkaufen Sie!",
               "spanish": "¡venda!"
             },
             "noi": {
@@ -44673,7 +44673,7 @@
             "loro": {
               "italian": "vendano",
               "english": "sell!",
-              "german": "verkaufen Sie!",
+              "german": "verkaufen sie!",
               "spanish": "¡vendan!"
             }
           }
@@ -44991,7 +44991,7 @@
             "lui/lei": {
               "italian": "sposi",
               "english": "marry!",
-              "german": "heirate!",
+              "german": "heiraten Sie!",
               "spanish": "¡case!"
             },
             "noi": {
@@ -45009,7 +45009,7 @@
             "loro": {
               "italian": "sposino",
               "english": "marry!",
-              "german": "heiraten Sie!",
+              "german": "heiraten sie!",
               "spanish": "¡casen!"
             }
           }
@@ -45327,7 +45327,7 @@
             "lui/lei": {
               "italian": "regali",
               "english": "give as a gift!",
-              "german": "schenke!",
+              "german": "schenken Sie!",
               "spanish": "¡regale!"
             },
             "noi": {
@@ -45345,7 +45345,7 @@
             "loro": {
               "italian": "regalino",
               "english": "give as a gift!",
-              "german": "schenken Sie!",
+              "german": "schenken sie!",
               "spanish": "¡regalen!"
             }
           }
@@ -45663,7 +45663,7 @@
             "lui/lei": {
               "italian": "spenda",
               "english": "spend!",
-              "german": "gebe aus!",
+              "german": "geben Sie aus!",
               "spanish": "¡gaste!"
             },
             "noi": {
@@ -45681,7 +45681,7 @@
             "loro": {
               "italian": "spendano",
               "english": "spend!",
-              "german": "geben Sie aus!",
+              "german": "geben sie aus!",
               "spanish": "¡gasten!"
             }
           }
@@ -45999,7 +45999,7 @@
             "lui/lei": {
               "italian": "parta",
               "english": "leave!",
-              "german": "fahre ab!",
+              "german": "fahren Sie ab!",
               "spanish": "¡parta!"
             },
             "noi": {
@@ -46017,7 +46017,7 @@
             "loro": {
               "italian": "partano",
               "english": "leave!",
-              "german": "fahren Sie ab!",
+              "german": "fahren sie ab!",
               "spanish": "¡partan!"
             }
           }

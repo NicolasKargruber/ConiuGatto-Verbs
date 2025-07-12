@@ -1,7 +1,6 @@
 import json
 from datetime import datetime
 from pathlib import Path
-import sys
 
 supported_languages = ["italian", "english", "german"]
 #supported_languages = ["italian", "english", "german", "spanish"]
