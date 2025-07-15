@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 2.4,
-    "last_updated": "2025-07-12 14:52:22",
+    "version": 2.5,
+    "last_updated": "2025-07-15 16:33:33",
     "min_app_version": "0.3.1",
     "languages": [
       "italian",
@@ -46034,6 +46034,680 @@
         "english": "leaving",
         "german": "abfahrend",
         "spanish": "partiendo"
+      }
+    },
+    {
+      "id": "scusare",
+      "infinitive": {
+        "italian": "scusare",
+        "english": "to excuse",
+        "german": "entschuldigen",
+        "spanish": "disculpar"
+      },
+      "regularity": "regular",
+      "irregularities": [],
+      "auxiliaries": [
+        "avere"
+      ],
+      "german_auxiliary": "haben",
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "scuso",
+              "english": "excuse",
+              "german": "entschuldige",
+              "spanish": "disculpo"
+            },
+            "tu": {
+              "italian": "scusi",
+              "english": "excuse",
+              "german": "entschuldigst",
+              "spanish": "disculpas"
+            },
+            "lui/lei": {
+              "italian": "scusa",
+              "english": "excuses",
+              "german": "entschuldigt",
+              "spanish": "disculpa"
+            },
+            "noi": {
+              "italian": "scusiamo",
+              "english": "excuse",
+              "german": "entschuldigen",
+              "spanish": "disculpamos"
+            },
+            "voi": {
+              "italian": "scusate",
+              "english": "excuse",
+              "german": "entschuldigt",
+              "spanish": "disculpáis"
+            },
+            "loro": {
+              "italian": "scusano",
+              "english": "excuse",
+              "german": "entschuldigen",
+              "spanish": "disculpan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "scusavo",
+              "english": "used to excuse",
+              "german": "entschuldigte",
+              "spanish": "disculpaba"
+            },
+            "tu": {
+              "italian": "scusavi",
+              "english": "used to excuse",
+              "german": "entschuldigtest",
+              "spanish": "disculpabas"
+            },
+            "lui/lei": {
+              "italian": "scusava",
+              "english": "used to excuse",
+              "german": "entschuldigte",
+              "spanish": "disculpaba"
+            },
+            "noi": {
+              "italian": "scusavamo",
+              "english": "used to excuse",
+              "german": "entschuldigten",
+              "spanish": "disculpábamos"
+            },
+            "voi": {
+              "italian": "scusavate",
+              "english": "used to excuse",
+              "german": "entschuldigtet",
+              "spanish": "disculpabais"
+            },
+            "loro": {
+              "italian": "scusavano",
+              "english": "used to excuse",
+              "german": "entschuldigten",
+              "spanish": "disculpaban"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "scusai",
+              "english": "excused",
+              "german": "entschuldigte",
+              "spanish": "disculpé"
+            },
+            "tu": {
+              "italian": "scusasti",
+              "english": "excused",
+              "german": "entschuldigtest",
+              "spanish": "disculpaste"
+            },
+            "lui/lei": {
+              "italian": "scusò",
+              "english": "excused",
+              "german": "entschuldigte",
+              "spanish": "disculpó"
+            },
+            "noi": {
+              "italian": "scusammo",
+              "english": "excused",
+              "german": "entschuldigten",
+              "spanish": "disculpamos"
+            },
+            "voi": {
+              "italian": "scusaste",
+              "english": "excused",
+              "german": "entschuldigtet",
+              "spanish": "disculpasteis"
+            },
+            "loro": {
+              "italian": "scusarono",
+              "english": "excused",
+              "german": "entschuldigten",
+              "spanish": "disculparon"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "scuserò",
+              "english": "will excuse",
+              "german": "werde entschuldigen",
+              "spanish": "disculparé"
+            },
+            "tu": {
+              "italian": "scuserai",
+              "english": "will excuse",
+              "german": "wirst entschuldigen",
+              "spanish": "disculparás"
+            },
+            "lui/lei": {
+              "italian": "scuserà",
+              "english": "will excuse",
+              "german": "wird entschuldigen",
+              "spanish": "disculpará"
+            },
+            "noi": {
+              "italian": "scuseremo",
+              "english": "will excuse",
+              "german": "werden entschuldigen",
+              "spanish": "disculparemos"
+            },
+            "voi": {
+              "italian": "scuserete",
+              "english": "will excuse",
+              "german": "werdet entschuldigen",
+              "spanish": "disculparéis"
+            },
+            "loro": {
+              "italian": "scuseranno",
+              "english": "will excuse",
+              "german": "werden entschuldigen",
+              "spanish": "disculparán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "scusi",
+              "english": "excuse",
+              "german": "entschuldige",
+              "spanish": "disculpe"
+            },
+            "tu": {
+              "italian": "scusi",
+              "english": "excuse",
+              "german": "entschuldigst",
+              "spanish": "disculpes"
+            },
+            "lui/lei": {
+              "italian": "scusi",
+              "english": "excuse",
+              "german": "entschuldige",
+              "spanish": "disculpe"
+            },
+            "noi": {
+              "italian": "scusiamo",
+              "english": "excuse",
+              "german": "entschuldigen",
+              "spanish": "disculpemos"
+            },
+            "voi": {
+              "italian": "scusiate",
+              "english": "excuse",
+              "german": "entschuldigt",
+              "spanish": "disculpéis"
+            },
+            "loro": {
+              "italian": "scusino",
+              "english": "excuse",
+              "german": "entschuldigen",
+              "spanish": "disculpen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "scusassi",
+              "english": "excused",
+              "german": "entschuldigte",
+              "spanish": "disculpara"
+            },
+            "tu": {
+              "italian": "scusassi",
+              "english": "excused",
+              "german": "entschuldigtest",
+              "spanish": "disculparas"
+            },
+            "lui/lei": {
+              "italian": "scusasse",
+              "english": "excused",
+              "german": "entschuldigte",
+              "spanish": "disculpara"
+            },
+            "noi": {
+              "italian": "scusassimo",
+              "english": "excused",
+              "german": "entschuldigten",
+              "spanish": "disculpáramos"
+            },
+            "voi": {
+              "italian": "scusaste",
+              "english": "excused",
+              "german": "entschuldigtet",
+              "spanish": "disculparais"
+            },
+            "loro": {
+              "italian": "scusassero",
+              "english": "excused",
+              "german": "entschuldigten",
+              "spanish": "disculparan"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "scuserei",
+              "english": "would excuse",
+              "german": "würde entschuldigen",
+              "spanish": "disculparía"
+            },
+            "tu": {
+              "italian": "scuseresti",
+              "english": "would excuse",
+              "german": "würdest entschuldigen",
+              "spanish": "disculparías"
+            },
+            "lui/lei": {
+              "italian": "scuserebbe",
+              "english": "would excuse",
+              "german": "würde entschuldigen",
+              "spanish": "disculparía"
+            },
+            "noi": {
+              "italian": "scuseremmo",
+              "english": "would excuse",
+              "german": "würden entschuldigen",
+              "spanish": "disculparíamos"
+            },
+            "voi": {
+              "italian": "scusereste",
+              "english": "would excuse",
+              "german": "würdet entschuldigen",
+              "spanish": "disculparíais"
+            },
+            "loro": {
+              "italian": "scuserebbero",
+              "english": "would excuse",
+              "german": "würden entschuldigen",
+              "spanish": "disculparían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "scusa",
+              "english": "excuse!",
+              "german": "entschuldige!",
+              "spanish": "¡disculpa!"
+            },
+            "lui/lei": {
+              "italian": "scusi",
+              "english": "excuse!",
+              "german": "entschuldigen Sie!",
+              "spanish": "¡disculpe!"
+            },
+            "noi": {
+              "italian": "scusiamo",
+              "english": "let's excuse!",
+              "german": "entschuldigen wir!",
+              "spanish": "¡disculpemos!"
+            },
+            "voi": {
+              "italian": "scusate",
+              "english": "excuse!",
+              "german": "entschuldigt!",
+              "spanish": "¡disculpad!"
+            },
+            "loro": {
+              "italian": "scusino",
+              "english": "excuse!",
+              "german": "entschuldigen sie!",
+              "spanish": "¡disculpen!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "scusato",
+        "english": "excused",
+        "german": "entschuldigt",
+        "spanish": "disculpado"
+      },
+      "gerundio_presente": {
+        "italian": "scusando",
+        "english": "excusing",
+        "german": "entschuldigend",
+        "spanish": "disculpando"
+      }
+    },
+    {
+      "id": "cadere",
+      "infinitive": {
+        "italian": "cadere",
+        "english": "to fall",
+        "german": "fallen",
+        "spanish": "caer"
+      },
+      "regularity": "irregular",
+      "irregularities": [
+        "stem change"
+      ],
+      "auxiliaries": [
+        "essere"
+      ],
+      "german_auxiliary": "sein",
+      "conjugations": {
+        "indicativo": {
+          "presente": {
+            "io": {
+              "italian": "cado",
+              "english": "fall",
+              "german": "falle",
+              "spanish": "caigo"
+            },
+            "tu": {
+              "italian": "cadi",
+              "english": "fall",
+              "german": "fällst",
+              "spanish": "caes"
+            },
+            "lui/lei": {
+              "italian": "cade",
+              "english": "falls",
+              "german": "fällt",
+              "spanish": "cae"
+            },
+            "noi": {
+              "italian": "cadiamo",
+              "english": "fall",
+              "german": "fallen",
+              "spanish": "caemos"
+            },
+            "voi": {
+              "italian": "cadete",
+              "english": "fall",
+              "german": "fallt",
+              "spanish": "caéis"
+            },
+            "loro": {
+              "italian": "cadono",
+              "english": "fall",
+              "german": "fallen",
+              "spanish": "caen"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "cadevo",
+              "english": "used to fall",
+              "german": "fiel",
+              "spanish": "caía"
+            },
+            "tu": {
+              "italian": "cadevi",
+              "english": "used to fall",
+              "german": "fielst",
+              "spanish": "caías"
+            },
+            "lui/lei": {
+              "italian": "cadeva",
+              "english": "used to fall",
+              "german": "fiel",
+              "spanish": "caía"
+            },
+            "noi": {
+              "italian": "cadevamo",
+              "english": "used to fall",
+              "german": "fielen",
+              "spanish": "caíamos"
+            },
+            "voi": {
+              "italian": "cadevate",
+              "english": "used to fall",
+              "german": "fielt",
+              "spanish": "caíais"
+            },
+            "loro": {
+              "italian": "cadevano",
+              "english": "used to fall",
+              "german": "fielen",
+              "spanish": "caían"
+            }
+          },
+          "passato_remoto": {
+            "io": {
+              "italian": "caddi",
+              "english": "fell",
+              "german": "fiel",
+              "spanish": "caí"
+            },
+            "tu": {
+              "italian": "cadesti",
+              "english": "fell",
+              "german": "fielst",
+              "spanish": "caíste"
+            },
+            "lui/lei": {
+              "italian": "cadde",
+              "english": "fell",
+              "german": "fiel",
+              "spanish": "cayó"
+            },
+            "noi": {
+              "italian": "cademmo",
+              "english": "fell",
+              "german": "fielen",
+              "spanish": "caímos"
+            },
+            "voi": {
+              "italian": "cadeste",
+              "english": "fell",
+              "german": "fielt",
+              "spanish": "caísteis"
+            },
+            "loro": {
+              "italian": "caddero",
+              "english": "fell",
+              "german": "fielen",
+              "spanish": "cayeron"
+            }
+          },
+          "futuro_semplice": {
+            "io": {
+              "italian": "cadrò",
+              "english": "will fall",
+              "german": "werde fallen",
+              "spanish": "caeré"
+            },
+            "tu": {
+              "italian": "cadrai",
+              "english": "will fall",
+              "german": "wirst fallen",
+              "spanish": "caerás"
+            },
+            "lui/lei": {
+              "italian": "cadrà",
+              "english": "will fall",
+              "german": "wird fallen",
+              "spanish": "caerá"
+            },
+            "noi": {
+              "italian": "cadremo",
+              "english": "will fall",
+              "german": "werden fallen",
+              "spanish": "caeremos"
+            },
+            "voi": {
+              "italian": "cadrete",
+              "english": "will fall",
+              "german": "werdet fallen",
+              "spanish": "caeréis"
+            },
+            "loro": {
+              "italian": "cadranno",
+              "english": "will fall",
+              "german": "werden fallen",
+              "spanish": "caerán"
+            }
+          }
+        },
+        "congiuntivo": {
+          "presente": {
+            "io": {
+              "italian": "cada",
+              "english": "fall",
+              "german": "falle",
+              "spanish": "caiga"
+            },
+            "tu": {
+              "italian": "cada",
+              "english": "fall",
+              "german": "fallest",
+              "spanish": "caigas"
+            },
+            "lui/lei": {
+              "italian": "cada",
+              "english": "fall",
+              "german": "falle",
+              "spanish": "caiga"
+            },
+            "noi": {
+              "italian": "cadiamo",
+              "english": "fall",
+              "german": "fallen",
+              "spanish": "caigamos"
+            },
+            "voi": {
+              "italian": "cadiate",
+              "english": "fall",
+              "german": "fallet",
+              "spanish": "caigáis"
+            },
+            "loro": {
+              "italian": "cadano",
+              "english": "fall",
+              "german": "fallen",
+              "spanish": "caigan"
+            }
+          },
+          "imperfetto": {
+            "io": {
+              "italian": "cadessi",
+              "english": "fell",
+              "german": "fiele",
+              "spanish": "cayera"
+            },
+            "tu": {
+              "italian": "cadessi",
+              "english": "fell",
+              "german": "fielest",
+              "spanish": "cayeras"
+            },
+            "lui/lei": {
+              "italian": "cadesse",
+              "english": "fell",
+              "german": "fiele",
+              "spanish": "cayera"
+            },
+            "noi": {
+              "italian": "cadessimo",
+              "english": "fell",
+              "german": "fielen",
+              "spanish": "cayéramos"
+            },
+            "voi": {
+              "italian": "cadeste",
+              "english": "fell",
+              "german": "fielet",
+              "spanish": "cayerais"
+            },
+            "loro": {
+              "italian": "cadessero",
+              "english": "fell",
+              "german": "fielen",
+              "spanish": "cayeran"
+            }
+          }
+        },
+        "condizionale": {
+          "presente": {
+            "io": {
+              "italian": "cadrei",
+              "english": "would fall",
+              "german": "würde fallen",
+              "spanish": "caería"
+            },
+            "tu": {
+              "italian": "cadresti",
+              "english": "would fall",
+              "german": "würdest fallen",
+              "spanish": "caerías"
+            },
+            "lui/lei": {
+              "italian": "cadrebbe",
+              "english": "would fall",
+              "german": "würde fallen",
+              "spanish": "caería"
+            },
+            "noi": {
+              "italian": "cadremmo",
+              "english": "would fall",
+              "german": "würden fallen",
+              "spanish": "caeríamos"
+            },
+            "voi": {
+              "italian": "cadreste",
+              "english": "would fall",
+              "german": "würdet fallen",
+              "spanish": "caeríais"
+            },
+            "loro": {
+              "italian": "cadrebbero",
+              "english": "would fall",
+              "german": "würden fallen",
+              "spanish": "caerían"
+            }
+          }
+        },
+        "imperativo": {
+          "positivo": {
+            "io": null,
+            "tu": {
+              "italian": "cadi",
+              "english": "fall!",
+              "german": "fall!",
+              "spanish": "¡cae!"
+            },
+            "lui/lei": {
+              "italian": "cada",
+              "english": "fall!",
+              "german": "fallen Sie!",
+              "spanish": "¡caiga!"
+            },
+            "noi": {
+              "italian": "cadiamo",
+              "english": "let's fall!",
+              "german": "fallen wir!",
+              "spanish": "¡caigamos!"
+            },
+            "voi": {
+              "italian": "cadete",
+              "english": "fall!",
+              "german": "fallt!",
+              "spanish": "¡caed!"
+            },
+            "loro": {
+              "italian": "cadano",
+              "english": "fall!",
+              "german": "fallen sie!",
+              "spanish": "¡caigan!"
+            }
+          }
+        }
+      },
+      "participio_passato": {
+        "italian": "caduto",
+        "english": "fallen",
+        "german": "gefallen",
+        "spanish": "caído"
+      },
+      "gerundio_presente": {
+        "italian": "cadendo",
+        "english": "falling",
+        "german": "fallend",
+        "spanish": "cayendo"
       }
     }
   ]
