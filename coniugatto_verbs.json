@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 2.5,
-    "last_updated": "2025-07-15 16:33:33",
+    "version": 2.6,
+    "last_updated": "2026-02-05 15:30:00",
     "min_app_version": "0.3.1",
     "languages": [
       "italian",
@@ -5226,7 +5226,7 @@
               "spanish": "bebáis"
             },
             "loro": {
-              "italian": "bevanno",
+              "italian": "bevano",
               "english": "drink",
               "german": "trinken",
               "spanish": "beban"
@@ -5339,7 +5339,7 @@
               "spanish": "bebed"
             },
             "loro": {
-              "italian": "bevanno",
+              "italian": "bevano",
               "english": "drink!",
               "german": "trinken sie!",
               "spanish": "beban"
@@ -11354,7 +11354,7 @@
               "german": "übersetzet"
             },
             "loro": {
-              "italian": "tradurcano",
+              "italian": "traducano",
               "english": "translate",
               "german": "übersetzen"
             }
@@ -11450,7 +11450,7 @@
               "german": "übersetzt!"
             },
             "loro": {
-              "italian": "tradurcano",
+              "italian": "traducano",
               "english": "translate!",
               "german": "übersetzen sie!"
             }
@@ -28795,13 +28795,13 @@
               "spanish": "dejaría"
             },
             "noi": {
-              "italian": "lascerebbero",
+              "italian": "lasceremmo",
               "english": "would leave",
               "german": "würden lassen",
               "spanish": "dejaríamos"
             },
             "voi": {
-              "italian": "lascerebbe",
+              "italian": "lascereste",
               "english": "would leave",
               "german": "würdet lassen",
               "spanish": "dejaríais"
@@ -31763,13 +31763,13 @@
           },
           "imperfetto": {
             "io": {
-              "italian": "odiasse",
+              "italian": "odiassi",
               "english": "hated",
               "german": "hasste",
               "spanish": "odiara"
             },
             "tu": {
-              "italian": "odiasse",
+              "italian": "odiassi",
               "english": "hated",
               "german": "hasstest",
               "spanish": "odiaras"
@@ -31803,7 +31803,7 @@
         "condizionale": {
           "presente": {
             "io": {
-              "italian": "odierai",
+              "italian": "odierei",
               "english": "would hate",
               "german": "würde hassen",
               "spanish": "odiaría"
@@ -31833,7 +31833,7 @@
               "spanish": "odiaríais"
             },
             "loro": {
-              "italian": "odierrebbero",
+              "italian": "odierebbero",
               "english": "would hate",
               "german": "würden hassen",
               "spanish": "odiarían"
@@ -31850,7 +31850,7 @@
               "spanish": "¡odia!"
             },
             "lui/lei": {
-              "italian": "odia",
+              "italian": "odii",
               "english": "hate!",
               "german": "hassen Sie!",
               "spanish": "¡odie!"
@@ -31868,7 +31868,7 @@
               "spanish": "¡odiad!"
             },
             "loro": {
-              "italian": "odino",
+              "italian": "odiino",
               "english": "hate!",
               "german": "hassen sie!",
               "spanish": "¡odien!"
@@ -36522,7 +36522,7 @@
               "spanish": "nevaría"
             },
             "tu": {
-              "italian": "nevicherebbe",
+              "italian": "nevicheresti",
               "english": "would snow",
               "german": "würdest schneien",
               "spanish": "nevarías"
@@ -37216,7 +37216,7 @@
               "spanish": "arderíamos"
             },
             "voi": {
-              "italian": "ardeste",
+              "italian": "ardereste",
               "english": "would burn",
               "german": "würdet brennen",
               "spanish": "ardiríais"
@@ -38590,7 +38590,7 @@
               "spanish": "¡conjuga!"
             },
             "lui/lei": {
-              "italian": "coniuga",
+              "italian": "coniughi",
               "english": "conjugate!",
               "german": "konjugieren Sie!",
               "spanish": "¡conjugue!"
@@ -38928,7 +38928,7 @@
               "spanish": "¡navega!"
             },
             "lui/lei": {
-              "italian": "naviga",
+              "italian": "navighi",
               "english": "navigate!",
               "german": "navigieren Sie!",
               "spanish": "¡navegue!"
@@ -39267,7 +39267,7 @@
               "spanish": "¡seca!"
             },
             "lui/lei": {
-              "italian": "secca",
+              "italian": "secchi",
               "english": "dry!",
               "german": "trocknen Sie!",
               "spanish": "¡seque!"
@@ -40917,7 +40917,7 @@
               "spanish": "costarías"
             },
             "lui/lei": {
-              "italian": "costerrebbe",
+              "italian": "costerebbe",
               "english": "would cost",
               "german": "würde kosten",
               "spanish": "costaría"
@@ -40935,7 +40935,7 @@
               "spanish": "costaríais"
             },
             "loro": {
-              "italian": "costerrebbero",
+              "italian": "costerebbero",
               "english": "would cost",
               "german": "würden kosten",
               "spanish": "costarían"
