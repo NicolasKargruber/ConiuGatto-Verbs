@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 2.7,
-    "last_updated": "2026-02-05 16:08:00",
+    "version": 2.8,
+    "last_updated": "2026-02-05 16:12:00",
     "min_app_version": "0.3.1",
     "languages": [
       "italian",
@@ -37915,7 +37915,7 @@
               "spanish": "¡empieza!"
             },
             "lui/lei": {
-              "italian": "inizia",
+              "italian": "inizi",
               "english": "begin!",
               "german": "beginnen Sie!",
               "spanish": "¡empiece!"
