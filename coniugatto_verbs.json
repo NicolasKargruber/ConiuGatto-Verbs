@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 2.6,
-    "last_updated": "2026-02-05 15:30:00",
+    "version": 2.7,
+    "last_updated": "2026-02-05 16:08:00",
     "min_app_version": "0.3.1",
     "languages": [
       "italian",
@@ -37790,19 +37790,19 @@
         "congiuntivo": {
           "presente": {
             "io": {
-              "italian": "inizii",
+              "italian": "inizi",
               "english": "begin",
               "german": "beginne",
               "spanish": "empiece"
             },
             "tu": {
-              "italian": "inizii",
+              "italian": "inizi",
               "english": "begin",
               "german": "beginnst",
               "spanish": "empieces"
             },
             "lui/lei": {
-              "italian": "inizii",
+              "italian": "inizi",
               "english": "begins",
               "german": "beginnt",
               "spanish": "empiece"
