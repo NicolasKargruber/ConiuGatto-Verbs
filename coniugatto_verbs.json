@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 2.8,
-    "last_updated": "2026-02-05 16:12:00",
+    "version": 2.9,
+    "last_updated": "2026-03-16 12:17:00",
     "min_app_version": "0.3.1",
     "languages": [
       "italian",
@@ -6158,7 +6158,7 @@
               "german": "sterben"
             },
             "voi": {
-              "italian": "morite",
+              "italian": "moriate",
               "english": "die",
               "german": "sterbet"
             },
@@ -38489,7 +38489,7 @@
               "spanish": "conjugamos"
             },
             "voi": {
-              "italian": "coniugiate",
+              "italian": "coniughiate",
               "english": "conjugate",
               "german": "konjugiert",
               "spanish": "conjugáis"
